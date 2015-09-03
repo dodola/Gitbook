@@ -32,7 +32,7 @@
 另外，由于Android系统组件ActivityManager进行Activity调度时候本身涉及较多的计算，在低端机器上这个调度时长一度超过150ms，即便在部分高端机上也有超过100ms的情况。我们发现，通过Fragment代替Activity实现界面切换，能够解决因ActivityManager调度耗时较久的问题，并且如果进一步考虑，上述View缓存的问题实际就能够换成用Fragment实现解决，关于Fragment，简单引入介绍下：
 
     Fragment
-    Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列提供了support包支持。可以把Fragment想成Activity中的模块，这个模块有自己的布局，有自己的生命周期，单独处理自己的输入，在Activity运行的时候可以加载或者移除Fragment模块，同时可以把Fragment设计成可以在多个Activity中复用的模块，当开发的应用程序同时适用于平板电脑和手机时，可以利用Fragment实现灵活的布局，改善用户体验.
+    Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列提供了support包支持。可以把Fragment想成Activity中的模块，这个模块有自己的布局，有自己的生命周期，单独处理自己的输入，在Activity运行的时候可以加载或者移除Fragment模块，同时可以把Fragment设计成可以在多个Activity中复用的模块，当开发的应用程序同时适用于平板电脑和手机时，可以利用Fragment实现灵活的布局，改善用户体验。
 
     通过Fragment方式，我们把会话界面的实现进行了一次改造,如下图:
 
