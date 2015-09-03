@@ -1,5 +1,8 @@
 
-#[微信ANDROID客户端-会话速度提升70%的背后](1)
+#[微信ANDROID客户端-会话速度提升70%的背后][reflink]
+
+转载自：WeMobileDev
+---
 
 
 #背景
@@ -283,3 +286,10 @@ Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列
 *   我们会通过对每条SQL 涉及的Page数据及相应类型进行统计，以区分查询语句设计的好坏，解决用explain query plan无法检测出的SQL设计问题。
 
 *   对于类似字符串等占用较长空间做索引字段的，未来会通过代码扫描直接提示warning，加强各个团队成员在这方面的意识。
+
+
+[reflink]:https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe&scene=1&srcid=lbTtbXQRHO0soAYOzzD2&key=dffc561732c22651cf13a2ee4f45620137344a21f83167444e033088f26e812fa6307ca51e115edcf9bacf54184fd6b1&ascene=0&uin=Mjc4MjU3MDQw&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=kNXrPWwF37WmkcrIR%2FjG2Gj%2BPznLc1gxbd9eWs3zqQgSXUbTHFWZvA7pwPeW36Sp
+
+
+
+
