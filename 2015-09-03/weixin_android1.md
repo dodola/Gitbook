@@ -281,4 +281,3 @@ Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列
 *   我们会通过对每条SQL 涉及的Page数据及相应类型进行统计，以区分查询语句设计的好坏，解决用explain query plan无法检测出的SQL设计问题。
 
 *   对于类似字符串等占用较长空间做索引字段的，未来会通过代码扫描直接提示warning，加强各个团队成员在这方面的意识。
-                    </div>
