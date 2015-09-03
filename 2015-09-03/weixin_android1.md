@@ -30,17 +30,16 @@
 首先想到的是把整个会话界面的View static化，不同的会话对应的Activity复用同一个View进行渲染展示，但这么做会出现Activity中的Context（上下文）与View中的Context不一致的问题，View能复用的前提是必须保证View及其子View中的Context与Activity容器的Context一致，否则会出现诸如当前界面弹出的对话框关闭后返回的界面不是此前的界面，或者由于旧Context对象被当前的Activity持有导致旧Activity内存泄露等一系列的问题。
 
 另外，由于Android系统组件ActivityManager进行Activity调度时候本身涉及较多的计算，在低端机器上这个调度时长一度超过150ms，即便在部分高端机上也有超过100ms的情况。我们发现，通过Fragment代替Activity实现界面切换，能够解决因ActivityManager调度耗时较久的问题，并且如果进一步考虑，上述View缓存的问题实际就能够换成用Fragment实现解决，关于Fragment，简单引入介绍下：
+> Fragment
+Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列提供了support包支持。可以把Fragment想成Activity中的模块，这个模块有自己的布局，有自己的生命周期，单独处理自己的输入，在Activity运行的时候可以加载或者移除Fragment模块，同时可以把Fragment设计成可以在多个Activity中复用的模块，当开发的应用程序同时适用于平板电脑和手机时，可以利用Fragment实现灵活的布局，改善用户体验。
 
-    Fragment
-    Android是在Android 3.0 (API level 11)开始引入Fragment的，并对2.x系列提供了support包支持。可以把Fragment想成Activity中的模块，这个模块有自己的布局，有自己的生命周期，单独处理自己的输入，在Activity运行的时候可以加载或者移除Fragment模块，同时可以把Fragment设计成可以在多个Activity中复用的模块，当开发的应用程序同时适用于平板电脑和手机时，可以利用Fragment实现灵活的布局，改善用户体验。
+通过Fragment方式，我们把会话界面的实现进行了一次改造,如下图:
 
-    通过Fragment方式，我们把会话界面的实现进行了一次改造,如下图:
+![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygPJa1G2c5B8eo5UaLVxWuPxMclHfViaAVbqUyDUlAKsiaFedarw7N5d0qA/0?wx_fmt=png)
 
-    ![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygPJa1G2c5B8eo5UaLVxWuPxMclHfViaAVbqUyDUlAKsiaFedarw7N5d0qA/0?wx_fmt=png)
+其中，蓝色线框内表示会话界面已从原来的Activity模式切换成Fragment，与4个子TAG设计在同一层，只要进程不销毁，会话界面就不会重建，会话进入/退出通过控制Fragment的可见/隐藏来实现。这样一来，在首次创建了会话界面后，后续再次打开，只需要把相关的变量复位，列表控件内所有子View也不需要重建（因数据适配器adapter没有更换），我们要做的是仅仅是刷新要显示的数据，及复位子View的状态。
 
-    其中，蓝色线框内表示会话界面已从原来的Activity模式切换成Fragment，与4个子TAG设计在同一层，只要进程不销毁，会话界面就不会重建，会话进入/退出通过控制Fragment的可见/隐藏来实现。这样一来，在首次创建了会话界面后，后续再次打开，只需要把相关的变量复位，列表控件内所有子View也不需要重建（因数据适配器adapter没有更换），我们要做的是仅仅是刷新要显示的数据，及复位子View的状态。
-
-    采用上面方案，也面临一些问题：
+采用上面方案，也面临一些问题：
 
 *   动画播放由原来Activity级别降成View级别，Activity的动画是Window（窗口）级别的，系统对Activity动画播放原理上是通过矩阵变换并且是通过WindowManager所在进程执行，而改成View后切换动画则是通过本进程不断的重绘View自身来实现，效率上会降低。
 *   在播放动画过程中，如果主线程刚好执行到此前通过定时器分发过来的一些较为耗时的任务，会导致动画丢帧，针对该问题，我们有自己的线程池及Handler消息队列管理，在播放过程中暂停Handler的消息派发及降低线程池内其他线程的优先级来解决。
@@ -79,29 +78,31 @@
     先简要介绍一下explain query plan :没用过的同学可以直接看（http://www.sqlite.org/eqp.html）
 
     引用官方的一段话：
-    <pre style="margin: 14px 10px; padding: 0px; display: block; white-space: pre-wrap; unicode-bidi: embed;">`The EXPLAIN QUERY PLAN SQL command is used to obtain a high-level description of the strategy or plan that SQLite uses to implement a specific SQL query. Most significantly, EXPLAIN QUERY PLAN reports on the way in which the query uses database indices`</pre>
+> The EXPLAIN QUERY PLAN SQL command is used to obtain a high-level description of the strategy or plan that SQLite uses to implement a specific SQL query. Most significantly, EXPLAIN QUERY PLAN reports on the way in which the query uses database indices
 
-    简而言之，该指令是查看sqlite在执行SQL时候所采用的计划，例如，可以看到执行该<span style="line-height: 22px; font-family: Helvetica, arial, freesans, clean, sans-serif; font-size: 14px;">SQL</span>时候所采用的index（索引），并且可以看到执行该SQL过程前sqlite对整个查询所涉及的元数据条数的预估。
-
+    简而言之，该指令是查看sqlite在执行SQL时候所采用的计划，例如，可以看到执行该SQL时候所采用的index（索引），并且可以看到执行该SQL过程前sqlite对整个查询所涉及的元数据条数的预估。
+    
     此前，通过该指令，我们很轻松解决了很多明显的SQL设计上的问题，但这次貌似该指令**也无法让我们清晰定位到性能瓶颈**， 从explain query plan 的结果来看，在进行上述2个查询时候，sqlite 已经采用了我们预期指定的索引，并且预估值约是10条左右。
 
-    OK，一切看起来很正常。那么，问题又出在哪里?
+ OK，一切看起来很正常。那么，问题又出在哪里?
 
-    针对该问题，在与ios相关同事交流过后，我们首先想到的是：拆表！
+ 针对该问题，在与ios相关同事交流过后，我们首先想到的是：拆表！
 
-    ### 当时能想到的拆表之后的一些优势如下：
+ **当时能想到的拆表之后的一些优势如下：**
 
-*   数据内聚，减少I/O> sqlite所有的表是通过B+树进行存储，当整个message表数据量较大的时候，因该表所在的B+树的深度较大，所有的查询或更新操作都会因此而多走很多的磁盘I/O流程。 而把message表按照talker（联系人）为单位分表，一个联系人一个表。则整个消息的存储就在物理空间上被分成了多个区间，同一个联系人的消息，在空间上被内聚到临近的磁盘块，这样的话，整个消息模块所在的B+树的深度就降低了，读取时候也会因磁盘的临近性（连续4k，磁盘一次读取最小的单位，大小根据不同磁盘的实际设定而定）而减少不少的磁盘I/O，上面的查询慢的问题也就解决了。（背景:关于B+树介绍,可见http://www.semaphorecorp.com/btp/algo.html）
+ *   数据内聚，减少I/O> sqlite所有的表是通过B+树进行存储，当整个message表数据量较大的时候，因该表所在的B+树的深度较大，所有的查询或更新操作都会因此而多走很多的磁盘I/O流程。 而把message表按照talker（联系人）为单位分表，一个联系人一个表。则整个消息的存储就在物理空间上被分成了多个区间，同一个联系人的消息，在空间上被内聚到临近的磁盘块，这样的话，整个消息模块所在的B+树的深度就降低了，读取时候也会因磁盘的临近性（连续4k，磁盘一次读取最小的单位，大小根据不同磁盘的实际设定而定）而减少不少的磁盘I/O，上面的查询慢的问题也就解决了。（背景:关于B+树介绍,可见http://www.semaphorecorp.com/btp/algo.html）
 
-*   增加损坏后恢复数据成功机率> 用过sqlite的同学应该清楚，其存在不可避免的损坏机率，（关于损坏的介绍，建议直接看官方介绍 http://sqlite.org/howtocorrupt.html），我们此前对这种损坏的情况做了一套DB损坏后尝试恢复数据的方案，该方案从统计数据看恢复成功率在80%左右，而把消息分散到各个talker表，即便db损坏了，进行数据恢复的时候，恢复数据的成功率就会相应的比此前更高，因为损坏的范围缩小到以当前的talker为单位，与其他联系人的会话数据不会丢失。
+ *   增加损坏后恢复数据成功机率> 用过sqlite的同学应该清楚，其存在不可避免的损坏机率，（关于损坏的介绍，建议直接看官方介绍 http://sqlite.org/howtocorrupt.html），我们此前对这种损坏的情况做了一套DB损坏后尝试恢复数据的方案，该方案从统计数据看恢复成功率在80%左右，而把消息分散到各个talker表，即便db损坏了，进行数据恢复的时候，恢复数据的成功率就会相应的比此前更高，因为损坏的范围缩小到以当前的talker为单位，与其他联系人的会话数据不会丢失。
 
-    ## **没那么简单**
+ ##没那么简单
 
     从上面2个分析的点来看，听上去很有道理，而且实际带来的优势也的确如此，但我们只看到了好的一面，还没有看到负面的影响,在经过一段时间的拆表改造之后，陆陆续续发现问题来了，列举如下：
 
-*   第一点：开发周期长，牵扯范围大> message是整个微信的主模块，各个子模块都或多或少与其有干系，不少模块直接把message的id当作自己模块主表的外键，还有直接以message的id值作为文件路径的，此外按照talker分表后，原来以非talker开头的多列索引全部被废掉，涉及到这些索引的一系列功能需要重新实现等等。。。简而言之，牵扯的范围非常广，且往后的数据迁移几乎成了不可能。
+ *   第一点：开发周期长，牵扯范围大
+ > message是整个微信的主模块，各个子模块都或多或少与其有干系，不少模块直接把message的id当作自己模块主表的外键，还有直接以message的id值作为文件路径的，此外按照talker分表后，原来以非talker开头的多列索引全部被废掉，涉及到这些索引的一系列功能需要重新实现等等。。。简而言之，牵扯的范围非常广，且往后的数据迁移几乎成了不可能。
 
-*   第二点：启动速度被拖垮，内存暴涨> 这个点，也是我们真正放弃拆表的最主要的原因：在创建了一定数量的联系人会话，我们发现，启动速度越来越慢了，经过分析之后发现，在创建了2000个消息会话（也就是2000张表）之后，进程重启后首次调用sqlite db模块进行prepare SQL（_sqlite在执行每条SQL前需要先将该SQL编译成用于查询引擎执行的字节码，该过程为prepare_）耗时将近2s ! 通过Android系统自带的traceview跟踪如图：
+ *   第二点：启动速度被拖垮，内存暴涨
+ > 这个点，也是我们真正放弃拆表的最主要的原因：在创建了一定数量的联系人会话，我们发现，启动速度越来越慢了，经过分析之后发现，在创建了2000个消息会话（也就是2000张表）之后，进程重启后首次调用sqlite db模块进行prepare SQL（_sqlite在执行每条SQL前需要先将该SQL编译成用于查询引擎执行的字节码，该过程为prepare_）耗时将近2s ! 通过Android系统自带的traceview跟踪如图：
 
     2000个联系人会话：
 
@@ -109,11 +110,10 @@
 
     **拆表后启动时首次prepare SQL 占整个启动过程cpu开销的40%以上！这还仅仅是2000个联系人会话，随着会话数的增多，该值线性增大。**
 
-    这个数据与ios同学的此前对ios版本db-init 耗时的统计一致，这里引用一下ios组提供的一组数据
+ 这个数据与ios同学的此前对ios版本db-init 耗时的统计一致，这里引用一下ios组提供的一组数据
 
-    ![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygPJD1aicdDOVtxh5ZG16n6ibSX4hV1j8lZOBzvVKh6Nh5zEbxmQMyn6WWA/0?wx_fmt=jpeg)
-
-                              （iphone 4）
+ ![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygPJD1aicdDOVtxh5ZG16n6ibSX4hV1j8lZOBzvVKh6Nh5zEbxmQMyn6WWA/0?wx_fmt=jpeg)
+（iphone 4）
 
     在iphone4 上面，在联系人会话数2k以内，启动时间达到2-5s。
 
@@ -122,6 +122,7 @@
     拆表：
 
     ![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygP4u5XYpPTicfoiabfyYibj8vwgibyIvIO42O4ibnVjtnsWrBKRQxRKwR7xibg/0?wx_fmt=png)
+    
     单表：
 
     ![](http://mmbiz.qpic.cn/mmbiz/csvJ6rH9MctB8VGcUoMg8FYKLd5fuygP81WOzTKZa5NicibUAHofUaFD3e6LYnVqoBicVDgnUnqlfaPqMPIiawIT1Q/0?wx_fmt=png)
@@ -210,7 +211,7 @@
     可见，在整条索引数据项里面，talker字段的长度占整条索引内部空间超过70%
 
     注：到这里，先引入一下SQLite可变长整数的介绍：
-    <pre style="margin: 14px 10px; padding: 0px; display: block; white-space: pre-wrap; unicode-bidi: embed;">`可变长整数是SQLite的特色之一，使用它既可以处理大整数，又可以节省存储空间。由于单元中大量使用可变长整数。可变长整数由1~9个字节组成，每个字节的低7位有效，第8位是标志位。在组成可变长整数的各字节中，前面字节(整数的高位字节)的第8位置1，只有最低一个字节的第8位置0，表示整数结束。可变长整数可用于存储rowid、字段的字节数或Btree单元中的数据。`</pre>
+    >可变长整数是SQLite的特色之一，使用它既可以处理大整数，又可以节省存储空间。由于单元中大量使用可变长整数。可变长整数由1~9个字节组成，每个字节的低7位有效，第8位是标志位。在组成可变长整数的各字节中，前面字节(整数的高位字节)的第8位置1，只有最低一个字节的第8位置0，表示整数结束。可变长整数可用于存储rowid、字段的字节数或Btree单元中的数据。
 
     故实际**每个byte能够表示的整数个数为128**（因只有低7位可用）。
 
@@ -237,9 +238,9 @@
     这样的话，对索引进行查找的过程，就只需要原来的30%的page加载就可以完成。
 
     PageTrace一下看看结果：
-    <pre style="margin: 14px 10px; padding: 0px; display: block; white-space: pre-wrap; unicode-bidi: embed;">`&gt;PageTrace &quot;SELECT COUNT(*) FROM message where talkerid = 202&quot;
-
-    result：all PageCount:437 ,Table embedded :1, Table leaf :6,Index embedded:10 ,Index leaf :349`</pre>
+    > &gt;PageTrace &quot;SELECT COUNT(*) FROM message where talkerid = 202&quot;
+    
+    > result：all PageCount:437 ,Table embedded :1, Table leaf :6,Index embedded:10 ,Index leaf :349
 
     可见,虽然还没完全达到拆表后的性能，但整个查询过程中索引Page数量在总量上已经接近了，与拆表比，索引叶子Page多加载20个，内部Page多加载2个，综合内存及启动速度考虑，明显这个方案更优。
 
@@ -248,15 +249,15 @@
     查找会话最近18条消息：
 
     此前SQL：
-    <pre style="margin: 14px 10px; padding: 0px; display: block; white-space: pre-wrap; unicode-bidi: embed;">`&gt;PageTrace &quot;SELECT * FROM message where talker = &#39;3494847533@chatroom&#39; order by createTime ASC limit -1 offset 30000&quot;
+    >&gt;PageTrace &quot;SELECT * FROM message where talker = &#39;3494847533@chatroom&#39; order by createTime ASC limit -1 offset 30000&quot;
 
-    result：all PageCount:1382 ,Table embedded :11,Table leaf :213,Index embedded:10 ,Index leaf :349`</pre>
+    >result：all PageCount:1382 ,Table embedded :11,Table leaf :213,Index embedded:10 ,Index leaf :349`</pre>
 
     优化后SQL：
-    <pre style="margin: 14px 10px; padding: 0px; display: block; white-space: pre-wrap; unicode-bidi: embed;">`&gt;PageTrace &quot;SELECT * FROM (SELECT * FROM message where 
+    > &gt;PageTrace &quot;SELECT * FROM (SELECT * FROM message where 
     talker=&#39;3494847533@chatroom&#39;order by createTime desc limit 18)order by createTime ASC&quot;
 
-    result：all PageCount:22 ,Table embedded :4,Table leaf :13,Index embedded:4 ,Index leaf :1   
+    > result：all PageCount:22 ,Table embedded :4,Table leaf :13,Index embedded:4 ,Index leaf :1   
 
 **数据佐证：**
 
