@@ -10,4 +10,4 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android微信智能心跳方案](2015-09-03/weixin_android1.md)
    
 * 2015-09-13   
-   * [编写一个无法卸载的App – 设备管理器漏洞]
+   * [编写一个无法卸载的App – 设备管理器漏洞](2015-09-13/2015-09-13.md)
