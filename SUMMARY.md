@@ -10,4 +10,5 @@
    * [微信ANDROID客户端-会话速度提升70%的背后](2015-09-03/weixin_android1.md)
    * [Android微信智能心跳方案](2015-09-03/weixin_android2.md)
 * [文章](documents/document.md)
+   * 2015-09-15
 
