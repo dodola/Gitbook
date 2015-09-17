@@ -14,6 +14,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [MAT - Memory Analyzer Tool 使用进阶](http://www.lightskystreet.com/2015/09/01/mat_usage/)
    * [Android最佳实践](http://www.lightskystreet.com/categories/Android%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
    * [Swift 函数式编程实践](http://codebuild.me/2015/09/15/swift-functional-programming-intro/)
+   * [Swift专题页](http://www.cocoachina.com/special/swift/?utm_source=tuicool)
 
 
 
