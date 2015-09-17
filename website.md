@@ -8,8 +8,8 @@
   开发者的首选阅读分享平台  
   http://toutiao.io/
 
-* [推库](http://www.tuicool.com/a/)
-  推酷专注于IT领域的信息挖掘和推荐
+* [推库](http://www.tuicool.com/a/)   
+  推酷专注于IT领域的信息挖掘和推荐   
   http://www.tuicool.com
 
 ##微信号
