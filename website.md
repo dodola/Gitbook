@@ -12,6 +12,8 @@
   推酷专注于IT领域的信息挖掘和推荐   
   http://www.tuicool.com
 
+* [Standard C 语言标准函数库速查](http://ganquan.info/standard-c/)
+
 ##微信号
 
 * WeMobileDev   
