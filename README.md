@@ -18,6 +18,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android5.1 Art Hook 技术分享](http://bbs.csdn.net/topics/391830980)
    * [Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)
    * [关于Python的面试题](https://github.com/taizilongxu/interview_python#20-)
+   * [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
 
 
 
