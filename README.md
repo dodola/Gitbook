@@ -15,6 +15,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android最佳实践](http://www.lightskystreet.com/categories/Android%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
    * [Swift 函数式编程实践](http://codebuild.me/2015/09/15/swift-functional-programming-intro/)
    * [Swift专题页](http://www.cocoachina.com/special/swift/?utm_source=tuicool)
+   * [Android5.1 Art Hook 技术分享](http://bbs.csdn.net/topics/391830980)
+   * [Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)
+   * [关于Python的面试题](https://github.com/taizilongxu/interview_python#20-)
 
 
 
