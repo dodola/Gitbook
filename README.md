@@ -19,6 +19,10 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android内存优化之OOM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0920/3478.html)
    * [关于Python的面试题](https://github.com/taizilongxu/interview_python#20-)
    * [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
+   * [Android4.4的init进程](http://my.oschina.net/youranhongcha/blog/469028)
+   * [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
 
 
 
