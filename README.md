@@ -22,6 +22,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android4.4的init进程](http://my.oschina.net/youranhongcha/blog/469028)
    * [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
    * [iOS到Android到底有多远](http://oncenote.com/2015/07/28/iOS-To-Android/)
+   * [embeddable Javascript engine](http://duktape.org/)
 
 
 
