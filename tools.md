@@ -3,4 +3,8 @@
   模块化的 HTML 和 Markdown 编辑器   
   http://bevacqua.github.io/woofmark
 
+* [fish-shell](http://fishshell.com/)    
+  fish is a smart and user-friendly command line
+shell for OS X, Linux, and the rest of the family.
+
 * 
