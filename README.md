@@ -26,7 +26,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [剖析Android中进程与线程调度之nice](http://droidyue.com/blog/2015/09/05/android-process-and-thread-schedule-nice/?droid_refer=series)
    * [Android进程线程调度之cgroups](http://droidyue.com/blog/2015/09/17/android-process-and-thread-schedule-cgroups/)
    * [深入讲解WebView——上](http://www.kymjs.com/code/2015/05/03/01/)
-   * [腾讯 Android 与 iOS 开发工具镜像服务 (Tencent Bugly)](http://android-mirror.bugly.qq.com:8080/)  
+   * [腾讯 Android 与 iOS 开发工具镜像服务 (Tencent Bugly)](http://android-mirror.bugly.qq.com:8080/)
+   * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
 
 
 
