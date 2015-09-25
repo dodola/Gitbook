@@ -23,6 +23,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
    * [iOS到Android到底有多远](http://oncenote.com/2015/07/28/iOS-To-Android/)
    * [embeddable Javascript engine](http://duktape.org/)
+   * [剖析Android中进程与线程调度之nice](http://droidyue.com/blog/2015/09/05/android-process-and-thread-schedule-nice/?droid_refer=series)
+   * [Android进程线程调度之cgroups](http://droidyue.com/blog/2015/09/17/android-process-and-thread-schedule-cgroups/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 
