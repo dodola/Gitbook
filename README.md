@@ -24,7 +24,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [iOS到Android到底有多远](http://oncenote.com/2015/07/28/iOS-To-Android/)
    * [embeddable Javascript engine](http://duktape.org/)
    * [剖析Android中进程与线程调度之nice](http://droidyue.com/blog/2015/09/05/android-process-and-thread-schedule-nice/?droid_refer=series)
-   * [Android进程线程调度之cgroups](http://droidyue.com/blog/2015/09/17/android-process-and-thread-schedule-cgroups/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+   * [Android进程线程调度之cgroups](http://droidyue.com/blog/2015/09/17/android-process-and-thread-schedule-cgroups/)
+   * [深入讲解WebView——上](http://www.kymjs.com/code/2015/05/03/01/)
+
 
 
 
