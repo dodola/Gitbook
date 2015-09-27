@@ -54,25 +54,6 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 6. [Android学习笔记之AndroidManifest.xml文件解析](http://www.cnblogs.com/jenson138/p/4016265.html)    
  这篇文章总结的不是很好，后面我会整理一份完整的
 
-
-10.java.lang.Comparable 接口详解
-
-摘要：Comparable接口介绍，并与Comparator接口做比较 。
-
-http://blog.csdn.net/itm_hadf/article/details/7432782
-
- 11.Android Fragment完全解析
-
-摘要：Fragment的基础功能介绍：如何新建一个Fragment、Fragment与Activity&Fragment之间如何通信。
-
-http://blog.csdn.net/guolin_blog/article/details/8881711
-
-12.Android的taskAffinity属性
-
-摘要：这个属性控制了我们的activiety在task中的复用，具体介绍activity复用的两种方法。
-
-http://www.eoeandroid.com/blog-648847-49293.html
-
 13.Android中程序的停止状态
 
 摘要：Android3.1(API12)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
