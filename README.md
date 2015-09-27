@@ -64,31 +64,5 @@ Android3.1(API12)之后，Android引入了一套新的启动控制。处于停�
 13. [ClassNotFoundException和NoClassDefFoundError的区别](http://www.kankanews.com/ICkengine/archives/56127.shtml)
 14. [LINUX文件系统结构](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201837778&idx=2&sn=fa61d0c2486f7d2f932711fd67943d7c#rd)
 15. [5种服务器网络编程模型讲解](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201655747&idx=2&sn=a751865e2a897cb8866651be8e36d0c6#rd)
-
-
-
-35.常用代码片段
-
-摘要：描述了一些比较常用的代码块：获取设备信息、Android屏幕锁、快捷方式的创建、用户权限解释等。
-
- http://gundumw100.iteye.com/blog/1479569
-
- http://linkinmama-gmail-com.iteye.com/blog/1569052
-
-36.Android Intent.FLAG_NEW_TASK详解，包括其他的标记的一些解释
-
-摘要：详细的介绍了Activity启动时各种IntentFlag的作用及其使用方式。
-
-http://www.cnblogs.com/xiaoQLu/archive/2012/07/17/2595294.html
-
-37.Android源码分析-全面理解Context
-
-摘要：介绍了Application，Activity，Service作为context的区别，以及context对资源的访问机制。
-
-http://blog.csdn.net/singwhatiwanna/article/details/21829971
-
-
-
-
-
+16. [Android Intent.FLAG_NEW_TASK详解，包括其他的标记的一些解释](http://www.cnblogs.com/xiaoQLu/archive/2012/07/17/2595294.html)
 
