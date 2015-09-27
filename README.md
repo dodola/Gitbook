@@ -29,6 +29,11 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [腾讯 Android 与 iOS 开发工具镜像服务 (Tencent Bugly)](http://android-mirror.bugly.qq.com:8080/)
    * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
    * [Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/content/)
+   * [React Native 中文版(含新增 Android 章节)](http://wiki.jikexueyuan.com/project/react-native/)
+   * [Android性能调优利器StrictMode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
+
+
+
 
 
 
