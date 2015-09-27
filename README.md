@@ -40,59 +40,20 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 
 ##经典文章
-Android开发基础知识
 
-1.Android学习之路（新手）
+1. [ams 管理activity源码分析 （一）](http://blog.csdn.net/yueliangniao1/article/details/7227165) 
 
-http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/
+2. [ams 管理activity源码分析 （二）](http://www.360doc.com/content/12/0522/18/3700464_212846186.shtml) 
 
-2.Activity相关
+3. [深入安卓Package Manager和Package Installer](http://blog.jobbole.com/67286/)
 
-摘要：通过AMS源码分析Activity的启动、Task管理
+4. [安卓启动过程深入解析](http://www.admin10000.com/document/4595.html)    
 
-ams 管理activity源码分析 （一） http://blog.csdn.net/yueliangniao1/article/details/7227165
+5. [Android源码分析-全面理解Context](http://blog.csdn.net/singwhatiwanna/article/details/21829971)
 
-ams 管理activity源码分析 （二） http://www.360doc.com/content/12/0522/18/3700464_212846186.shtml
+6. [Android学习笔记之AndroidManifest.xml文件解析](http://www.cnblogs.com/jenson138/p/4016265.html)    
+ 这篇文章总结的不是很好，后面我会整理一份完整的
 
-3.深入安卓Package Manager和Package Installer
-
-摘要：讲解了Apk的安装过程，PackageManager的工作原理。
-
-http://blog.jobbole.com/67286/
-
-4.安卓启动过程深入解析
-
-http://www.lupaworld.com/article-239690-1.html
-
-http://www.admin10000.com/document/4595.html
-
-5.Android中Context详解
-
-摘要：一个应用程序App中存在多少个Context实例对象呢？对Context的原理、类结构关系的分析。
-
-http://stackoverflow.com/questions/12709603/mat-eclipse-memory-analyzer-how-to-view-bitmaps-from-memory-dump
-
-6.Activity Contex and Memery leak
-
-摘要：这篇文章讲了activity leak的一些地方。
-
-http://blog.csdn.net/prog_dong/article/details/5618995
-
-7.Android源码分析-全面理解Context
-
-http://blog.csdn.net/singwhatiwanna/article/details/21829971
-
-8.Android 源码及编译
-
-摘要：Android 4.4 源码下载
-http://jingyan.baidu.com/article/3c48dd34777079e10ae3585b.html
-
-摘要：编译自己的Android SDK
-http://blog.csdn.net/ilittleone/article/details/10714433
-
-9.Android学习笔记之AndroidManifest.xml文件解析
-
-http://www.cnblogs.com/jenson138/p/4016265.html
 
 10.java.lang.Comparable 接口详解
 
