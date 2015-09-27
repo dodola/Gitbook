@@ -69,61 +69,12 @@ Android3.1(API12)之后，Android引入了一套新的启动控制。处于停�
 http://www.cnblogs.com/yydcdut/p/3907743.html
 http://www.infoq.com/cn/articles/android-event-delivery-mechanism
 http://blog.csdn.net/xiaanming/article/details/21696315
+[Android View、ViewGroup 事件分发机制(一)](http://blog.csdn.net/wuchuang127/article/details/39206655)    
+[Android 窗口]( http://blog.csdn.net/windskier/article/details/6966264)    
 
-摘要：Android View、ViewGroup 事件分发机制(一)
-http://blog.csdn.net/wuchuang127/article/details/39206655
+18. [Android布局优化](http://www.infoq.com/cn/articles/android-optimise-layout)
 
-摘要：逐层分析Android事件处理流程，包含非常详细的图示，帮助理解。
- http://blog.csdn.net/windskier/article/details/6966264
-
-4.YUV转换RGB显示的实现
-http://wenku.baidu.com/view/72014768561252d380eb6eee.html
-
-5.BitMap的处理
-摘要：BitMap的cache处理包括memorycache和disk cache，本篇文章用lru算法实现了双重缓存。
-http://blog.csdn.net/nju08cs/article/details/38874239
-
-6.Android 向右滑动销毁（finish）Activity, 随着手势的滑动而滑动的效果
-http://blog.csdn.net/xiaanming/article/details/20934541
-
-7.Android之Adapter用法总结
-摘要：android adapter的用法，不同的adapterAdapter是连接后端数据和前端显示的适配器接口，是数据和UI（View）之间一个重要的纽带，是android的mvc的总要组成部分。
-http://blog.csdn.net/fznpcy/article/details/8658155
-
-8.Android中滑屏实现----手把手教你如何实现触摸滑屏以及Scroller类详解
-http://www.cnblogs.com/wanqieddy/archive/2012/05/05/2484534.html
-
-9.手把手让你爱上Android sdk自带“9妹”（9patch 工具）
-http://www.cnblogs.com/xiaochao1234/p/3963784.html
-
-10.Android 4.4前后版本读取图库图片方式的变化
-http://www.cnblogs.com/monodin/p/3993873.html
-
-11.Android动画学习笔记-Android Animation
-摘要：android动画学习，分为tween animation、drawable animation、property animation，本文着重介绍了property animation
-http://www.cnblogs.com/angeldevil/archive/2011/12/02/2271096.html
-
-12.高效拉风的UI
-摘要：Android：一个高效的UI才是一个拉风的UI（一）
-http://www.cnblogs.com/net168/p/4004950.html
-
-摘要：Android：一个高效的UI才是一个拉风的UI（二）
-http://www.cnblogs.com/net168/p/4017921.html
-
-13.android L新控件RecyclerView详解与Demo
-http://www.2cto.com/kf/201407/317412.html
-
-14.Android截屏相关
-摘要:Android窗口截屏
-http://www.2cto.com/kf/201410/343284.html
-摘要：Android给scrollView截图超过屏幕大小形成长图
-http://www.2cto.com/kf/201410/343275.html
-
-15.Android布局优化
-http://www.infoq.com/cn/articles/android-optimise-layout
-
-16.Android：剖析源码，随心所欲控制Toast显示
-http://www.cnblogs.com/net168/p/4058193.html
+19. [Android：剖析源码，随心所欲控制Toast显示](http://www.cnblogs.com/net168/p/4058193.html)
 
 17.深入理解Android的密度独立性
 http://www.cnblogs.com/xiaochao1234/p/4055931.html
