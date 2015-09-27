@@ -62,9 +62,7 @@ Android3.1(API12)之后，Android引入了一套新的启动控制。处于停�
 [Android Monkey源码分析二 
 ](http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/)
 13. [ClassNotFoundException和NoClassDefFoundError的区别](http://www.kankanews.com/ICkengine/archives/56127.shtml)
-
 14. [LINUX文件系统结构](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201837778&idx=2&sn=fa61d0c2486f7d2f932711fd67943d7c#rd)
-
 15. [5种服务器网络编程模型讲解](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201655747&idx=2&sn=a751865e2a897cb8866651be8e36d0c6#rd)
 
 
