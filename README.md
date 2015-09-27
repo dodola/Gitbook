@@ -31,6 +31,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/content/)
    * [React Native 中文版(含新增 Android 章节)](http://wiki.jikexueyuan.com/project/react-native/)
    * [Android性能调优利器StrictMode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
+   * [用Electron开发桌面应用](http://get.jobdeer.com/7870.get)
+
 
 
 
