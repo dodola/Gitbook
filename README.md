@@ -55,40 +55,14 @@ Android3.1(API12)之后，Android引入了一套新的启动控制。处于停�
 9. [JVM相关](http://www.importnew.com/1774.html)    
 介绍了Java虚拟机的运行机制以及新一代JVM的设计思路。
 10. [JVM必备指南](http://www.importnew.com/13556.html)
+11. [Android系统的智能指针（轻量级指针、强指针和弱指针）的实现原理分析
+](http://blog.csdn.net/luoshengyang/article/details/6786239)
+12. Android Monkey源码分析    
+[Android Monkey源码分析一](http://bloodysofiya.blog.163.com/blog/static/116562343200911305445801/)    
+[Android Monkey源码分析二 
+](http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/)
+13. [ClassNotFoundException和NoClassDefFoundError的区别](http://www.kankanews.com/ICkengine/archives/56127.shtml)
 
- 
-
-摘要：对Class Loader、Execution Engine、Memory Model的入门级介绍，帮助理解JVM基础知识。
-
- 
-
-21.NotificationManager和Notification的使用总结
-
-摘要：如何使用Android Notification。
-
-http://www.cnblogs.com/jerrychoi/archive/2010/05/28/1746221.html
-
-22.Android Wear计时器的开发
-
-摘要：开发一个入门级Android Wear应用过程的完整介绍。
-
-http://blog.jobbole.com/80255/
-
-23.Android系统的智能指针（轻量级指针、强指针和弱指针）的实现原理分析
-
-http://blog.csdn.net/luoshengyang/article/details/6786239
-
-24.Android Monkey源码分析
-
-《Android Monkey源码分析一》 http://bloodysofiya.blog.163.com/blog/static/116562343200911305445801/
-
-《Android Monkey源码分析二》  http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/
-
-Android SDK 源代码编译      http://blog.csdn.net/nupt123456789/article/details/17590565
-
-25..ClassNotFoundException和NoClassDefFoundError的区别
-
-http://www.kankanews.com/ICkengine/archives/56127.shtml
 
 26.由InvocationTargetException引发的思考
 
