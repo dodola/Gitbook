@@ -42,49 +42,25 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ##经典文章
 
 1. [ams 管理activity源码分析 （一）](http://blog.csdn.net/yueliangniao1/article/details/7227165) 
-
 2. [ams 管理activity源码分析 （二）](http://www.360doc.com/content/12/0522/18/3700464_212846186.shtml) 
-
 3. [深入安卓Package Manager和Package Installer](http://blog.jobbole.com/67286/)
-
 4. [安卓启动过程深入解析](http://www.admin10000.com/document/4595.html)    
-
 5. [Android源码分析-全面理解Context](http://blog.csdn.net/singwhatiwanna/article/details/21829971)
-
 6. [Android学习笔记之AndroidManifest.xml文件解析](http://www.cnblogs.com/jenson138/p/4016265.html)    
  这篇文章总结的不是很好，后面我会整理一份完整的
-
 7. [Android中程序的停止状态](http://droidyue.com/blog/2014/07/14/look-inside-android-package-stop-state-since-honeycomb-mr1/)    
 Android3.1(API12)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
-
 8. [Linux inotify功能及实现原理](http://blog.csdn.net/myarrow/article/details/7096460)    
 介绍Linux内核如何用通知用户空间程序文件系统变化。
+9. [JVM相关](http://www.importnew.com/1774.html)    
+介绍了Java虚拟机的运行机制以及新一代JVM的设计思路。
+10. [JVM必备指南](http://www.importnew.com/13556.html)
 
-
-18.Android框架浅析之锁屏(Keyguard)机制原理
-
-摘要：锁屏界面的组成与实现，给出了一种取消锁屏的实现方法。
-
-http://blog.csdn.net/qinjuning/article/details/7505703
-
-摘要：使用PowerManager加锁和解锁可能出现的问题以及解决办法，Android PowerManager.WakeLock源码详读。
-http://blog.csdn.net/zhandoushi1982/article/details/8513203
-
-19.Android 中调试手段 打印函数调用栈信息
-
-摘要：利用StackTraceElement打印调用栈。
-
-http://blog.csdn.net/fulinwsuafcie/article/details/7601292
-
-20.JVM相关
-
-摘要：一个系列的5篇文章，由浅入深地介绍了Java虚拟机的运行机制以及新一代JVM的设计思路。
-
- http://www.importnew.com/1774.html
+ 
 
 摘要：对Class Loader、Execution Engine、Memory Model的入门级介绍，帮助理解JVM基础知识。
 
- http://www.importnew.com/13556.html
+ 
 
 21.NotificationManager和Notification的使用总结
 
