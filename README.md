@@ -63,44 +63,11 @@ Android3.1(API12)之后，Android引入了一套新的启动控制。处于停�
 ](http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/)
 13. [ClassNotFoundException和NoClassDefFoundError的区别](http://www.kankanews.com/ICkengine/archives/56127.shtml)
 
+14. [LINUX文件系统结构](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201837778&idx=2&sn=fa61d0c2486f7d2f932711fd67943d7c#rd)
 
-26.由InvocationTargetException引发的思考
+15. [5种服务器网络编程模型讲解](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201655747&idx=2&sn=a751865e2a897cb8866651be8e36d0c6#rd)
 
-http://www.cnblogs.com/ITEagle/archive/2010/06/20/1761315.html
 
-27.boolean android.app.Activity.isFinishing()函数使用
-
-http://blog.csdn.net/fuuckwtu/article/details/7022487
-
-28.LINUX文件系统结构
-
-http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201837778&idx=2&sn=fa61d0c2486f7d2f932711fd67943d7c#rd
-
-29.GitHub上最火的Android开源项目（完结篇）
-
-http://www.cnblogs.com/xiaochao1234/p/4076454.html
-
-30.android 签名对比
-
-http://www.2cto.com/kf/201211/165069.html
-
-31.移动5年，Android生态系统的演进
-
-http://www.csdn.net/article/2014-10-22/2822247
-
-32.root方法原理解析，及防止反编译
-
-http://blog.csdn.net/jackaduma?viewmode=contents
-
-33. 5种服务器网络编程模型讲解
-
-http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201655747&idx=2&sn=a751865e2a897cb8866651be8e36d0c6#rd
-
-34. Java日期格式中的陷阱
-
-摘要：是关于Java中DateTimeFormatter的yyyy与YYYY的区别，现行的公历的正确格式化显示方法是"yyyy-MM-dd"，而不是"YYYY-MM-dd"。
-
-http://www.kuqin.com/shuoit/20150225/344895.html
 
 35.常用代码片段
 
