@@ -36,6 +36,14 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [假如不是BAT，专项测试要怎样做？](http://www.infoq.com/cn/articles/how-subject-test-works)
    * [从零开始搭建高可用IM系统](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=206924771&idx=1&sn=4705b832c410765a3c89acfa1300b0b6&scene=21#wechat_redirect)
    * [React Native 调研报告](http://blog.csdn.net/lihuiqwertyuiop/article/details/45241909)
+   * [Android内存泄露案例分析](http://www.csdn.net/article/2015-09-07/2825631)
+   * [深入理解Android之Gradle](http://android.jobbole.com/81436/)
+   * [你知道 Linux 内核是如何构建的吗？](https://linux.cn/article-6197-1.html)
+   * [TCP协议疑难杂症全景分析](http://my.oschina.net/wangyanpei/blog/502682)
+
+
+
+
 
 
 
@@ -81,3 +89,5 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 20. [深入理解Android的密度独立性](http://www.captechconsulting.com/blogs/understanding-density-independence-in-android)
 21.  [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
 22.  [WRANGLING DALVIK: MEMORY MANAGEMENT IN ANDROID ](http://www.raizlabs.com/dev/2014/03/wrangling-dalvik-memory-management-in-android-part-1-of-2/)
+23.  [LeakCanary:检测所有的内存泄漏](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0509/2854.html)
+
