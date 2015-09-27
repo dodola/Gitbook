@@ -40,6 +40,11 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [深入理解Android之Gradle](http://android.jobbole.com/81436/)
    * [你知道 Linux 内核是如何构建的吗？](https://linux.cn/article-6197-1.html)
    * [TCP协议疑难杂症全景分析](http://my.oschina.net/wangyanpei/blog/502682)
+   * [Java IAQ：很少被回答的问题](http://www.importnew.com/16583.html)
+   * [Android Https相关完全解析 当OkHttp遇到Https](http://blog.csdn.net/lmj623565791/article/details/48129405)
+   * [Java永久代去哪儿了](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
+   
+
 
 
 
