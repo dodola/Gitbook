@@ -34,6 +34,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [用Electron开发桌面应用](http://get.jobdeer.com/7870.get)
    * [Snapdragon Profiler：找瓶颈调代码？一键秒懂！](http://news.csdn.net/article.html?arcid=15827416&preview=1)
    * [假如不是BAT，专项测试要怎样做？](http://www.infoq.com/cn/articles/how-subject-test-works)
+   * [从零开始搭建高可用IM系统](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=206924771&idx=1&sn=4705b832c410765a3c89acfa1300b0b6&scene=21#wechat_redirect)
+   * [React Native 调研报告](http://blog.csdn.net/lihuiqwertyuiop/article/details/45241909)
 
 
 
@@ -78,3 +80,4 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 19. [Android：剖析源码，随心所欲控制Toast显示](http://www.cnblogs.com/net168/p/4058193.html)
 20. [深入理解Android的密度独立性](http://www.captechconsulting.com/blogs/understanding-density-independence-in-android)
 21.  [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
+22.  [WRANGLING DALVIK: MEMORY MANAGEMENT IN ANDROID ](http://www.raizlabs.com/dev/2014/03/wrangling-dalvik-memory-management-in-android-part-1-of-2/)
