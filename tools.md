@@ -7,4 +7,4 @@
   fish is a smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 
-* 
+* [idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin)
