@@ -54,37 +54,12 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 6. [Android学习笔记之AndroidManifest.xml文件解析](http://www.cnblogs.com/jenson138/p/4016265.html)    
  这篇文章总结的不是很好，后面我会整理一份完整的
 
-13.Android中程序的停止状态
+7. [Android中程序的停止状态](http://droidyue.com/blog/2014/07/14/look-inside-android-package-stop-state-since-honeycomb-mr1/)    
+Android3.1(API12)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
 
-摘要：Android3.1(API12)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
+8. [Linux inotify功能及实现原理](http://blog.csdn.net/myarrow/article/details/7096460)    
+介绍Linux内核如何用通知用户空间程序文件系统变化。
 
-http://droidyue.com/blog/2014/07/14/look-inside-android-package-stop-state-since-honeycomb-mr1/
-
-摘要：Fragment “Can not perform this action after onSaveInstanceState” 异常的原因与解决方法。Fragment Transactions和Activity状态丢失。
-
- http://blog.jobbole.com/66117
-
-14.  .Net程序员玩转Android系列之二~Android Framework概要(1)
-
-http://www.cnblogs.com/HouZhiHouJueBlogs/p/3957042.html
-
-15.Android中build target，minSdkVersion，targetSdkVersion，maxSdkVersion概念区分
-
-摘要：分析官方文档，介绍三种Version的意义。
-
-http://blog.csdn.net/zhangjg_blog/article/details/17142395
-
-16.获取Android 的Rom信息
-
-摘要：如何获取主板、运营商、驱动、机型等设备信息。
-
- http://blog.csdn.net/idaretobe/article/details/24999421
-
-17.Linux inotify功能及实现原理
-
-摘要：介绍Linux内核如何用通知用户空间程序文件系统变化。
-
-http://blog.csdn.net/myarrow/article/details/7096460
 
 18.Android框架浅析之锁屏(Keyguard)机制原理
 
