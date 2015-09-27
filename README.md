@@ -32,6 +32,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [React Native 中文版(含新增 Android 章节)](http://wiki.jikexueyuan.com/project/react-native/)
    * [Android性能调优利器StrictMode](http://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/)
    * [用Electron开发桌面应用](http://get.jobdeer.com/7870.get)
+   * [Snapdragon Profiler：找瓶颈调代码？一键秒懂！](http://news.csdn.net/article.html?arcid=15827416&preview=1)
+   * [假如不是BAT，专项测试要怎样做？](http://www.infoq.com/cn/articles/how-subject-test-works)
+
 
 
 
@@ -74,4 +77,4 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 18. [Android布局优化](http://www.infoq.com/cn/articles/android-optimise-layout)
 19. [Android：剖析源码，随心所欲控制Toast显示](http://www.cnblogs.com/net168/p/4058193.html)
 20. [深入理解Android的密度独立性](http://www.captechconsulting.com/blogs/understanding-density-independence-in-android)
-
+21.  [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
