@@ -76,8 +76,7 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 
 19. [Android：剖析源码，随心所欲控制Toast显示](http://www.cnblogs.com/net168/p/4058193.html)
 
-17.深入理解Android的密度独立性
-http://www.cnblogs.com/xiaochao1234/p/4055931.html
+20. [深入理解Android的密度独立性](http://www.captechconsulting.com/blogs/understanding-density-independence-in-android)
 
 18.Android Drawable 与 LayerList综合汇总
 http://blog.csdn.net/kan1kan5/article/details/41075987
