@@ -28,6 +28,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [深入讲解WebView——上](http://www.kymjs.com/code/2015/05/03/01/)
    * [腾讯 Android 与 iOS 开发工具镜像服务 (Tencent Bugly)](http://android-mirror.bugly.qq.com:8080/)
    * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+   * [Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/content/)
 
 
 
