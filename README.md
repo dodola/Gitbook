@@ -43,6 +43,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Java IAQ：很少被回答的问题](http://www.importnew.com/16583.html)
    * [Android Https相关完全解析 当OkHttp遇到Https](http://blog.csdn.net/lmj623565791/article/details/48129405)
    * [Java永久代去哪儿了](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
+   * [深入浅出Android App耗电量统计](http://www.cnblogs.com/hyddd/p/4402621.html)
+
    
 
 
