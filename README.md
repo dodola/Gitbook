@@ -99,4 +99,6 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 21.  [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
 22.  [WRANGLING DALVIK: MEMORY MANAGEMENT IN ANDROID ](http://www.raizlabs.com/dev/2014/03/wrangling-dalvik-memory-management-in-android-part-1-of-2/)
 23.  [LeakCanary:检测所有的内存泄漏](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0509/2854.html)
+24.  [对话 UNIX: 通过共享内存进行进程间通信](http://www.ibm.com/developerworks/cn/aix/library/au-spunix_sharedmemory/)
+
 
