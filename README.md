@@ -44,6 +44,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android Https相关完全解析 当OkHttp遇到Https](http://blog.csdn.net/lmj623565791/article/details/48129405)
    * [Java永久代去哪儿了](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
    * [深入浅出Android App耗电量统计](http://www.cnblogs.com/hyddd/p/4402621.html)
+   * [为什么主引导记录的内存地址是0x7C00？](http://www.ruanyifeng.com/blog/2015/09/0x7c00.html)
+
 
    
 
