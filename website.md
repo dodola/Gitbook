@@ -38,6 +38,10 @@
 
 * [开发技术前线](http://www.devtf.cn/?cat=2)
 
+* [泡在网上的日子](http://www.jcodecraeer.com/)
+
+* 
+
 
 
 
