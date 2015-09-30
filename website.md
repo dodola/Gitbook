@@ -17,7 +17,7 @@
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
 * [技术小黑屋](http://droidyue.com/)
 * [AndroidDevTools](http://www.androiddevtools.cn/)
-* [Android Weekly](http://zhuanlan.zhihu.com/android-weekly)
+* [Android Weekly](http://androidweekly.net/)
 
 
 
