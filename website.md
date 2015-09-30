@@ -18,6 +18,7 @@
 * [技术小黑屋](http://droidyue.com/)
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [Android Weekly](http://androidweekly.net/)
+* [Android开发技术周报](http://www.androidweekly.cn/)
 
 
 
