@@ -20,6 +20,8 @@
 * [Android Weekly](http://androidweekly.net/)
 * [Android开发技术周报](http://www.androidweekly.cn/)
 * [GrepCode](http://grepcode.com/)
+  在线代码查询阅读
+* [androidxref](http://androidxref.com/) 所有版本的Android源代码的在线阅读
 
 
 
