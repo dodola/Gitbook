@@ -2,26 +2,30 @@
 
 * [Div.IO](http://div.io/)    
   高质量前端资源汇聚   
-  http://div.io/
- 
+
 * [开发者头条](http://toutiao.io/)  
   开发者的首选阅读分享平台  
-  http://toutiao.io/
 
 * [推库](http://www.tuicool.com/a/)   
   推酷专注于IT领域的信息挖掘和推荐   
-  http://www.tuicool.com
 
 * [Standard C 语言标准函数库速查](http://ganquan.info/standard-c/)
 
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
+
 * [技术小黑屋](http://droidyue.com/)
+
 * [AndroidDevTools](http://www.androiddevtools.cn/)
+
 * [Android Weekly](http://androidweekly.net/)
+
 * [Android开发技术周报](http://www.androidweekly.cn/)
-* [GrepCode](http://grepcode.com/)
+
+* [GrepCode](http://grepcode.com/)    
   在线代码查询阅读
-* [androidxref](http://androidxref.com/) 所有版本的Android源代码的在线阅读
+
+* [androidxref](http://androidxref.com/)        
+  所有版本的Android源代码的在线阅读
 * 
 
 
