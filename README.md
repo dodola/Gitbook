@@ -45,6 +45,13 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Java永久代去哪儿了](http://www.infoq.com/cn/articles/Java-PERMGEN-Removed)
    * [深入浅出Android App耗电量统计](http://www.cnblogs.com/hyddd/p/4402621.html)
    * [为什么主引导记录的内存地址是0x7C00？](http://www.ruanyifeng.com/blog/2015/09/0x7c00.html)
+   * [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475?refid=8&_ft_=qid.6200742327944805904:mf_story_key.6249203789055394671:eligibleForSeeFirstBumping.1&__tn__=H)
+   * [Async Android](http://jdam.cd/async-android/)
+   * [Android应用程序通用自动脱壳方法研究](http://drops.wooyun.org/tips/9214)
+
+
+
+
 
 
    
