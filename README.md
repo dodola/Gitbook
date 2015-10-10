@@ -48,6 +48,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475?refid=8&_ft_=qid.6200742327944805904:mf_story_key.6249203789055394671:eligibleForSeeFirstBumping.1&__tn__=H)
    * [Async Android](http://jdam.cd/async-android/)
    * [Android应用程序通用自动脱壳方法研究](http://drops.wooyun.org/tips/9214)
+   * [Square：从今天开始抛弃Fragment吧！](http://www.devtf.cn/?p=598)
+
 
 
 
