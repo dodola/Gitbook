@@ -8,3 +8,5 @@
 shell for OS X, Linux, and the rest of the family.
 
 * [idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin)
+
+* [mitmproxy](https://mitmproxy.org/)
