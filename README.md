@@ -49,6 +49,10 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Async Android](http://jdam.cd/async-android/)
    * [Android应用程序通用自动脱壳方法研究](http://drops.wooyun.org/tips/9214)
    * [Square：从今天开始抛弃Fragment吧！](http://www.devtf.cn/?p=598)
+   * [Play with SVG Paths in Canvas with AndroidFillableLoaders](http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/)
+   * [在Canvas 中玩转SVG Path－AndroidFillableLoader源码解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1009/3560.html)
+   * [mitmproxy实践教程之调试 Android 上 HTTP流量](http://greenrobot.me/devpost/how-to-debug-android-http-get-started/)
+
 
 
 
