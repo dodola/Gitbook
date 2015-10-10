@@ -45,6 +45,9 @@
 
 #Design
 
+ * [Facebook Design Resources](http://facebook.github.io/design/index.html)
+ 
+ * [100 Days UI](http://www.100daysui.com/)
 
 
 
