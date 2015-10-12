@@ -52,6 +52,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Play with SVG Paths in Canvas with AndroidFillableLoaders](http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/)
    * [在Canvas 中玩转SVG Path－AndroidFillableLoader源码解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1009/3560.html)
    * [mitmproxy实践教程之调试 Android 上 HTTP流量](http://greenrobot.me/devpost/how-to-debug-android-http-get-started/)
+   * [Android应用开发性能优化完全分析](http://blog.csdn.net/yanbober/article/details/48394201)
 
 
 
