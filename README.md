@@ -53,6 +53,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [在Canvas 中玩转SVG Path－AndroidFillableLoader源码解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1009/3560.html)
    * [mitmproxy实践教程之调试 Android 上 HTTP流量](http://greenrobot.me/devpost/how-to-debug-android-http-get-started/)
    * [Android应用开发性能优化完全分析](http://blog.csdn.net/yanbober/article/details/48394201)
+   * [React Native For Android 架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=207782506&scene=0&sn=3ff6b03c0d59fbda406f64739d9272cf&utm_medium=toutiao.io&utm_source=toutiao.io)
+   * 
 
 
 
