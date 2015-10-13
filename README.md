@@ -121,6 +121,9 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 23.  [LeakCanary:检测所有的内存泄漏](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0509/2854.html)
 24.  [对话 UNIX: 通过共享内存进行进程间通信](http://www.ibm.com/developerworks/cn/aix/library/au-spunix_sharedmemory/)
 25.  [OpenGL ES Pixel Shaders Tutorial](http://www.raywenderlich.com/70208/opengl-es-pixel-shaders-tutorial)
+26.  [Android中自定义样式与View的构造函数中的第三个参数defStyle的意义](http://www.cnblogs.com/angeldevil/p/3479431.html)
+
+
 
 
 
