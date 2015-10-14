@@ -56,7 +56,7 @@
  
  * [100 Days UI](http://www.100daysui.com/)
 
- * [Project Comet ](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
+ * [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
  
 
 
