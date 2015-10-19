@@ -57,6 +57,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
    * [APP启动加速，以及使用FSA来处理状态转换避免Activity state loss](http://blog.piasy.com/APP-Launch-Accelerate/)
    * [Android无需权限显示悬浮窗, 兼谈逆向分析app](http://www.jianshu.com/p/167fd5f47d5c)
+   * [说说Android中的ANR](http://droidyue.com/blog/2015/07/18/anr-in-android/)
+
 
 
 
