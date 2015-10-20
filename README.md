@@ -59,6 +59,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android无需权限显示悬浮窗, 兼谈逆向分析app](http://www.jianshu.com/p/167fd5f47d5c)
    * [说说Android中的ANR](http://droidyue.com/blog/2015/07/18/anr-in-android/)
    * [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400021278&idx=1&sn=0e971807eb0e9dcc1a81853189a092f3&scene=0#rd)
+   *  [Android应用开发性能优化完全分析](http://blog.csdn.net/yanbober/article/details/48394201)
+
 
 
 
