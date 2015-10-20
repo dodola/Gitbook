@@ -61,6 +61,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400021278&idx=1&sn=0e971807eb0e9dcc1a81853189a092f3&scene=0#rd)
    * [Android应用开发性能优化完全分析](http://blog.csdn.net/yanbober/article/details/48394201)
    * [Android ListView功能扩展，实现高性能的瀑布流布局](http://blog.csdn.net/guolin_blog/article/details/46361889)
+   * [其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/?)
+
 
 
 
