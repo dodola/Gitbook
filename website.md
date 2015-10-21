@@ -46,6 +46,7 @@
   致力于整理 GitHub 前端资源库，分类归档，并提供原创中文文档翻译
 
 * [伯乐在线](http://www.jobbole.com/)
+* [码农周刊](http://weekly.manong.io/)
 
 
 
