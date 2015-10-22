@@ -11,3 +11,5 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
 
 * [Photon](http://photonkit.com/)   
  The fastest way to build beautiful Electron apps using simple HTML and CSS
+
+* [jsonschema2pojo](http://www.jsonschema2pojo.org/)
