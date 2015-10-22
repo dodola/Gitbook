@@ -48,6 +48,9 @@
 * [伯乐在线](http://www.jobbole.com/)
 * [码农周刊](http://weekly.manong.io/)
 *  [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
+* [科大开源软件镜像服](http://mirrors.ustc.edu.cn/)务
+
+
 
 
 
