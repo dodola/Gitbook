@@ -51,6 +51,7 @@
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
 * [关注黑客与极客](http://www.freebuf.com/)
 * [360安全播报](http://bobao.360.cn/index/index)
+* [捉虫猎手](http://appscan.360.cn/)
 
 
 
