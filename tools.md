@@ -16,4 +16,6 @@ shell for OS X, Linux, and the rest of the family.
 * [Squirrel（鼠须管）](http://forrestchang.github.io/2015/10/31/squirrel-recommended/)    
 极客的输入法
 
-*
+* [Kakoune code editor](http://kakoune.org/)    
+ 一个编辑器，借鉴了vim的很多东西
+
