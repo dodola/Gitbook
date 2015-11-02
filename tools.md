@@ -13,3 +13,5 @@ shell for OS X, Linux, and the rest of the family.
 * [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) 
 * [classeur](http://classeur.io/)    
 一个markdown编辑环境
+* [Squirrel（鼠须管）](http://forrestchang.github.io/2015/10/31/squirrel-recommended/)    
+极客的输入法 
