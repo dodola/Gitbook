@@ -6,7 +6,7 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
  AndFix's patch is .apatch file.
 
 
-* [Electron](http://electron.atom.io/)
+* [Electron](http://electron.atom.io/) 使用Node.js开发桌面客户端
 
 
 * [Photon](http://photonkit.com/)   
