@@ -10,6 +10,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    3. [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
    4. [Android Context完全解析，你所不知道的Context的各种细节](http://blog.csdn.net/guolin_blog/article/details/47028975)
    5. [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+   6. 
    * [微信ANDROID客户端-会话速度提升70%的背后](2015-09-03/weixin_android1.md)
    * [Android微信智能心跳方案](2015-09-03/weixin_android1.md)
    * [编写一个无法卸载的App – 设备管理器漏洞](2015-09-13/2015-09-13.md)
