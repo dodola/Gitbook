@@ -64,6 +64,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/?)
    * [Android 高清加载巨图方案 拒绝压缩图片](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1021/3607.html)
    * [Gc垃圾回收详解](http://www.jiagou4.com/cms-web/2015/09/852.html)
+   * [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
+
 
 
 
