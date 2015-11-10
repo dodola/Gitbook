@@ -5,7 +5,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
-   1. [微信ANDROID客户端-会话速度提升70%的背后](2015-09-03/weixin_android1.md)
+   1. [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
+   * [微信ANDROID客户端-会话速度提升70%的背后](2015-09-03/weixin_android1.md)
    * [Android微信智能心跳方案](2015-09-03/weixin_android1.md)
    * [编写一个无法卸载的App – 设备管理器漏洞](2015-09-13/2015-09-13.md)
    * [React Native 调研报告](http://blog.csdn.net/lihuiqwertyuiop/article/details/45241909)
@@ -64,7 +65,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/?)
    * [Android 高清加载巨图方案 拒绝压缩图片](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1021/3607.html)
    * [Gc垃圾回收详解](http://www.jiagou4.com/cms-web/2015/09/852.html)
-   * [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
+
 
 
 
