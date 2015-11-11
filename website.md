@@ -70,7 +70,7 @@
 
 ##News
 
-[wired](http://www.wired.com/)
+* [wired](http://www.wired.com/)
 
 
 
