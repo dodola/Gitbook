@@ -68,7 +68,9 @@
  * [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
  
 
+##News
 
+[wired](http://www.wired.com/)
 
 
 
