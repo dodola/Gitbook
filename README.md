@@ -5,6 +5,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   1. [动手实现代码虚拟机](http://drops.wooyun.org/tips/10384)
    1. [携程Android App插件化和动态加载实践](http://www.infoq.com/cn/articles/ctrip-android-dynamic-loading)
    2. [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
    3. [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
