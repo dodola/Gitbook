@@ -55,7 +55,7 @@
 * [AndroidMirror](http://android-mirror.bugly.qq.com:8080/)
 * [程序员的资料库](http://codecloud.net/)
 * [计算机书籍控](http://bestcbooks.com/)
-* 
+* [考据癖](http://localhost-8080.com/)
 
 
 #资源站
