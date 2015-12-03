@@ -5,6 +5,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   1. [加快Android构建速度](http://blog.csdn.net/growth58/article/details/49589885)
    1. [Exploit开发系列教程-Exploitme1](http://drops.wooyun.org/tips/10382)
    2. [Exploit开发系列教程-Exploitme2](http://drops.wooyun.org/tips/10382)
    1. [动手实现代码虚拟机](http://drops.wooyun.org/tips/10384)
