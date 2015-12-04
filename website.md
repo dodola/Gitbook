@@ -59,6 +59,7 @@
 * [Matrix67](http://www.matrix67.com/)
 * [17Y](http://yyyyyyyyyyyyyyyyy.com/)
 * [medium](https://medium.com/)
+* [devmag](http://devmag.org.za/)
 
 
 #资源站
