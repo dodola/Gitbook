@@ -7,7 +7,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ##最近文章
    1. [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)
    2. [程序员的有效学习策略](http://www.infoq.com/cn/articles/effective-learning-strategies-for-programmers)
-   3. 
+   3. [谈谈闭包——以Swift为例](http://www.infoq.com/cn/articles/talk-about-closure-taking-swift-as-example)
    1. [compile ‘android:best:1.1.0’](https://medium.com/android-news/compile-android-best-1-0-0-5f8b470d0ad9#.a6jng2rdm)
    1. [Using ProGuard to Avoid the Dalvik Method Limit](https://www.bignerdranch.com/blog/i-like-big-apps-and-i-cannot-lie-using-proguard-to-avoid-the-dalvik-method-limit/?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337909137)
    1. [Top resources to learn Android](https://www.simform.com/blog/top-resources-to-learn-android)
