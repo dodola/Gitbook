@@ -62,6 +62,8 @@
 * [devmag](http://devmag.org.za/)
 * [课程图谱博客](http://blog.coursegraph.com/)
 * [课件](http://www.52xuexi.cc/)
+* [jssec](https://www.jssec.org/report)
+
 
 
 #资源站
