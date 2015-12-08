@@ -67,6 +67,7 @@
 #资源站
 
 * [小木虫](http://emuch.net/)
+* [bookdl](http://bookdl.com/) ebook download
 
 
 
