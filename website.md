@@ -68,6 +68,7 @@
 
 * [小木虫](http://emuch.net/)
 * [bookdl](http://bookdl.com/) ebook download
+* [allitebooks](http://www.allitebooks.com/) ebook
 
 
 
