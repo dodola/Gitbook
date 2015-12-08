@@ -20,3 +20,6 @@ shell for OS X, Linux, and the rest of the family.
  一个编辑器，借鉴了vim的很多东西
 
 * [caret](http://caret.io/)
+
+* [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
+
