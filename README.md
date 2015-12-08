@@ -9,7 +9,6 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    2. [Mastering Android NDK Build System - Part 1: Techniques with ndk-build](http://web.guohuiwang.com/technical-notes/androidndk1)
    3. [Mastering Android NDK Build System - Part 2: Standalone toolchain](http://web.guohuiwang.com/technical-notes/androidndk2)
 
-
    2. [程序员的有效学习策略](http://www.infoq.com/cn/articles/effective-learning-strategies-for-programmers)
    3. [谈谈闭包——以Swift为例](http://www.infoq.com/cn/articles/talk-about-closure-taking-swift-as-example)
    1. [compile ‘android:best:1.1.0’](https://medium.com/android-news/compile-android-best-1-0-0-5f8b470d0ad9#.a6jng2rdm)
