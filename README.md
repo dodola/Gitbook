@@ -6,6 +6,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
    1. [Android Studio for Experts：Edit & Debug & Test](http://www.jianshu.com/p/c873441be31e)
+   2. [手机淘宝 521 性能优化项目揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=401554928&idx=1&sn=abde4233ad87b6c7fb2e797b1902f5b6&scene=2&srcid=1206I2q9x0pFaJTh0gjOv9P5&from=timeline&isappinstalled=0#wechat_redirect)
    2. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
    1. [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)
    2. [Secure Coding for Android Applications](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-secure-coding-android-applications.pdf)
