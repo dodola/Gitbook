@@ -5,6 +5,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   1. [Android Studio for Experts：Edit & Debug & Test](http://www.jianshu.com/p/c873441be31e)
    1. [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)
    2. [Secure Coding for Android Applications](http://www.mcafee.com/us/resources/white-papers/foundstone/wp-secure-coding-android-applications.pdf)
    2. [Android Application Secure Design/Secure Coding Guidebook](http://www.jssec.org/dl/android_securecoding_en.pdf)
