@@ -5,6 +5,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   1. [性能优化模式](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=401096569&idx=1&sn=30169113ba3430cdb42039bac63766be&scene=23&srcid=1210smS5teFG9hFf3LS2n0FO#rd)
    1. [Android Studio for Experts：Edit & Debug & Test](http://www.jianshu.com/p/c873441be31e)
    2. [手机淘宝 521 性能优化项目揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=401554928&idx=1&sn=abde4233ad87b6c7fb2e797b1902f5b6&scene=2&srcid=1206I2q9x0pFaJTh0gjOv9P5&from=timeline&isappinstalled=0#wechat_redirect)
    2. [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
