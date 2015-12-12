@@ -64,6 +64,7 @@
 * [课件](http://www.52xuexi.cc/)
 * [jssec](https://www.jssec.org/report)
 * [android experiments](https://www.androidexperiments.com/)
+* [Chrome Experiments](https://www.chromeexperiments.com)
 
 
 
