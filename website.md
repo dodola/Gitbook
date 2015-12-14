@@ -68,6 +68,7 @@
 
 
 
+
 #资源站
 
 * [小木虫](http://emuch.net/)
@@ -75,6 +76,7 @@
 * [allitebooks](http://www.allitebooks.com/) ebook
 * [ebooks](https://www.ebooks-it.net/)
 * [kindle114](http://www.kindle114.com/)
+* [搜百度盘](http://www.sobaidupan.com/)
 
 
 
