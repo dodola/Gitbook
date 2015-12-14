@@ -104,7 +104,7 @@
 
 * [深入理解计算机系统](http://csapp.cs.cmu.edu/3e/home.html)
 
-* [卡梅隆大学](http://www.cs.cmu.edu/)
+* [卡内基梅隆](http://www.cs.cmu.edu/)
 
 
 
