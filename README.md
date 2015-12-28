@@ -5,6 +5,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   1. [Pro git 2nd](http://git-scm.com/book/zh/v2)
    1. [Why would I want to fitsSystemWindows?](https://medium.com/google-developers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec?linkId=19685562#.tusqrlc2t)
    1. [性能优化模式](http://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=401096569&idx=1&sn=30169113ba3430cdb42039bac63766be&scene=23&srcid=1210smS5teFG9hFf3LS2n0FO#rd)
    1. [Android Studio for Experts：Edit & Debug & Test](http://www.jianshu.com/p/c873441be31e)
