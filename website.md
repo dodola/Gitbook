@@ -1,7 +1,7 @@
 ##Development
 
 * [稀土掘金](http://gold.xitu.io/)
-* 
+
 * [Div.IO](http://div.io/)    
   高质量前端资源汇聚   
 
