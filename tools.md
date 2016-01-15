@@ -23,6 +23,6 @@ shell for OS X, Linux, and the rest of the family.
 
 * [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
 * [madoko](https://www.madoko.net/)
-  微软出的 Markdown 编辑器和渲染库，
+  微软出的 Markdown 编辑器和渲染库
 
 
