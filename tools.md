@@ -22,4 +22,6 @@ shell for OS X, Linux, and the rest of the family.
 * [caret](http://caret.io/)
 
 * [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
+* [madoko](https://www.madoko.net/)
+
 
