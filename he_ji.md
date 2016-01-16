@@ -8,6 +8,8 @@
 * 
 
 ##Javascript合集
+* [FEX技术周刊](http://fex.baidu.com/weekly/)
+* [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
 ##C/C++合集
 
