@@ -12,6 +12,8 @@
 * [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
 
 ##C/C++合集
+* [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
+
 
 ##Java合集
 
