@@ -1,5 +1,7 @@
 ##Development
 
+* [奇虎360技术博客](http://blogs.360.cn/)
+
 * [MobDevGroup](http://www.mobdevgroup.com/)
 
 * [稀土掘金](http://gold.xitu.io/)
