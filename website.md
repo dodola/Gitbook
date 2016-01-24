@@ -72,6 +72,7 @@
 * [android experiments](https://www.androidexperiments.com/)
 * [Chrome Experiments](https://www.chromeexperiments.com)
 * [IT博客汇](http://www.wrox.cn/)
+* [Duke大学](http://www.cs.duke.edu/education/courses/)
 
 
 
