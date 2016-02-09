@@ -14,6 +14,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ##最近文章
    * [ADB backupAgent 提权漏洞分析 （CVE-2014-7953）](http://drops.wooyun.org/papers/5752)
    * [一步一步学ROP之linux_x64篇](http://drops.wooyun.org/papers/7551)
+   * [一步一步学ROP之linux_x86篇](http://drops.wooyun.org/tips/6597)
    * 
    * [一种基于动态插件系统的移动测试黑科技](http://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=401273258&idx=1&sn=3fcb88a9681f55209fc240064965c5bc)
    * [Android安全–Dex文件格式详解](http://www.blogfshare.com/dex-format.html)
