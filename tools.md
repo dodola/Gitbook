@@ -25,4 +25,5 @@ shell for OS X, Linux, and the rest of the family.
 * [madoko](https://www.madoko.net/)
   微软出的 Markdown 编辑器和渲染库
 
+* [Piccolo, the tiny CNC-bot](http://www.piccolo.cc/)
 
