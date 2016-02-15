@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
    * [关于烂代码的那些事 - 评价代码优劣的方法](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403710181&idx=1&sn=404848628e673f2517eff0710d38824c)
    * [ADB backupAgent 提权漏洞分析 （CVE-2014-7953）](http://drops.wooyun.org/papers/5752)
    * [一步一步学ROP之linux_x64篇](http://drops.wooyun.org/papers/7551)
