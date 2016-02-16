@@ -13,6 +13,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
    * [手把手教你构建 C 语言编译器](http://lotabout.me/2015/write-a-C-interpreter-0/)
+   * [《Unix 环境高级编程》笔记  Awesome Qix](http://dirlt.com/apue.html)
    * [Android子线程真的不能更新UI么](http://android.jobbole.com/82431/)
    * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
    * [指定App是否位于前台判断](https://github.com/wenmingvs/AndroidProcess) 
