@@ -12,6 +12,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [Python Cookbook 3rd Edition Documentation
+](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
    * [How to C in 2016](https://matt.sh/howto-c)
    * [手把手教你构建 C 语言编译器](http://lotabout.me/2015/write-a-C-interpreter-0/)
    * [Android Linker学习笔记](http://drops.wooyun.org/tips/12122)
