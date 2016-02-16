@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [Android子线程真的不能更新UI么](http://android.jobbole.com/82431/)
    * [指定App是否位于前台判断](https://github.com/wenmingvs/AndroidProcess) 
    * [Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
    * [关于烂代码的那些事 - 评价代码优劣的方法](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=403710181&idx=1&sn=404848628e673f2517eff0710d38824c)
