@@ -18,7 +18,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [手把手教你构建 C 语言编译器](http://lotabout.me/2015/write-a-C-interpreter-0/)
    * [Android Linker学习笔记](http://drops.wooyun.org/tips/12122)
    * [理解Java NIO](https://yq.aliyun.com/articles/2371?spm=5176.100239.yqblog1.14.YuBfSq)
-   * 
+   * [Hybrid APP架构设计思路](https://segmentfault.com/a/1190000004263182)
    * [《Unix 环境高级编程》笔记  Awesome Qix](http://dirlt.com/apue.html)
    * [Android子线程真的不能更新UI么](http://android.jobbole.com/82431/)
    * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
