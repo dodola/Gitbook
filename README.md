@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [ Kotlin 官方文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
    * [《Kotlin for android developers》中文版翻译](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
    * [Python Cookbook 3rd Edition Documentation](http://python3-cookbook.readthedocs.org/zh_CN/latest/)
    * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
