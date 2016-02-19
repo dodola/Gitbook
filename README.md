@@ -205,7 +205,10 @@ http://blog.csdn.net/xiaanming/article/details/21696315
 26.  [Android中自定义样式与View的构造函数中的第三个参数defStyle的意义](http://www.cnblogs.com/angeldevil/p/3479431.html)
 27.  [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
 
-
+28. [Android最佳性能实践(1)：合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
+29. [Android最佳性能实践(2)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
+30. [Android最佳性能实践(3)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
+31. [Android最佳性能实践(4)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
 
 
 
