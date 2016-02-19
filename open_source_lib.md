@@ -28,8 +28,11 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
 
 ## Android 热更新
  - [dexposed](https://github.com/alibaba/dexposed)
- - [AndFix](https://github.com/alibaba/AndFix)
- - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
+ 
+- [AndFix](https://github.com/alibaba/AndFix)
+ 
+- [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
+
  - [Nuwa 女娲](https://github.com/jasonross/Nuwa) 
 
 
