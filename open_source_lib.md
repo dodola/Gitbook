@@ -13,3 +13,13 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
  The fastest way to build beautiful Electron apps using simple HTML and CSS
 
 * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
+
+* [ACDD](https://github.com/bunnyblue/ACDD)
+
+* [DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+
+* [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+
+* [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
+
+* [微信/手Q加载方案](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207151651&idx=1&sn=9eab282711f4eb2b4daf2fbae5a5ca9a&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
