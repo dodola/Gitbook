@@ -13,6 +13,8 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
  The fastest way to build beautiful Electron apps using simple HTML and CSS
 
 * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
+* [jupyter](https://jupyter.org/)
+
 
 ## 插件框架
 * [ACDD](https://github.com/bunnyblue/ACDD)
@@ -34,5 +36,6 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
 - [QQ空间热修复](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=0#wechat_redirect)
 
  - [Nuwa 女娲](https://github.com/jasonross/Nuwa) 
+
 
 
