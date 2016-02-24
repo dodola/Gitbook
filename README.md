@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [Pro Git 简体中文版](http://iissnan.com/progit/)
    * [How do Promises Work? - Quils in Space](https://github.com/xitu/gold-miner/blob/master/TODO/how-do-promises-work.md)
    * [ Kotlin 官方文档](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
    * [《Kotlin for android developers》中文版翻译](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)
