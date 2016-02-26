@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [[RFC] Port to Android #1442](https://github.com/apple/swift/pull/1442)
    * [要写易删除，而不易扩展的代码](http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/)    
    * [Pro Git 简体中文版](http://iissnan.com/progit/)
    * [How do Promises Work? - Quils in Space](https://github.com/xitu/gold-miner/blob/master/TODO/how-do-promises-work.md)
