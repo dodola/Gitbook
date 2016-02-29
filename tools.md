@@ -26,4 +26,11 @@ shell for OS X, Linux, and the rest of the family.
   微软出的 Markdown 编辑器和渲染库
 
 * [Piccolo, the tiny CNC-bot](http://www.piccolo.cc/)
+* [ClassShark](https://github.com/google/android-classyshark)
+一款可以查看Android可执行文件的浏览工具
+
+
+# Android Studio 插件
+
+* [smali](https://github.com/JesusFreke/smali/wiki)
 
