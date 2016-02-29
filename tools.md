@@ -33,4 +33,5 @@ shell for OS X, Linux, and the rest of the family.
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
+as 下的 smali 插件,可以高亮显示 smali 文件,并且可以调试
 
