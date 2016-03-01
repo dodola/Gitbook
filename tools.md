@@ -36,5 +36,8 @@ shell for OS X, Linux, and the rest of the family.
 as 下的 smali 插件,可以高亮显示 smali 文件,并且可以调试
 
 ## ReactNative
-* [EXPONENT](https://exponentjs.com/)
+* [EXPONENT](https://exponentjs.com/)    
+ Exponent brings together the best of web (development speed, fast iteration cycles, easy deploys, automatic cross-platform support, and simple sharing with URLs) and the performance and user experience of native apps.
+
+
 
