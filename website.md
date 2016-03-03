@@ -105,6 +105,7 @@
 
  * [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
  
+ * [input](http://input.fontbureau.com/) 字体收集
 
 ##News
 
