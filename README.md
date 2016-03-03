@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章
+   * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
    * [[RFC] Port to Android #1442](https://github.com/apple/swift/pull/1442)
    * [Tessellation for OpenGL ES 3.1 on Android](https://software.intel.com/en-us/articles/tessellation-for-opengl-es-31-on-android)
    * [EXT_tessellation_shader](https://www.khronos.org/registry/gles/extensions/EXT/EXT_tessellation_shader.txt)
