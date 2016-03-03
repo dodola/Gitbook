@@ -124,11 +124,11 @@
 * [nimbledroid](https://nimbledroid.com)
 
 ## Design
-http://collectui.com/
+[collectui](http://collectui.com/)
 
 ## 科学上网
-https://niuxss.com
-http://idea.lanyus.com/
+[niuxss](https://niuxss.com)
+[lanyus](http://idea.lanyus.com/)
 ##微信号
 
 * WeMobileDev   
