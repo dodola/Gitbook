@@ -15,7 +15,7 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
 * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
 * [jupyter](https://jupyter.org/)
 
-* [Flutter](https://flutter.io/) Dart App Engine 未来趋势
+* [Flutter](https://flutter.io/) Dart App Engine 未来趋势，持续关注
 
 ## 插件框架
 * [ACDD](https://github.com/bunnyblue/ACDD)
