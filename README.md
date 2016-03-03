@@ -11,7 +11,8 @@
 
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
-##最近文章
+##最近文章 
+   * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
    * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis 待读
    * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
    * [[RFC] Port to Android #1442](https://github.com/apple/swift/pull/1442)
