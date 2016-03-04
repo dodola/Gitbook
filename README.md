@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [TRIM：提升磁盘性能，缓解Android卡顿](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=404234343&idx=1&sn=b297b01ee7c656b900417f14a2a0ccae&scene=23&srcid=0304oJqkKVlpQRoD8vey9YvN#rd)
    * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
    * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis 待读
    * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
