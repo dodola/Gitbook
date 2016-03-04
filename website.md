@@ -91,6 +91,7 @@
 * [ebooks](https://www.ebooks-it.net/)
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
+* [鸠摩搜书](https://www.jiumodiary.com/)
 
 
 
