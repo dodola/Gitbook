@@ -126,7 +126,7 @@
 * [nimbledroid](https://nimbledroid.com)
 
 ## 课件
-* [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html0
+* [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
 
 ## Design
 [collectui](http://collectui.com/)
