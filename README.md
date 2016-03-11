@@ -151,7 +151,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [Android 高清加载巨图方案 拒绝压缩图片](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1021/3607.html)
    * [Gc垃圾回收详解](http://www.jiagou4.com/cms-web/2015/09/852.html)
 
+## 课件 
 
+   * [CS 282: Principles of Operating Systems II: Concurrent Java Network Programming in Android](https://www.dre.vanderbilt.edu/~schmidt/cs282/)
 
 
 
