@@ -108,6 +108,8 @@
  
  * [input](http://input.fontbureau.com/) 字体收集
 
+ * [musiclab](https://musiclab.chromeexperiments.com/Experiments)
+
 ##News
 
 * [wired](http://www.wired.com/)
