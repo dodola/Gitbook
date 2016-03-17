@@ -1,3 +1,5 @@
+##Slack
+[Kotlin](https://kotlinlang.slack.com/messages/general/)
 ##Development
 * [汇智网](http://www.hubwiz.com/)
 * [谷歌开发者社区](http://chinagdg.org/)
@@ -143,5 +145,6 @@
 
 * baiduqa
   百度质量部公众号
+
 
   
