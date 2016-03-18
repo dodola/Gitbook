@@ -80,7 +80,8 @@
 * [Duke大学](http://www.cs.duke.edu/education/courses/)
 * [cdf.toronto](http://www.cdf.toronto.edu/cs_courses/current_course_web_pages.html)
 * [React Example](https://react.rocks/)
-* [speakerdeck](https://speakerdeck.com/c/programming)
+* [speakerdeck](https://speakerdeck.com/c/programming) 
+Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 
 
 
