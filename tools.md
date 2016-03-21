@@ -33,6 +33,8 @@ shell for OS X, Linux, and the rest of the family.
 
 * [processon](http://www.processon.com/)
 UML图形工具
+
+* [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
