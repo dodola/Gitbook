@@ -12,7 +12,9 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
-   * [redux](http://camsong.github.io/redux-in-chinese/docs/introduction/Ecosystem.html)
+   * [Java 8 特性 – 终极手册
+](http://ifeve.com/java-8-features-tutorial/)
+   * [Redux 中文文档](http://camsong.github.io/redux-in-chinese/index.html)
    * [深入源码探索 ReactNative 通信机制](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=404402192&idx=1&sn=de06f8c41a4c4bba601b8a7fd92ad657&scene=23&srcid=0310wpUYkVyD0XIFYPBEjwQu#rd)
    * SmallerAPK 系列:介绍如何精简APK大小的系列文章
      [SmallerAPK, Part 1: Anatomy of an APK](https://medium.com/google-developers/smallerapk-part-1-anatomy-of-an-apk-da83c25e7003#.irpjrzeab)    
