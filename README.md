@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
    * [Java 8 特性 – 终极手册
 ](http://ifeve.com/java-8-features-tutorial/)
    * [Redux 中文文档](http://camsong.github.io/redux-in-chinese/index.html)
