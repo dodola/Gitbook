@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
    * [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
    * [Java 8 特性 – 终极手册
 ](http://ifeve.com/java-8-features-tutorial/)
@@ -29,7 +30,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [LET MOSBY FLOW - AN ALTERNATIVE TO FRAGMENTS](http://hannesdorfmann.com/android/let-mosby-flow?utm_source=Android+Weekly&utm_campaign=36def426b1-Android_Weekly_195&utm_medium=email&utm_term=0_4eb677ad19-36def426b1-337909137)
    * [TRIM：提升磁盘性能，缓解Android卡顿](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=404234343&idx=1&sn=b297b01ee7c656b900417f14a2a0ccae&scene=23&srcid=0304oJqkKVlpQRoD8vey9YvN#rd)
    * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
-   * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis 待读
+   * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis) 待读
    * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
    * [[RFC] Port to Android #1442](https://github.com/apple/swift/pull/1442)
    * [Tessellation for OpenGL ES 3.1 on Android](https://software.intel.com/en-us/articles/tessellation-for-opengl-es-31-on-android)
