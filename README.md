@@ -158,6 +158,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ## 课件 
 
    * [CS 282: Principles of Operating Systems II: Concurrent Java Network Programming in Android](https://www.dre.vanderbilt.edu/~schmidt/cs282/)
+   * [Binary Instrumentation on Android](http://www.mulliner.org/android/feed/binaryinstrumentationandroid_mulliner_summercon12.pdf)
 
 
 
@@ -166,8 +167,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## Paper
 
-* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy
-Monitoring on Smartphones](http://www.appanalysis.org/tdroid10.pdf)
+* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](http://www.appanalysis.org/tdroid10.pdf)
+* [AppTrace: Dynamic Trace on Android Devices](https://daoyuan14.github.io/papers/ICC15_AppTrace.pdf)
 
 
 
