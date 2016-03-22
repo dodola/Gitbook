@@ -164,7 +164,10 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 
 
+## Paper
 
+* [TaintDroid: An Information-Flow Tracking System for Realtime Privacy
+Monitoring on Smartphones](http://www.appanalysis.org/tdroid10.pdf)
 
 
 
