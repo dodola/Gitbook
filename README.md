@@ -169,6 +169,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 * [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](http://www.appanalysis.org/tdroid10.pdf)
 * [AppTrace: Dynamic Trace on Android Devices](https://daoyuan14.github.io/papers/ICC15_AppTrace.pdf)
+* [THAW: Tangible Interaction with See-Through Augmentation for Smartphones on Computer Screens](http://tmg-trackr.media.mit.edu/publishedmedia/Papers/545-THAW%20Tangible%20Interaction%20with/Published/PDF) 
 
 
 
