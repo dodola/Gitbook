@@ -7,7 +7,7 @@
 
 ----------
 
-收录找到的不错的文档
+收录找到的不错的文档(持续更新中!)
 
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
