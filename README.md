@@ -12,6 +12,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [The Linux Foundation Videos](https://www.youtube.com/user/TheLinuxFoundation/featured)
+     有很多流弊的教程视频
    * [The Linux Foundation Slides]( http://events.linuxfoundation.org/events/archive/2013/embedded-linux-conference-europe-/program/slides)
    * [Developing for Android: Introduction](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.jvhe6v2yp)
      在Kotlin的Slack上发现的一个分享,内容好熟悉,但是忘了看没看过了,再次记录一下
