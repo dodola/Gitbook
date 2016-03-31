@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
    * [The Linux Foundation Videos](https://www.youtube.com/user/TheLinuxFoundation/featured)
      有很多流弊的教程视频
    * [The Linux Foundation Slides]( http://events.linuxfoundation.org/events/archive/2013/embedded-linux-conference-europe-/program/slides)
