@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Java Memory Model Pragmatics (transcript)](http://shipilev.net/blog/2014/jmm-pragmatics/)
    * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
    * [The Linux Foundation Videos](https://www.youtube.com/user/TheLinuxFoundation/featured)
      有很多流弊的教程视频
