@@ -12,6 +12,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+
+   * [hitbsecconf2014ams](https://conference.hitb.org/hitbsecconf2014ams/materials/)
    * [Java Memory Model Pragmatics (transcript)](http://shipilev.net/talks/narnia-2555-jmm-pragmatics-en.pdf)
    * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
    * [The Linux Foundation Videos](https://www.youtube.com/user/TheLinuxFoundation/featured)
