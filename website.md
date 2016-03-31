@@ -99,7 +99,8 @@ Speaker Deck is the best way to share presentations online. Simply upload your s
 * [鸠摩搜书](https://www.jiumodiary.com/)
 
 
-
+# Blog
+http://shipilev.net/
 
 
 
