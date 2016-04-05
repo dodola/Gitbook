@@ -38,6 +38,10 @@ shell for OS X, Linux, and the rest of the family.
 UML图形工具
 
 * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) Github的树状浏览插件
+
+* [Git client,for Windows, Mac & Linux](https://www.gitkraken.com/download)
+
+
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
