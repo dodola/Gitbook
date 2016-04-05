@@ -12,6 +12,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Java 8 Language Features](http://developer.android.com/preview/j8-jack.html#supported-features)
    * [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
    * [Android MVP 详解（下](http://www.jianshu.com/p/0590f530c617)）
    * [hitbsecconf2014ams](https://conference.hitb.org/hitbsecconf2014ams/materials/)
