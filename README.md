@@ -12,6 +12,11 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+   * [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
+
+
+
    * [Java 8 Language Features](http://developer.android.com/preview/j8-jack.html#supported-features)
    * [Android MVP 详解（上）](http://www.jianshu.com/p/9a6845b26856)
    * [Android MVP 详解（下](http://www.jianshu.com/p/0590f530c617)）
