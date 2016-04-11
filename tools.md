@@ -47,7 +47,8 @@ UML图形工具
 * [GitLab Pages](http://pages.gitlab.io/?utm_source=next.36kr.com) 
 GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 
-
+* [You-Get](https://you-get.org/) 
+一个基于 Python 3 写的优酷土豆等近 60 多家站点视频的开源下载神器
 
 # Android Studio 插件
 
