@@ -44,6 +44,8 @@ UML图形工具
 * [Docbase](https://github.com/appbaseio/docbase) 
 将 Markdown 文件变成文档中心的工具
 
+* [GitLab Pages](http://pages.gitlab.io/?utm_source=next.36kr.com) 
+GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 
 
 
