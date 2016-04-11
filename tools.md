@@ -50,6 +50,8 @@ GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 * [You-Get](https://you-get.org/) 
 一个基于 Python 3 写的优酷土豆等近 60 多家站点视频的开源下载神器
 
+* [qroom](http://qroom.co/)
+随机音乐播放神器 
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
