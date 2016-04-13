@@ -52,6 +52,8 @@ GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 
 * [qroom](http://qroom.co/)
 随机音乐播放神器 
+
+* [fbredex](http://fbredex.com/) 
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
