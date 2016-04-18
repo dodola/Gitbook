@@ -54,6 +54,8 @@ GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 随机音乐播放神器 
 
 * [fbredex](http://fbredex.com/) 
+
+* [Nomino](http://carrapide.com/nomino/?utm_source=next.36kr.com) 随机生成产品名称
 # Android Studio 插件
 
 * [smali](https://github.com/JesusFreke/smali/wiki)
