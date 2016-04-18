@@ -59,6 +59,9 @@ GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 * [haxor-news](https://github.com/donnemartin/haxor-news?utm_source=next.36kr.com)
 命令行界面的 Hacker News
 
+* [MarkMaker](http://emblemmatic.org/markmaker/#/) 
+输入公司名称及偏好，生成 logo 设计供你挑选 
+
 
 # Android Studio 插件
 
