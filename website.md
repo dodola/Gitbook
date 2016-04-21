@@ -2,6 +2,7 @@
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 ##Development
 * [blackhat](https://www.blackhat.com/) 有很多安全方面的文档
+* [hitb](http://conference.hitb.org/hitbsecconf2015ams/agenda/)
 * [importnew](http://www.importnew.com/) 
 * [Bing学术搜索](http://www.bing.com/academic/?FORM=Z9LH2)
 * [汇智网](http://www.hubwiz.com/)
