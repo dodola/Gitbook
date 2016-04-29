@@ -26,6 +26,8 @@
 14. **android系统源代码情景分析**
 15. [**深入理解PHP内核**](http://www.php-internals.com/)
     因为一些原因要了解一下PHP,基本语法看了看,对这货没有线程相关知识感到不解,随找到这本书
+16. **JavaScript高级程序设计**
+17. **JavaScript+DOM编程艺术**
 
 ----------
 
