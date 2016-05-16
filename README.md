@@ -37,6 +37,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ##最近文章 
+   * [Instant Run: How Does it Work?!](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.p7odtygqw)
+ 
    * [前端观察](https://www.qianduan.net/)
    * [学习CSS布局](http://zh.learnlayout.com/)
    * [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)](https://github.com/ty4z2008/Qix/blob/master/dl.md)
