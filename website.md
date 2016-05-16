@@ -127,6 +127,7 @@ http://shipilev.net/
  * [input](http://input.fontbureau.com/) 字体收集
 
  * [musiclab](https://musiclab.chromeexperiments.com/Experiments)
+ * [material-motion](https://www.google.com/design/spec/motion/material-motion.html?utm_source=Android+Weekly&utm_campaign=f7b91895ba-Android_Weekly_205&utm_medium=email&utm_term=0_4eb677ad19-f7b91895ba-337909137)
 
 ##News
 
