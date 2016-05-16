@@ -1,3 +1,6 @@
+## Study
+* [计蒜客 2.0 ](http://www.jisuanke.com/course)    
+新型计算机在线教育产品发布重大更新，更有来自 ACM 金牌大神的算法课程
 ##Slack
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 ##Development
