@@ -1,6 +1,8 @@
 ## Study
 * [计蒜客 2.0 ](http://www.jisuanke.com/course)    
 新型计算机在线教育产品发布重大更新，更有来自 ACM 金牌大神的算法课程
+* [纳米学院](https://cn.udacity.com/?_ga=1.55487021.78647273.1463546408)
+
 ##Slack
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 ##Development
