@@ -40,7 +40,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
    * [安卓动态调试七种武器之长生剑 - Smali Instrumentation](http://drops.wooyun.org/papers/6045)
    * [安卓动态调试七种武器之孔雀翎 – Ida Pro](http://drops.wooyun.org/tips/6840#more-6840)
    * [安卓动态调试七种武器之离别钩 – Hooking (上)](http://drops.wooyun.org/tips/9300)
-   * 安卓动态调试七种武器之离别钩 – Hooking (下)
+   * [安卓动态调试七种武器之离别钩 – Hooking (下)](http://drops.wooyun.org/papers/10156)
    * 安卓动态调试七种武器之碧玉刀- Customized DVM
    * 安卓动态调试七种武器之多情环- Customized Kernel
    * 安卓动态调试七种武器之霸王枪 - Anti Anti-debugging
