@@ -64,6 +64,8 @@ GitLab 推出类似 GitHub Pages 的服务，可以通过仓库搭建网站
 
 * [cacoo](https://cacoo.com/getstarted/) 在线UML制作
 
+* [G2 一套图形语法](https://g2.alipay.com/demo/)
+
 
 # Android Studio 插件
 
