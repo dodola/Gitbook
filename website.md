@@ -150,6 +150,7 @@ http://shipilev.net/
 
 * [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/CH.MainPage.ashx) 
 * [CTF训练营](http://ctf.idf.cn/)
+* [神经网络](https://www.gitbook.com/book/ljalphabeta/neural-networks-and-deep-learning-notes/details)
 
 ## 课件
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
