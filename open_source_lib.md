@@ -18,7 +18,7 @@ AndFix is a library that offer hot-fix for Android App. It could help Android de
 * [Flutter](https://flutter.io/) Dart App Engine 未来趋势，持续关注
 
 ## View
-* [android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
+* [android-slidingactivity](https://github.com/klinker41/android-slidingactivity)    
 ![](https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif)
 
 ## 插件框架
