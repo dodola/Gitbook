@@ -39,6 +39,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ##最近文章 
    * [React Native 开发之 IDE 选型和配置](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112392&idx=1&sn=135e29ddde3050d469be98db815c267e&scene=0&key=18e81ac7415f67c4bcc2eaac3ca13f8d294ec1b8fa5828d4d7f13f2e81cc62f72e55e828ee04e2002284521336a3766d&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=IYYr6c4vUnT0%2Bavp7Kh4QX0%2F3Due6hVy8D0M%2FE3HusZ%2B3%2BljLKzmZgKeEGJNzgOF)
    * [从linux到android，进程的方方面面](http://www.jianshu.com/p/d80d5d0f7dbe)
+   * 
    * [安卓动态调试七种武器之长生剑 - Smali Instrumentation](http://drops.wooyun.org/papers/6045)
    * [安卓动态调试七种武器之孔雀翎 – Ida Pro](http://drops.wooyun.org/tips/6840#more-6840)
    * [安卓动态调试七种武器之离别钩 – Hooking (上)](http://drops.wooyun.org/tips/9300)
