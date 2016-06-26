@@ -39,7 +39,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 ##最近文章 
    * [React Native 开发之 IDE 选型和配置](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112392&idx=1&sn=135e29ddde3050d469be98db815c267e&scene=0&key=18e81ac7415f67c4bcc2eaac3ca13f8d294ec1b8fa5828d4d7f13f2e81cc62f72e55e828ee04e2002284521336a3766d&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=IYYr6c4vUnT0%2Bavp7Kh4QX0%2F3Due6hVy8D0M%2FE3HusZ%2B3%2BljLKzmZgKeEGJNzgOF)
    * [从linux到android，进程的方方面面](http://www.jianshu.com/p/d80d5d0f7dbe)
-   * 
+   * [安卓跨进程点击事件的解决方案](https://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=2653199724&idx=1&sn=4162df42fc6b4c9acd3a2d726a2a4939&scene=1&srcid=0616j2SnQztkGM9tJMTrs1CU&key=18e81ac7415f67c43df1b9b4ce127e11e2e5a72ea99919edebe05f3bb261b1066706ee4a8855f0a1658f316a42d17f16&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=IYYr6c4vUnT0%2Bavp7Kh4QX0%2F3Due6hVy8D0M%2FE3HusZ%2B3%2BljLKzmZgKeEGJNzgOF)
+   * [Android逆向之旅—动态方式破解apk终极篇(应对加固apk破解方式)](http://www.wjdiankong.cn/blog/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-%E5%8A%A8%E6%80%81%E6%96%B9%E5%BC%8F%E7%A0%B4%E8%A7%A3apk%E7%BB%88%E6%9E%81%E7%AF%87%E5%BA%94%E5%AF%B9%E5%8A%A0%E5%9B%BAapk%E7%A0%B4%E8%A7%A3%E6%96%B9/)
    * [安卓动态调试七种武器之长生剑 - Smali Instrumentation](http://drops.wooyun.org/papers/6045)
    * [安卓动态调试七种武器之孔雀翎 – Ida Pro](http://drops.wooyun.org/tips/6840#more-6840)
    * [安卓动态调试七种武器之离别钩 – Hooking (上)](http://drops.wooyun.org/tips/9300)
