@@ -43,6 +43,10 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
+* [Java代码到字节码——第一部分](http://ifeve.com/javacodetobytecode-partone/)
+
+* [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
+* [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [Android插件化原理解析——ContentProvider的插件化](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)
 * [Android 插件化原理解析——Service的插件化](http://weishu.me/2016/05/11/understand-plugin-framework-service/)
 * [Android插件化原理解析——广播的管理](http://weishu.me/2016/04/12/understand-plugin-framework-receiver/)
