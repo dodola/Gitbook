@@ -37,18 +37,20 @@
 ---
 
 收录找到的不错的文档\(持续更新中!\)
-乌云童鞋挂了，最近会把乌云上的文章同步到git里
+
+**最近乌云童鞋挂了，会把乌云上的文章同步到git里**
 
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
-* [Google Agera 从入门到放弃](http://blog.chengyunfeng.com/?p=984)
 
+* [深度理解Android InstantRun原理以及源码分析](https://github.com/nuptboyzhb/AndroidInstantRun)
+
+* [Google Agera 从入门到放弃](http://blog.chengyunfeng.com/?p=984)
+* [Parcel分析](http://blog.csdn.net/jacklam200/article/details/37910861)
 * [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85)
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
-
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
-
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
 * [理解RxJava的线程模型](http://colobu.com/2016/07/25/understanding-rxjava-thread-model/)
 * [逆向基础（一）](http://drops.wooyun.org/tips/1517)
