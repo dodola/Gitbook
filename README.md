@@ -42,6 +42,9 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
 
+* [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85)
+* [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
+
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
 
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
