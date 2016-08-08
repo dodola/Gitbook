@@ -42,7 +42,8 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
 
-* 
+* [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
+
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
 * [理解RxJava的线程模型](http://colobu.com/2016/07/25/understanding-rxjava-thread-model/)
 * [逆向基础（一）](http://drops.wooyun.org/tips/1517)
