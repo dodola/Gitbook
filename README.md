@@ -43,6 +43,9 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
+
+* [Android内存申请分析](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286327&idx=1&sn=b69513e3dfd1de848daefe03ab6719c2&scene=0&key=77421cf58af4a6534faae2e39a1d2002b59a2cb93ebb02079993c95a37d13d7c24f6bfaf40956c8d768fc5d14555ba3e&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=ITDgY8jmrXUfwFXFF5dIXjjUGT%2Bjosrkf8JctrkEiM3n%2F5PmuQjtbzHuMvPqa8Qq)
+
 * [Static Analysis of Dalvik Bytecode and Reflection in Android](http://projekter.aau.dk/projekter/files/63640573/rapport.pdf)
 * [Java代码到字节码——第一部分](http://ifeve.com/javacodetobytecode-partone/)
 * [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
