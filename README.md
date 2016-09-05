@@ -43,7 +43,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
-
+* [【ReactNative For Android】框架启动核心路径剖析](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796767&idx=1&sn=9a499453b627a223e0c2863658dd0329&scene=4#wechat_redirect)
 * [【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=4#wechat_redirect)
 * [APP淘宝，你为什么这么慢卡？](http://www.jianshu.com/p/423b77c15af3)
 * [每个程序员都应该收藏的算法复杂度速查表](https://linux.cn/article-7480-1.html)
