@@ -28,7 +28,7 @@
 12. **Java并发编程的艺术** 主要是冲着内存模型那一章买的,如果实战应用的话建议下面这本
 13. **java并发编程实战** 
 14. **android系统源代码情景分析**
-15. [**深入理解PHP内核**](http://www.php-internals.com/)
+15. **[深入理解PHP内核](http://www.php-internals.com/)**
   因为一些原因要了解一下PHP,基本语法看了看,对这货没有线程相关知识感到不解,随找到这本书
 16. **JavaScript高级程序设计**
 17. **JavaScript+DOM编程艺术**
@@ -43,6 +43,8 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
+
+* [APP淘宝，你为什么这么慢卡？](http://www.jianshu.com/p/423b77c15af3)
 * [每个程序员都应该收藏的算法复杂度速查表](https://linux.cn/article-7480-1.html)
 * [HTTP 缓存的四种风味与缓存策略](https://www.shiyanlou.com/questions/5362)
 * [FaceBook出品：基于Android的内存优化](http://www.jianshu.com/p/831f936b8304?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -51,6 +53,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 * [Android内存申请分析](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286327&idx=1&sn=b69513e3dfd1de848daefe03ab6719c2&scene=0&key=77421cf58af4a6534faae2e39a1d2002b59a2cb93ebb02079993c95a37d13d7c24f6bfaf40956c8d768fc5d14555ba3e&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=ITDgY8jmrXUfwFXFF5dIXjjUGT%2Bjosrkf8JctrkEiM3n%2F5PmuQjtbzHuMvPqa8Qq)
 
 * [Static Analysis of Dalvik Bytecode and Reflection in Android](http://projekter.aau.dk/projekter/files/63640573/rapport.pdf)
+
 * [Java代码到字节码——第一部分](http://ifeve.com/javacodetobytecode-partone/)
 * [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
@@ -65,6 +68,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 * [Android插件化原理解析——概要](http://weishu.me/2016/01/28/understand-plugin-framework-overview/)
 
 * [深度理解Android InstantRun原理以及源码分析](https://github.com/nuptboyzhb/AndroidInstantRun)
+
 * [Google Agera 从入门到放弃](http://blog.chengyunfeng.com/?p=984)
 * [Parcel分析](http://blog.csdn.net/jacklam200/article/details/37910861)
 * [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85)
@@ -130,7 +134,7 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
 * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis)
 * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
-* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[](https://github.com/apple/swift/pull/1442)[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
+* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[](https://github.com/apple/swift/pull/1442)[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
 * [Tessellation for OpenGL ES 3.1 on Android](https://software.intel.com/en-us/articles/tessellation-for-opengl-es-31-on-android)
 * [EXT\_tessellation\_shader](https://www.khronos.org/registry/gles/extensions/EXT/EXT_tessellation_shader.txt)
 * [要写易删除，而不易扩展的代码](http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/)    
@@ -315,5 +319,6 @@ gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 29. [Android最佳性能实践\(2\)：分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
 
 30. [Android最佳性能实践\(3\)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
+
 31. [Android最佳性能实践\(4\)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
 
