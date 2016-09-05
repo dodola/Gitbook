@@ -43,6 +43,7 @@
 gitbook地址 [Gitbook](http://dodola.gitbooks.io/gitbook/content/)
 
 ## 最近文章
+* [HTTP 缓存的四种风味与缓存策略](https://www.shiyanlou.com/questions/5362)
 * [FaceBook出品：基于Android的内存优化](http://www.jianshu.com/p/831f936b8304?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [拆轮子系列：拆 Okio](http://blog.piasy.com/2016/08/04/Understand-Okio/)
 * [深度理解Android InstantRun原理以及源码分析](http://www.jianshu.com/p/780eb85260b3)
