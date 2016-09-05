@@ -28,7 +28,7 @@
 12. **Java并发编程的艺术** 主要是冲着内存模型那一章买的,如果实战应用的话建议下面这本
 13. **java并发编程实战** 
 14. **android系统源代码情景分析**
-15. **[深入理解PHP内核](http://www.php-internals.com/)**
+15. [**深入理解PHP内核**](http://www.php-internals.com/)
   因为一些原因要了解一下PHP,基本语法看了看,对这货没有线程相关知识感到不解,随找到这本书
 16. **JavaScript高级程序设计**
 17. **JavaScript+DOM编程艺术**
@@ -40,7 +40,7 @@
 
 **最近乌云童鞋挂了，会把乌云上的文章同步到git里**
 
-找到一个不错的镜像 \[wooyun\_articles\]\(https:\/\/jiji262.github.io\/wooyun\_articles\/\)
+找到一个不错的镜像 [wooyun_articles](https://jiji262.github.io/wooyun_articles/)
 
 ## 最近文章
 
@@ -62,6 +62,7 @@
 * [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
 
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+
 * [Android插件化原理解析——ContentProvider的插件化](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)
 * [Android 插件化原理解析——Service的插件化](http://weishu.me/2016/05/11/understand-plugin-framework-service/)
 * [Android插件化原理解析——广播的管理](http://weishu.me/2016/04/12/understand-plugin-framework-receiver/)
@@ -79,6 +80,7 @@
 * [Parcel分析](http://blog.csdn.net/jacklam200/article/details/37910861)
 
 * [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85)
+
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
@@ -141,7 +143,7 @@
 * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
 * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis)
 * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
-* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[](https://github.com/apple/swift/pull/1442)[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
+* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[](https://github.com/apple/swift/pull/1442)[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
 * [Tessellation for OpenGL ES 3.1 on Android](https://software.intel.com/en-us/articles/tessellation-for-opengl-es-31-on-android)
 * [EXT\_tessellation\_shader](https://www.khronos.org/registry/gles/extensions/EXT/EXT_tessellation_shader.txt)
 * [要写易删除，而不易扩展的代码](http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/)    
