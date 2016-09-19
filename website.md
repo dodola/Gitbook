@@ -6,6 +6,7 @@
 ##Slack
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 ##Development
+* [speakerdeck](https://speakerdeck.com/)
 * [google-developers](https://medium.com/google-developers)
 * [webkit css](http://ued.ctrip.com/webkitcss/index.html)
 * [Android 源码搜索](http://osxr.org:8080/android) 
