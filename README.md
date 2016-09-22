@@ -44,6 +44,7 @@
 
 ## 最近文章
 
+* [Android Linker 与 SO 加壳技术](http://dev.qq.com/topic/57e3a3bc42eb88da6d4be143)
 * [Android内存泄漏的简单检查与分析方法](http://dev.qq.com/topic/57d14047603a5bf1242ad01b)
 * [Android N混合编译与对热补丁影响解析](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286341&idx=1&sn=054d595af6e824cbe4edd79427fc2706&scene=0#wechat_redirect)
 * [【ReactNative For Android】框架启动核心路径剖析](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796767&idx=1&sn=9a499453b627a223e0c2863658dd0329&scene=4#wechat_redirect)
