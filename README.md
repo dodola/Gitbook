@@ -44,6 +44,7 @@
 
 ## 最近文章
 
+* [](http://dev.qq.com/topic/57d14047603a5bf1242ad01b)
 * [Android N混合编译与对热补丁影响解析](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286341&idx=1&sn=054d595af6e824cbe4edd79427fc2706&scene=0#wechat_redirect)
 * [【ReactNative For Android】框架启动核心路径剖析](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796767&idx=1&sn=9a499453b627a223e0c2863658dd0329&scene=4#wechat_redirect)
 * [【RxJava && Agera】从源码简要分析基本调用流程](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=2649796857&idx=1&sn=ed8325aeddac7fd2bd81a0717c010e98&scene=4#wechat_redirect)
