@@ -44,7 +44,7 @@
 
 ## 最近文章
 
-* [](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
+* [Looking Ahead To RxJava 2 (Droidcon NYC 2016](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
 * [2016MDCC移动开发者大会总结](http://www.jianshu.com/p/2749dfa549c9)
 * [Android使用 SO 库时要注意的一些问题](http://www.apkbus.com/home.php?mod=space&uid=705730&do=blog&id=61719)
 * [Android Linker 与 SO 加壳技术](http://dev.qq.com/topic/57e3a3bc42eb88da6d4be143)
