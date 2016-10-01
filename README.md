@@ -43,6 +43,8 @@
 找到一个不错的镜像 [wooyun_articles](https://jiji262.github.io/wooyun_articles/)
 
 ## 最近文章
+
+* [Java 8 on android](https://medium.com/android-dev-br/usando-java-8-no-android-d351e4ad391b#.jdoa8rqxd)
 * [Pury — New Way to Profile Your Android Application](https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.wkseu8k6v)
 * [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
 * [Looking Ahead To RxJava 2 (Droidcon NYC 2016](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
