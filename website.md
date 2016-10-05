@@ -9,7 +9,7 @@
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 
 ## Development
-* [传送门](http://chuansong.me/)
+* [传送门](http://chuansong.me/) 微信公众号文章推荐
 * [speakerdeck](https://speakerdeck.com/)
 * [google-developers](https://medium.com/google-developers)
 * [webkit css](http://ued.ctrip.com/webkitcss/index.html)
