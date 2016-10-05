@@ -9,6 +9,7 @@
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 
 ## Development
+* [腾讯移动品质重心](http://tmq.qq.com/)
 * [传送门](http://chuansong.me/) 微信公众号文章推荐
 * [speakerdeck](https://speakerdeck.com/)
 * [google-developers](https://medium.com/google-developers)
