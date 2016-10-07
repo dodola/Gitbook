@@ -43,6 +43,8 @@
 找到一个不错的镜像 [wooyun_articles](https://jiji262.github.io/wooyun_articles/)
 
 ## 最近文章
+* [How to Use Awk and Regular Expressions to Filter Text or String in Files
+](http://www.tecmint.com/use-linux-awk-command-to-filter-text-string-in-files/)
 
 * [Java 8 on android](https://medium.com/android-dev-br/usando-java-8-no-android-d351e4ad391b#.jdoa8rqxd)
 * [Pury — New Way to Profile Your Android Application](https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.wkseu8k6v)
