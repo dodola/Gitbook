@@ -113,6 +113,7 @@
   Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 
 # 资源站
+* [搬书酱](http://www.banshujiang.cn/)
 * [it-ebooks](http://it-ebooks.directory/
 * [http://ebook-dl.com/](http://ebook-dl.com/)
 * [小木虫](http://emuch.net/)
