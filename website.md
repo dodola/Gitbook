@@ -191,4 +191,7 @@
 * baiduqa
   百度质量部公众号
 
+* Blog
+
+[barta](https://barta.me/)
 
