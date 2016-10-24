@@ -194,4 +194,6 @@
 # Blog
 
 * [barta](https://barta.me/)
+* [mzuker](https://mzucker.github.io/)
+
 
