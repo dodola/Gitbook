@@ -198,5 +198,5 @@
 * [barta](https://barta.me/)
 * [mzuker](https://mzucker.github.io/)
 * [upday tech blog](https://upday.github.io/)
-
+* [no need to memorize](http://www.birbit.com/)
 
