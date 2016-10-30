@@ -1,0 +1,138 @@
+---
+title: Tinker Code Section Diff
+tags: 新建,模板,小书匠
+grammar_cjkRuby: true
+---
+
+# 前言
+
+从微信公众号介绍Tinker开始就一直关注Tinker，自己也一直在做热修复相关的开发，但一直都是在踩坑的状态，在MDCC的时候也和邵文同学聊了一下，从看到框架代码开始就觉得其稳定性相当的好，而整个框架里我在意的几部分是：
+1. DexDiff 
+    我觉得这是最体现微信做事风格的一个模块：要把一个技术做到极致，像之前开源的几种方案里Andfix的补丁粒度是方法，像nuwa、rocoofix类似的补丁粒度是类，其他有很多采用bsdiff的，其实上述的方法都会由于一些的情况造成补丁包变得很大（这个后面会讲原因），而Tinker是基于Dex的文件结构来下手，将产生变化的结构提取出来，产生的补丁非常小，而且在diff的过程中也处理了一些会造成补丁包很大的场景，这个后续再谈。之前有同学跟我说这个是反编译过程，其实并不是如此。
+2. 资源Diff
+   这块技术大家在做的时候大部分出现的问题都不在如何加载补丁资源包里，因为这块内容Instantrun里已经有很完整的解决方案，我们都在讨论同一个问题就是如何保证后续打包的资源id不变的问题，并且使用比较优雅的方式来集成进去，Tinker里已经解决这个问题。
+3. 分平台合成
+   DexDiff生成了一个自定义格式的dex，这个dex在不同的虚拟机环境下会区分dalvik和art平台合成不同的补丁包，而这种方式也是分别为了解决dalvik下和art下出现的问题产生的方案。这样就避免了Dalvik下需要宿主提前插桩才能解决验证问题等。
+4. 补丁包的加载
+   这块遇到的问题其实有很多，比如如何判断dex、资源文件已经加载完成，如何判断这个机型不支持classloader的dex插入机制，以及如何连续下发补丁，补丁的回退机制等等，Tinker都以解决上述问题，并且提供了很完整的日志供开发同学分析。
+5. MiniLoader
+   这个名词是从Tinker第一篇文章中看到的，像之前的框架基本上补丁的加载都是在Application的onCreate里或者attachBaseContext里，这就会造成一个问题就是Application出现问题是无法被修复的，Tinker为了解决这个问题采用了隔离Application的方式，Application的初始化和声明周期由 MiniLoader 来进行代理这样我们就可以把很多操作放在代理类里完成，Application和其提前加载的类都是可以进行修复的。
+
+# DexDiff
+
+其实这个标题并不是很符合我下面要介绍的内容，我下面主要介绍一下在Diff过程中处理Code Section 的内容，其他 section 的diff其实相对容易理解一些，大家看源码和[这篇文章][1]基本就明白了
+
+## 从Dex说起
+
+要了解整个diff 过程需要先熟悉一下Dex的文件结构，这里要老生常谈的描述一下Dex的Section结构和各个Section之间的关联性，我们以一段简单的代码为例。
+
+```bash
+% echo 'class Foo {'\
+> 'public static void main(String[] args) {'\
+> 'System.out.println("Hello, world"); }}' > Foo.java
+% javac Foo.java
+% dx --dex --output=foo.jar Foo.class
+% adb push foo.jar /sdcard
+% adb shell dalvikvm -cp /sdcard/foo.jar Foo
+Hello, world
+
+```
+
+上述的命令将一段很简单的`Hello World`代码先经过 `javac` 编译成 `.class`文件，然后通过 `dx`命令 将 `.class` 文件转换成 `Dex` 也就是上面生成的一个`foo.jar`文件，其内部包含一个classes.dex文件，这个文件就是我们下面要分析的文件.
+
+我们先大体来看一下整个Dex的结构，从 [AloneMonkey][2] 的博客中找到一个很合适的图 
+
+![enter description here][3]
+
+Tinker针对上面的Data Section部分每一项内容都做了相应的diff逻辑
+
+![enter description here][4]
+
+本次要讲的是`CodeSectionDiffAlgorithm`算法过程，相对来说其他的diff过程都相对容易理解一些，而由于dex的一些优化过程导致opcode的改变从而引发Diff和Merge的过程中出现一些问题。
+
+所以我们先来了解一下Code Section里包含什么内容。
+
+
+## Code Section
+
+我们在上一节中生成了一个只有一个静态main方法的dex类，这个类足够简单很适合用来分析。
+其实通过分析`class_data`结构中可以看到其中其`direct_methods_size`是2，说明里面有两个方法，一个是编译器生成的构造方法`Foo.<init>`一个是我们定义的静态方法 `public static void Foo.main(java.lang.String[])`
+
+![enter description here][5]
+
+下面的图指出了在method结构里通过`code_off`字段引用到指定的`code_item`段，这个就是我们要分析的部分。
+
+![enter description here][6]
+
+上面图中指出的`code_item`段的内容在Tinker里面通过`com.tencent.tinker.android.dex.Code`类对应
+
+```java
+public final class Code extends Item<Code> {
+    public int registersSize;//本段代码使用到的寄存器数目
+    public int insSize;//method传入参数的数目 
+    public int outsSize;//本段代码调用其它method 时需要的参数个数 
+    public int debugInfoOffset;//指向调试信息的偏移
+    public short[] instructions;//表示具体的字节码
+    public Try[] tries;//try_item 数组
+    public CatchHandler[] catchHandlers;
+}
+
+```
+
+然后Tinker在做diff的时候通过`compareTo`方法来判断方法里的代码是否没变
+
+```java
+ @Override
+    public int compareTo(Code other) {
+        int res = CompareUtils.sCompare(registersSize, other.registersSize);
+        if (res != 0) {
+            return res;
+        }
+        res = CompareUtils.sCompare(insSize, other.insSize);
+        if (res != 0) {
+            return res;
+        }
+        res = CompareUtils.sCompare(outsSize, other.outsSize);
+        if (res != 0) {
+            return res;
+        }
+        res = CompareUtils.sCompare(debugInfoOffset, other.debugInfoOffset);
+        if (res != 0) {
+            return res;
+        }
+        res = CompareUtils.uArrCompare(instructions, other.instructions);
+        if (res != 0) {
+            return res;
+        }
+        res = CompareUtils.aArrCompare(tries, other.tries);
+        if (res != 0) {
+            return res;
+        }
+        return CompareUtils.aArrCompare(catchHandlers, other.catchHandlers);
+    }
+
+```
+
+上面的代码就简单明了了，属性里的任何一项出现不同那么就认为用户修改过这个方法体，并将这部分内容打入补丁包中。
+
+事情就是这么简单么?当然不会如此，如果翻过源码的同学会发现在项目中 
+## bytecode 简要说明
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [1]: http://www.jianshu.com/p/e39071e04fe2
+  [2]: http://www.blogfshare.com/author/AloneMonkey
+  [3]: ./images/1477655702494.jpg "1477655702494.jpg"
+  [4]: ./images/1477827554279.jpg "1477827554279.jpg"
+  [5]: ./images/1477829739784.jpg "1477829739784.jpg"
+  [6]: ./images/1477830094520.jpg "1477830094520.jpg"
