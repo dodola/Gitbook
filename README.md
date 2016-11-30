@@ -43,6 +43,10 @@
 找到一个不错的镜像 [wooyun_articles](https://jiji262.github.io/wooyun_articles/)
 
 ## 最近文章
+
+* [FrameMetrics — realtime app smoothness tracking](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.e1n0rbxmw)
+* [FrameMetricsListener API](https://developer.android.com/about/versions/nougat/android-7.0.html#framemetrics_api)
+* [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html?index=..%2F..%2Findex#0)
 * [How to Use Awk and Regular Expressions to Filter Text or String in Files
 ](http://www.tecmint.com/use-linux-awk-command-to-filter-text-string-in-files/)
 
