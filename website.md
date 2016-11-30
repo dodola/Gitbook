@@ -124,7 +124,7 @@
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
 * [逼格ppt](http://www.tretars.com/)
-* [http://www.0daydown.com/(http://www.0daydown.com/)
+* [http://www.0daydown.com/](http://www.0daydown.com/)
 
 # Blog
 
