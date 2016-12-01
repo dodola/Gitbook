@@ -33,6 +33,7 @@
 16. **JavaScript高级程序设计**
 17. **JavaScript+DOM编程艺术**
 18. **HTML5权威指南** CSS3+HTML
+19. **现代操作系统**
 
 ---
 
