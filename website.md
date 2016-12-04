@@ -125,7 +125,7 @@
 * [鸠摩搜书](https://www.jiumodiary.com/)
 * [逼格ppt](http://www.tretars.com/)
 * [http://www.0daydown.com/](http://www.0daydown.com/)
-
+http://hifor.net/ebook/
 # Blog
 
 [http:\/\/shipilev.net\/](http://shipilev.net/)
