@@ -170,6 +170,7 @@
 * [CTF训练营](http://ctf.idf.cn/)
 
 * [神经网络](https://www.gitbook.com/book/ljalphabeta/neural-networks-and-deep-learning-notes/details)
+* https://scotch.io/
 
 ## 课件
 
