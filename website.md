@@ -128,6 +128,7 @@
 * http://hifor.net/ebook/
 * https://www.dmoz.org/
 * https://lyneteam.eu/Cours/
+* http://www.free-engineering-books.com/
 
 # Blog
 
