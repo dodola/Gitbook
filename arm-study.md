@@ -9,7 +9,7 @@
 
 
 # Article
-
+1. http://chortle.ccsu.edu/AssemblyTutorial/index.html
 
 # BOOK
 
