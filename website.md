@@ -133,6 +133,7 @@
 # Blog
 
 [http:\/\/shipilev.net\/](http://shipilev.net/)
+http://thinkingeek.com/
 
 # Design
 
