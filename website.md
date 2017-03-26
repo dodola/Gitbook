@@ -129,6 +129,7 @@
 * https://www.dmoz.org/
 * https://lyneteam.eu/Cours/
 * http://www.free-engineering-books.com/
+* http://mebook.cc/
 
 # Blog
 
