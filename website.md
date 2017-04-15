@@ -179,6 +179,8 @@ https://www.davespace.co.uk/
 * [神经网络](https://www.gitbook.com/book/ljalphabeta/neural-networks-and-deep-learning-notes/details)
 * https://scotch.io/
 
+* https://www.academia.edu/
+
 ## 课件
 
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
