@@ -184,6 +184,7 @@ https://www.davespace.co.uk/
 ## 课件
 
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
+* [ics2017](https://www.gitbook.com/book/nju-ics/ics2017-programming-assignment/details)
 
 ## Design
 
