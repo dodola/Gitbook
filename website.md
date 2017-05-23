@@ -8,7 +8,8 @@
 
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 
-## Development
+## Development阿萨德阿萨德撒奥所多阿萨德阿萨德阿萨德
+
 * [腾讯移动品质中心](http://tmq.qq.com/)
 * [传送门](http://chuansong.me/) 微信公众号文章推荐
 * [speakerdeck](https://speakerdeck.com/)
@@ -88,6 +89,7 @@
 * [码农周刊](http://weekly.manong.io/)
 
 * [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
+
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
 * [关注黑客与极客](http://www.freebuf.com/)
 * [360安全播报](http://bobao.360.cn/index/index)
@@ -113,6 +115,7 @@
   Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 
 # 资源站
+
 * [搬书酱](http://www.banshujiang.cn/)
 * [it-ebooks](http://it-ebooks.directory/)
 * [http://ebook-dl.com/](http://ebook-dl.com/)
@@ -125,17 +128,17 @@
 * [鸠摩搜书](https://www.jiumodiary.com/)
 * [逼格ppt](http://www.tretars.com/)
 * [http://www.0daydown.com/](http://www.0daydown.com/)
-* http://hifor.net/ebook/
-* https://www.dmoz.org/
-* https://lyneteam.eu/Cours/
-* http://www.free-engineering-books.com/
-* http://mebook.cc/
+* [http://hifor.net/ebook/](http://hifor.net/ebook/)
+* [https://www.dmoz.org/](https://www.dmoz.org/)
+* [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
+* [http://www.free-engineering-books.com/](http://www.free-engineering-books.com/)
+* [http://mebook.cc/](http://mebook.cc/)
 
 # Blog
 
-[http:\/\/shipilev.net\/](http://shipilev.net/)
-http://thinkingeek.com/
-https://www.davespace.co.uk/
+[http:\/\/shipilev.net\/](http://shipilev.net/)  
+[http://thinkingeek.com/](http://thinkingeek.com/)  
+[https://www.davespace.co.uk/](https://www.davespace.co.uk/)
 
 # Design
 
@@ -152,7 +155,6 @@ https://www.davespace.co.uk/
 * [material-motion](https://www.google.com/design/spec/motion/material-motion.html?utm_source=Android+Weekly&utm_campaign=f7b91895ba-Android_Weekly_205&utm_medium=email&utm_term=0_4eb677ad19-f7b91895ba-337909137)
 
 * [ibm developerworks](http://www.ibm.com/developerworks/cn/)
-
 
 ## News
 
@@ -177,9 +179,10 @@ https://www.davespace.co.uk/
 * [CTF训练营](http://ctf.idf.cn/)
 
 * [神经网络](https://www.gitbook.com/book/ljalphabeta/neural-networks-and-deep-learning-notes/details)
-* https://scotch.io/
 
-* https://www.academia.edu/
+* [https://scotch.io/](https://scotch.io/)
+
+* [https://www.academia.edu/](https://www.academia.edu/)
 
 ## 课件
 
@@ -192,7 +195,7 @@ https://www.davespace.co.uk/
 
 ## 科学上网
 
-[niuxss](https://niuxss.com)
+[niuxss](https://niuxss.com)  
 [lanyus](http://idea.lanyus.com/)
 
 ## 微信号
@@ -201,7 +204,7 @@ https://www.davespace.co.uk/
 
   微信移动客户端开发团队官号，分享微信在Android、iOS、Mac、Winphone、Windows等平台的开发经验、前沿技术，以及一些鲜为人知的小故事。
 
-* baiduqa
+* baiduqa  
   百度质量部公众号
 
 # Blog
@@ -211,3 +214,6 @@ https://www.davespace.co.uk/
 * [upday tech blog](https://upday.github.io/)
 * [no need to memorize](http://www.birbit.com/)
 * [![](http://www.robinwieruch.de/img/page/logo.png)](http://www.robinwieruch.de/)
+
+
+
