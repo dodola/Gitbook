@@ -12,8 +12,6 @@
 
 ## 
 
----
-
 收录找到的不错的文档\(持续更新中!\)
 
 **最近乌云童鞋挂了，会把乌云上的文章同步到git里**
@@ -25,12 +23,13 @@
 * [FrameMetrics — realtime app smoothness tracking](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.e1n0rbxmw)
 * [FrameMetricsListener API](https://developer.android.com/about/versions/nougat/android-7.0.html#framemetrics_api)
 * [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html?index=..%2F..%2Findex#0)
-* [How to Use Awk and Regular Expressions to Filter Text or String in Files  
+* [How to Use Awk and Regular Expressions to Filter Text or String in Files    
   ](http://www.tecmint.com/use-linux-awk-command-to-filter-text-string-in-files/)
 
 * [Java 8 on android](https://medium.com/android-dev-br/usando-java-8-no-android-d351e4ad391b#.jdoa8rqxd)
 
 * [Pury — New Way to Profile Your Android Application](https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.wkseu8k6v)
+
 * [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
 * [Looking Ahead To RxJava 2 \(Droidcon NYC 2016](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
 * [2016MDCC移动开发者大会总结](http://www.jianshu.com/p/2749dfa549c9)
@@ -59,6 +58,7 @@
 * [Android插件化原理解析——ContentProvider的插件化](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)
 
 * [Android 插件化原理解析——Service的插件化](http://weishu.me/2016/05/11/understand-plugin-framework-service/)
+
 * [Android插件化原理解析——广播的管理](http://weishu.me/2016/04/12/understand-plugin-framework-receiver/)
 * [Android 插件化原理解析——插件加载机制](http://weishu.me/2016/04/05/understand-plugin-framework-classloader/)
 * [Android 插件化原理解析——Activity生命周期管理](http://weishu.me/2016/03/21/understand-plugin-framework-activity-management/)
@@ -78,6 +78,7 @@
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
+
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
 * [理解RxJava的线程模型](http://colobu.com/2016/07/25/understanding-rxjava-thread-model/)
 * [逆向基础（一）](http://drops.wooyun.org/tips/1517)
