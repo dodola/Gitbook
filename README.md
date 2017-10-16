@@ -10,30 +10,7 @@
 
 ---
 
-## 书单
-
-都是一些最近看的书和已经看完的书,列个单子
-
-1. **虚拟机—系统与进程的通用平台**
-2. **深入理解Java虚拟机** 
-3. **Java编程思想**     
-4. **深入理解计算机系统**
-5. **机器学习\(周志华\)** 看不大懂,慢慢看
-6. **Java特种兵** 这本书读起来很轻松,知识讲解的也很好
-7. **Unix环境高级编程** 啃得很慢
-8. **算法问题实战策略** 
-9. **算法第四版** 算法薄弱点,去Google面试被虐的不要不要的
-10. **Android开发艺术探索** 之前跟刚哥讨论过,我说他四大组件和性能分析那写的不是很好,因为跳过了一些更深的东西,读起来有点脱节,后来我仔细读了一遍发现虽然脱节,但如果只作为学习者的话重点都写了
-11. **操作系统真象还原** 买来还没读,翻了翻,内容量很多很细,后面会仔细读一遍
-12. **Java并发编程的艺术** 主要是冲着内存模型那一章买的,如果实战应用的话建议下面这本
-13. **java并发编程实战** 
-14. **android系统源代码情景分析**
-15. [**深入理解PHP内核**](http://www.php-internals.com/)
-  因为一些原因要了解一下PHP,基本语法看了看,对这货没有线程相关知识感到不解,随找到这本书
-16. **JavaScript高级程序设计**
-17. **JavaScript+DOM编程艺术**
-18. **HTML5权威指南** CSS3+HTML
-19. **现代操作系统**
+## 
 
 ---
 
@@ -41,20 +18,21 @@
 
 **最近乌云童鞋挂了，会把乌云上的文章同步到git里**
 
-找到一个不错的镜像 [wooyun_articles](https://jiji262.github.io/wooyun_articles/)
+找到一个不错的镜像 [wooyun\_articles](https://jiji262.github.io/wooyun_articles/)
 
 ## 最近文章
 
 * [FrameMetrics — realtime app smoothness tracking](https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.e1n0rbxmw)
 * [FrameMetricsListener API](https://developer.android.com/about/versions/nougat/android-7.0.html#framemetrics_api)
 * [Automated Performance Testing Codelab](https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html?index=..%2F..%2Findex#0)
-* [How to Use Awk and Regular Expressions to Filter Text or String in Files
-](http://www.tecmint.com/use-linux-awk-command-to-filter-text-string-in-files/)
+* [How to Use Awk and Regular Expressions to Filter Text or String in Files  
+  ](http://www.tecmint.com/use-linux-awk-command-to-filter-text-string-in-files/)
 
 * [Java 8 on android](https://medium.com/android-dev-br/usando-java-8-no-android-d351e4ad391b#.jdoa8rqxd)
+
 * [Pury — New Way to Profile Your Android Application](https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.wkseu8k6v)
 * [Exploring Java's Hidden Costs](https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/)
-* [Looking Ahead To RxJava 2 (Droidcon NYC 2016](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
+* [Looking Ahead To RxJava 2 \(Droidcon NYC 2016](https://speakerdeck.com/jakewharton/looking-ahead-to-rxjava-2-droidcon-nyc-2016)
 * [2016MDCC移动开发者大会总结](http://www.jianshu.com/p/2749dfa549c9)
 * [Android使用 SO 库时要注意的一些问题](http://www.apkbus.com/home.php?mod=space&uid=705730&do=blog&id=61719)
 * [Android Linker 与 SO 加壳技术](http://dev.qq.com/topic/57e3a3bc42eb88da6d4be143)
@@ -79,6 +57,7 @@
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 
 * [Android插件化原理解析——ContentProvider的插件化](http://weishu.me/2016/07/12/understand-plugin-framework-content-provider/)
+
 * [Android 插件化原理解析——Service的插件化](http://weishu.me/2016/05/11/understand-plugin-framework-service/)
 * [Android插件化原理解析——广播的管理](http://weishu.me/2016/04/12/understand-plugin-framework-receiver/)
 * [Android 插件化原理解析——插件加载机制](http://weishu.me/2016/04/05/understand-plugin-framework-classloader/)
@@ -94,9 +73,10 @@
 
 * [Parcel分析](http://blog.csdn.net/jacklam200/article/details/37910861)
 
-* [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85)
+* [开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/要做一个有冒险精神的人！开启漫漫的agera之旅)
 
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
+
 * [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html)
 * [Http2.0的那些事](http://mrpeak.cn/blog/http2/)
 * [理解RxJava的线程模型](http://colobu.com/2016/07/25/understanding-rxjava-thread-model/)
@@ -115,7 +95,7 @@
 * [React Native 开发之 IDE 选型和配置](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112392&idx=1&sn=135e29ddde3050d469be98db815c267e&scene=0&key=18e81ac7415f67c4bcc2eaac3ca13f8d294ec1b8fa5828d4d7f13f2e81cc62f72e55e828ee04e2002284521336a3766d&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=IYYr6c4vUnT0%2Bavp7Kh4QX0%2F3Due6hVy8D0M%2FE3HusZ%2B3%2BljLKzmZgKeEGJNzgOF)
 * [从linux到android，进程的方方面面](http://www.jianshu.com/p/d80d5d0f7dbe)
 * [安卓跨进程点击事件的解决方案](https://mp.weixin.qq.com/s?__biz=MjM5ODY4ODIxOA==&mid=2653199724&idx=1&sn=4162df42fc6b4c9acd3a2d726a2a4939&scene=1&srcid=0616j2SnQztkGM9tJMTrs1CU&key=18e81ac7415f67c43df1b9b4ce127e11e2e5a72ea99919edebe05f3bb261b1066706ee4a8855f0a1658f316a42d17f16&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F1808%29&version=11020201&pass_ticket=IYYr6c4vUnT0%2Bavp7Kh4QX0%2F3Due6hVy8D0M%2FE3HusZ%2B3%2BljLKzmZgKeEGJNzgOF)
-* [Android逆向之旅—动态方式破解apk终极篇\(应对加固apk破解方式\)](http://www.wjdiankong.cn/blog/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-%E5%8A%A8%E6%80%81%E6%96%B9%E5%BC%8F%E7%A0%B4%E8%A7%A3apk%E7%BB%88%E6%9E%81%E7%AF%87%E5%BA%94%E5%AF%B9%E5%8A%A0%E5%9B%BAapk%E7%A0%B4%E8%A7%A3%E6%96%B9/)
+* [Android逆向之旅—动态方式破解apk终极篇\(应对加固apk破解方式\)](http://www.wjdiankong.cn/blog/android逆向之旅-动态方式破解apk终极篇应对加固apk破解方/)
 * [安卓动态调试七种武器之长生剑 - Smali Instrumentation](http://drops.wooyun.org/papers/6045)
 * [安卓动态调试七种武器之孔雀翎 – Ida Pro](http://drops.wooyun.org/tips/6840#more-6840)
 * [安卓动态调试七种武器之离别钩 – Hooking \(上\)](http://drops.wooyun.org/tips/9300)
@@ -138,7 +118,7 @@
   在Kotlin的Slack上发现的一个分享,内容好熟悉,但是忘了看没看过了,再次记录一下
 * [on LinearLayout Measures](http://helw.net/2016/01/27/on-linearlayout-measures/)
 * [5 tips for preparing for Multi-Window in Android N](https://medium.com/google-developers/5-tips-for-preparing-for-multi-window-in-android-n-7bed803dda64#.y41gopjyl)
-* [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap%E9%9D%A2%E9%9D%A2%E8%A7%82/)
+* [Android Bitmap面面观](http://jayfeng.com/2016/03/22/Android-Bitmap面面观/)
 * [Kotlin 语言高级安卓开发入门](https://realm.io/cn/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
 * \[Java 8 特性 – 终极手册
   \]\([http:\/\/ifeve.com\/java-8-features-tutorial\/](http://ifeve.com/java-8-features-tutorial/)\)
@@ -158,7 +138,7 @@
 * [并发之痛 Thread，Goroutine，Actor](http://jolestar.com/parallel-programming-model-thread-goroutine-actor/?from=timeline&isappinstalled=0)
 * [中文的Fresco源码解读](https://github.com/desmond1121/Fresco-Source-Analysis)
 * [为什么我不再使用 MVC 框架？](http://www.oschina.net/news/71174/why-i-not-use-mvc-anymore)
-* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[](https://github.com/apple/swift/pull/1442)[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
+* [\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https:\/\/github.com\/apple\/swift\/pull\/1442\)](https://github.com/apple/swift/pull/1442)[\[\]\(https://github.com/apple/swift/pull/1442\)\[RFC\]](https://github.com/apple/swift/pull/1442)[ Port to Android \#1442](https://github.com/apple/swift/pull/1442)
 * [Tessellation for OpenGL ES 3.1 on Android](https://software.intel.com/en-us/articles/tessellation-for-opengl-es-31-on-android)
 * [EXT\_tessellation\_shader](https://www.khronos.org/registry/gles/extensions/EXT/EXT_tessellation_shader.txt)
 * [要写易删除，而不易扩展的代码](http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/)    
@@ -190,7 +170,7 @@
 * [一种基于动态插件系统的移动测试黑科技](http://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=401273258&idx=1&sn=3fcb88a9681f55209fc240064965c5bc)
 * [Android安全–Dex文件格式详解](http://www.blogfshare.com/dex-format.html)
 * [Android应用启动优化:一种DelayLoad的实现和原理\(上篇\)](http://www.androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
-* [Android应用启动优化:一种DelayLoad的实现和原理\(下篇\)](http://androidperformance.com/2015/12/29/Android%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E4%BC%98%E5%8C%96-%E4%B8%80%E7%A7%8DDelayLoad%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%92%8C%E5%8E%9F%E7%90%86-%E4%B8%8B%E7%AF%87.html)
+* [Android应用启动优化:一种DelayLoad的实现和原理\(下篇\)](http://androidperformance.com/2015/12/29/Android应用启动优化-一种DelayLoad的实现和原理-下篇.html)
 * [深入理解Android（二）：Java虚拟机Dalvik](http://www.infoq.com/cn/articles/android-in-depth-dalvik)
 * [深入理解Android（三）：Xposed详解](http://www.infoq.com/cn/articles/android-in-depth-xposed?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 * [算法专辑](http://www.cppblog.com/menjitianya/category/20893.html)
@@ -220,7 +200,7 @@
 * [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
 * [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
 * [Android Context完全解析，你所不知道的Context的各种细节](http://blog.csdn.net/guolin_blog/article/details/47028975)
-* [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+* [Android打包的那些事](http://www.jayfeng.com/2015/11/07/Android打包的那些事/)
 * [加速你的 Android 应用](http://gold.xitu.io/entry/563ae1b560b216575c53c3d6)
 * [微信ANDROID客户端-会话速度提升70%的背后](2015-09-03/weixin_android1.md)
 * [Android微信智能心跳方案](2015-09-03/weixin_android1.md)
@@ -229,7 +209,7 @@
 * [RxJava操作符学习笔记](http://www.jianshu.com/p/88779bda6691)
 * [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
 * [MAT - Memory Analyzer Tool 使用进阶](http://www.lightskystreet.com/2015/09/01/mat_usage/)
-* [Android最佳实践](http://www.lightskystreet.com/categories/Android%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+* [Android最佳实践](http://www.lightskystreet.com/categories/Android最佳实践/)
 * [Swift 函数式编程实践](http://codebuild.me/2015/09/15/swift-functional-programming-intro/)
 * [Swift专题页](http://www.cocoachina.com/special/swift/?utm_source=tuicool)
 * [Android5.1 Art Hook 技术分享](http://bbs.csdn.net/topics/391830980)
@@ -292,7 +272,7 @@
 
 * [TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones](http://www.appanalysis.org/tdroid10.pdf)
 * [AppTrace: Dynamic Trace on Android Devices](https://daoyuan14.github.io/papers/ICC15_AppTrace.pdf)
-* [THAW: Tangible Interaction with See-Through Augmentation for Smartphones on Computer Screens](http://tmg-trackr.media.mit.edu/publishedmedia/Papers/545-THAW%20Tangible%20Interaction%20with/Published/PDF) 
+* [THAW: Tangible Interaction with See-Through Augmentation for Smartphones on Computer Screens](http://tmg-trackr.media.mit.edu/publishedmedia/Papers/545-THAW Tangible Interaction with/Published/PDF) 
 * [SAFEDISPATCH: Securing C++ Virtual Calls from Memory Corruption Attacks](https://cseweb.ucsd.edu/~lerner/papers/ndss14.pdf)
 
 ## 经典文章
@@ -303,30 +283,30 @@
 4. [安卓启动过程深入解析](http://www.admin10000.com/document/4595.html)    
 5. [Android源码分析-全面理解Context](http://blog.csdn.net/singwhatiwanna/article/details/21829971)
 6. [Android学习笔记之AndroidManifest.xml文件解析](http://www.cnblogs.com/jenson138/p/4016265.html)    
-  这篇文章总结的不是很好，后面我会整理一份完整的
+   这篇文章总结的不是很好，后面我会整理一份完整的
 7. [Android中程序的停止状态](http://droidyue.com/blog/2014/07/14/look-inside-android-package-stop-state-since-honeycomb-mr1/)    
-  Android3.1\(API12\)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
+   Android3.1\(API12\)之后，Android引入了一套新的启动控制。处于停止状态的应用无法进行接收广播等操作。
 8. [Linux inotify功能及实现原理](http://blog.csdn.net/myarrow/article/details/7096460)    
-  介绍Linux内核如何用通知用户空间程序文件系统变化。
+   介绍Linux内核如何用通知用户空间程序文件系统变化。
 9. [JVM相关](http://www.importnew.com/1774.html)    
-  介绍了Java虚拟机的运行机制以及新一代JVM的设计思路。
+   介绍了Java虚拟机的运行机制以及新一代JVM的设计思路。
 10. [JVM必备指南](http://www.importnew.com/13556.html)
 11. \[Android系统的智能指针（轻量级指针、强指针和弱指针）的实现原理分析
-  \]\([http:\/\/blog.csdn.net\/luoshengyang\/article\/details\/6786239](http://blog.csdn.net/luoshengyang/article/details/6786239)\)
+    \]\([http:\/\/blog.csdn.net\/luoshengyang\/article\/details\/6786239](http://blog.csdn.net/luoshengyang/article/details/6786239)\)
 12. Android Monkey源码分析    
-  [Android Monkey源码分析一](http://bloodysofiya.blog.163.com/blog/static/116562343200911305445801/)    
-  \[Android Monkey源码分析二 
-  \]\([http:\/\/bloodysofiya.blog.163.com\/blog\/static\/116562343200911305442272\/](http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/)\)
+    [Android Monkey源码分析一](http://bloodysofiya.blog.163.com/blog/static/116562343200911305445801/)    
+    \[Android Monkey源码分析二 
+    \]\([http:\/\/bloodysofiya.blog.163.com\/blog\/static\/116562343200911305442272\/](http://bloodysofiya.blog.163.com/blog/static/116562343200911305442272/)\)
 13. [ClassNotFoundException和NoClassDefFoundError的区别](http://www.kankanews.com/ICkengine/archives/56127.shtml)
 14. [LINUX文件系统结构](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201837778&idx=2&sn=fa61d0c2486f7d2f932711fd67943d7c#rd)
 15. [5种服务器网络编程模型讲解](http://mp.weixin.qq.com/s?__biz=MjM5NzA1MTcyMA==&mid=201655747&idx=2&sn=a751865e2a897cb8866651be8e36d0c6#rd)
 16. [Android Intent.FLAG\_NEW\_TASK详解，包括其他的标记的一些解释](http://www.cnblogs.com/xiaoQLu/archive/2012/07/17/2595294.html)
 17. Android -- 事件传递机制
-  [http:\/\/www.cnblogs.com\/yydcdut\/p\/3907743.html](http://www.cnblogs.com/yydcdut/p/3907743.html)
-  [http:\/\/www.infoq.com\/cn\/articles\/android-event-delivery-mechanism](http://www.infoq.com/cn/articles/android-event-delivery-mechanism)
-  [http:\/\/blog.csdn.net\/xiaanming\/article\/details\/21696315](http://blog.csdn.net/xiaanming/article/details/21696315)
-  [Android View、ViewGroup 事件分发机制\(一\)](http://blog.csdn.net/wuchuang127/article/details/39206655)    
-  [Android 窗口](http://blog.csdn.net/windskier/article/details/6966264)    
+    [http:\/\/www.cnblogs.com\/yydcdut\/p\/3907743.html](http://www.cnblogs.com/yydcdut/p/3907743.html)
+    [http:\/\/www.infoq.com\/cn\/articles\/android-event-delivery-mechanism](http://www.infoq.com/cn/articles/android-event-delivery-mechanism)
+    [http:\/\/blog.csdn.net\/xiaanming\/article\/details\/21696315](http://blog.csdn.net/xiaanming/article/details/21696315)
+    [Android View、ViewGroup 事件分发机制\(一\)](http://blog.csdn.net/wuchuang127/article/details/39206655)    
+    [Android 窗口](http://blog.csdn.net/windskier/article/details/6966264)    
 18. [Android布局优化](http://www.infoq.com/cn/articles/android-optimise-layout)
 19. [Android：剖析源码，随心所欲控制Toast显示](http://www.cnblogs.com/net168/p/4058193.html)
 20. [深入理解Android的密度独立性](http://www.captechconsulting.com/blogs/understanding-density-independence-in-android)
@@ -345,5 +325,6 @@
 30. [Android最佳性能实践\(3\)：高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
 
 31. [Android最佳性能实践\(4\)：布局优化技巧](http://blog.csdn.net/guolin_blog/article/details/43376527)
+
 
 
