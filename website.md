@@ -137,10 +137,10 @@
 * [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
 * [http://www.free-engineering-books.com/](http://www.free-engineering-books.com/)
 * [http://mebook.cc/](http://mebook.cc/)
-
+* https://smtebooks.com/
 # Blog
 
-[http://shipilev.net/](http://shipilev.net/)  
+  [http://shipilev.net/](http://shipilev.net/)  
 [http://thinkingeek.com/](http://thinkingeek.com/)  
 [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
 
