@@ -131,11 +131,7 @@
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
 * [逼格ppt](http://www.tretars.com/)
-* [http://www.0daydown.com/](http://www.0daydown.com/)
-* [http://hifor.net/ebook/](http://hifor.net/ebook/)
-* [https://www.dmoz.org/](https://www.dmoz.org/)
 * [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
-* [http://www.free-engineering-books.com/](http://www.free-engineering-books.com/)
 * [http://mebook.cc/](http://mebook.cc/)
 * https://smtebooks.com/
 # Blog
