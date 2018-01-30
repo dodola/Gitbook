@@ -128,7 +128,6 @@
 * [http://www.0daydown.com/](http://www.0daydown.com/)
 * http://hifor.net/ebook/
 * https://lyneteam.eu/Cours/
-* http://www.free-engineering-books.com/
 * http://mebook.cc/
 
 # Blog
