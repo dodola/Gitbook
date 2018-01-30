@@ -129,6 +129,7 @@
 * http://hifor.net/ebook/
 * https://lyneteam.eu/Cours/
 * http://mebook.cc/
+* https://smtebooks.com/
 
 # Blog
 
