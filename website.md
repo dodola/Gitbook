@@ -193,11 +193,6 @@
 
 [collectui](http://collectui.com/)
 
-## 科学上网
-
-[niuxss](https://niuxss.com)  
-[lanyus](http://idea.lanyus.com/)
-
 ## 微信号
 
 * WeMobileDev
