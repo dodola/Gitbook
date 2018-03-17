@@ -135,6 +135,7 @@
 * [http://mebook.cc/](http://mebook.cc/)
 * https://smtebooks.com/
 * https://getfreetutorial.com/
+* http://finelybook.com/
 
 # Blog
 
