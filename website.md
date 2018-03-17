@@ -134,11 +134,13 @@
 * [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
 * [http://mebook.cc/](http://mebook.cc/)
 * https://smtebooks.com/
+* https://getfreetutorial.com/
+
 # Blog
 
-  [http://shipilev.net/](http://shipilev.net/)  
-[http://thinkingeek.com/](http://thinkingeek.com/)  
-[https://www.davespace.co.uk/](https://www.davespace.co.uk/)
+* [http://shipilev.net/](http://shipilev.net/)  
+* [http://thinkingeek.com/](http://thinkingeek.com/)  
+* [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
 
 # Design
 
