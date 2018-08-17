@@ -24,6 +24,9 @@ https://github.com/LLVM-but-worse/jda
 
 https://github.com/facebook/redex
 
+http://bytebuddy.net/#/
+
+https://github.com/Sable/soot
 ## 反编译
 [Krakatau](https://github.com/Storyyeller/Krakatau)
 [FernFlower](https://github.com/fesh0r/fernflower)
