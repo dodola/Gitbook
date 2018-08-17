@@ -41,3 +41,7 @@ https://github.com/Sable/soot
 
 
 [Java_Bytecode_Verification](https://downloads.ctfassets.net/oxjq45e8ilak/2SP89wQio8Ye6EEuy2McyK/6407e07416de0119be00c63bf2c8b1f9/Nikita_Lipsky._Java_Bytecode_Verification.pdf)
+
+[Efficient Inferene of Static Types for Java Byteode
+](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.9657&rep=rep1&type=pdf)
+
