@@ -9,6 +9,21 @@ https://asm.ow2.io/
 https://commons.apache.org/proper/commons-bcel/
 
 https://github.com/Konloch/bytecode-viewer
+
+https://github.com/jboss-javassist/javassist
+
+https://github.com/ingokegel/jclasslib
+
+https://github.com/Col-E/Recaf
+
+https://github.com/GraxCode/JByteMod-Beta
+
+https://github.com/borisf/classyshark-bytecode-viewer
+
+https://github.com/LLVM-but-worse/jda
+
+https://github.com/facebook/redex
+
 ## 反编译
 [Krakatau](https://github.com/Storyyeller/Krakatau)
 [FernFlower](https://github.com/fesh0r/fernflower)
