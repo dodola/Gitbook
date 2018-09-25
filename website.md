@@ -134,6 +134,7 @@
 * [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
 * [http://mebook.cc/](http://mebook.cc/)
 * https://smtebooks.com/
+* http://www.java1234.com/
 # Blog
 
   [http://shipilev.net/](http://shipilev.net/)  
