@@ -117,6 +117,7 @@
 * [slideslive](https://slideslive.com/)
 * [dev.to](https://dev.to/)
 * [droidsec](http://www.droidsec.cn/)
+* [前端精读周刊](https://github.com/dt-fe/weekly)
 
 # 资源站
 
