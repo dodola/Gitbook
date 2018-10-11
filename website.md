@@ -9,7 +9,7 @@
 [Kotlin](https://kotlinlang.slack.com/messages/general/)
 
 ## Development
-
+* [HackerNews](https://news.ycombinator.com/)
 * [腾讯移动品质中心](http://tmq.qq.com/)
 * [传送门](http://chuansong.me/) 微信公众号文章推荐
 * [speakerdeck](https://speakerdeck.com/)
