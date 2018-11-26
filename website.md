@@ -49,6 +49,7 @@
 * [Standard C 语言标准函数库速查](http://ganquan.info/standard-c/)
 
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
+
 * [技术小黑屋](http://droidyue.com/)
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [Android Weekly](http://androidweekly.net/)
@@ -68,6 +69,7 @@
 * [ImportNew](http://www.importnew.com/)
 
 * [Android Cool Posts](http://greenrobot.me/)
+
 * [美团技术团队](http://tech.meituan.com/)
 * [开发技术前线](http://www.devtf.cn/?cat=2)
 * [泡在网上的日子](http://www.jcodecraeer.com/)
@@ -79,6 +81,7 @@
 * [伯乐在线](http://www.jobbole.com/)
 
 * [码农周刊](http://weekly.manong.io/)
+
 * [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
 * [关注黑客与极客](http://www.freebuf.com/)
@@ -108,6 +111,7 @@
 * [slideslive](https://slideslive.com/)
 
 * [dev.to](https://dev.to/)
+
 * [droidsec](http://www.droidsec.cn/)
 * [前端精读周刊](https://github.com/dt-fe/weekly)
 
@@ -167,6 +171,7 @@
 
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
 * [ics2017](https://www.gitbook.com/book/nju-ics/ics2017-programming-assignment/details)
+* http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf
 
 ### Design
 
@@ -192,7 +197,7 @@
 * [https://www.evilsocket.net/](https://www.evilsocket.net/)
 * [http://shadowwhowalks.blogspot.com/](http://shadowwhowalks.blogspot.com/)
 * [https://4hou.win/wordpress/](https://4hou.win/wordpress/)
-* https://danluu.com/
+* [https://danluu.com/](https://danluu.com/)
 
 
 
