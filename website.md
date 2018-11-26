@@ -2,7 +2,7 @@
 
 ### Study
 
-* [计蒜客 2.0 ](http://www.jisuanke.com/course)    
+* [计蒜客 2.0 ](http://www.jisuanke.com/course)
 
   新型计算机在线教育产品发布重大更新，更有来自 ACM 金牌大神的算法课程
 
@@ -47,6 +47,7 @@
   推酷专注于IT领域的信息挖掘和推荐
 
 * [Standard C 语言标准函数库速查](http://ganquan.info/standard-c/)
+
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
 * [技术小黑屋](http://droidyue.com/)
 * [AndroidDevTools](http://www.androiddevtools.cn/)
@@ -65,6 +66,7 @@
   Search code from over 7,000,000 projects.
 
 * [ImportNew](http://www.importnew.com/)
+
 * [Android Cool Posts](http://greenrobot.me/)
 * [美团技术团队](http://tech.meituan.com/)
 * [开发技术前线](http://www.devtf.cn/?cat=2)
@@ -75,6 +77,7 @@
   致力于整理 GitHub 前端资源库，分类归档，并提供原创中文文档翻译
 
 * [伯乐在线](http://www.jobbole.com/)
+
 * [码农周刊](http://weekly.manong.io/)
 * [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
@@ -98,11 +101,12 @@
 * [Duke大学](http://www.cs.duke.edu/education/courses/)
 * [cdf.toronto](http://www.cdf.toronto.edu/cs_courses/current_course_web_pages.html)
 * [React Example](https://react.rocks/)
-* [speakerdeck](https://speakerdeck.com/c/programming)   
+* [speakerdeck](https://speakerdeck.com/c/programming)
 
   Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 
 * [slideslive](https://slideslive.com/)
+
 * [dev.to](https://dev.to/)
 * [droidsec](http://www.droidsec.cn/)
 * [前端精读周刊](https://github.com/dt-fe/weekly)
@@ -188,4 +192,7 @@
 * [https://www.evilsocket.net/](https://www.evilsocket.net/)
 * [http://shadowwhowalks.blogspot.com/](http://shadowwhowalks.blogspot.com/)
 * [https://4hou.win/wordpress/](https://4hou.win/wordpress/)
+* https://danluu.com/
+
+
 
