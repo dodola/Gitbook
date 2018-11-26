@@ -51,6 +51,7 @@
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
 
 * [技术小黑屋](http://droidyue.com/)
+
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [Android Weekly](http://androidweekly.net/)
 * [Android开发技术周报](http://www.androidweekly.cn/)
@@ -71,6 +72,7 @@
 * [Android Cool Posts](http://greenrobot.me/)
 
 * [美团技术团队](http://tech.meituan.com/)
+
 * [开发技术前线](http://www.devtf.cn/?cat=2)
 * [泡在网上的日子](http://www.jcodecraeer.com/)
 * [Engineering at Facebook](https://code.facebook.com/)
@@ -83,6 +85,7 @@
 * [码农周刊](http://weekly.manong.io/)
 
 * [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
+
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
 * [关注黑客与极客](http://www.freebuf.com/)
 * [360安全播报](http://bobao.360.cn/index/index)
@@ -113,6 +116,7 @@
 * [dev.to](https://dev.to/)
 
 * [droidsec](http://www.droidsec.cn/)
+
 * [前端精读周刊](https://github.com/dt-fe/weekly)
 
 ## 资源站
@@ -171,7 +175,8 @@
 
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
 * [ics2017](https://www.gitbook.com/book/nju-ics/ics2017-programming-assignment/details)
-* http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf
+* [http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf](http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf)
+* http://www.staroceans.org/kernel-and-driver/%5BEmbedded.Android\(2013.3\)%5D.Karim.Yaghmour.pdf
 
 ### Design
 
