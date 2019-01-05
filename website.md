@@ -136,6 +136,8 @@
 * [http://mebook.cc/](http://mebook.cc/)
 * [https://smtebooks.com/](https://smtebooks.com/)
 * [http://www.java1234.com/](http://www.java1234.com/)
+* https://sharpbook.net
+* https://www.foxebook.net/
 
   **Blog**
 
