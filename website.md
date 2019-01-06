@@ -193,6 +193,7 @@
 * baiduqa 百度质量部公众号
 
 ## Blog
+* https://mrale.ph/
 * http://tinylab.org/
 * [barta](https://barta.me/)
 * [mzuker](https://mzucker.github.io/)
@@ -205,6 +206,8 @@
 * [http://shadowwhowalks.blogspot.com/](http://shadowwhowalks.blogspot.com/)
 * [https://4hou.win/wordpress/](https://4hou.win/wordpress/)
 * [https://danluu.com/](https://danluu.com/)
+* https://102.alibaba.com/tech/index/
+* http://92node.com/
 
 
 
