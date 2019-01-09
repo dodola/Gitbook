@@ -138,6 +138,7 @@
 * [http://www.java1234.com/](http://www.java1234.com/)
 * https://sharpbook.net
 * https://www.foxebook.net/
+* https://www.jqhtml.com/down/category/resources
 
   **Blog**
 
