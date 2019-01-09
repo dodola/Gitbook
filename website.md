@@ -193,6 +193,7 @@
 * baiduqa 百度质量部公众号
 
 ## Blog
+* https://blog.0x972.info/index.php
 * https://mrale.ph/
 * http://tinylab.org/
 * [barta](https://barta.me/)
