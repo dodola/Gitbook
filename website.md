@@ -194,6 +194,7 @@
 * baiduqa 百度质量部公众号
 
 ## Blog
+* https://www.aosabook.org/en/index.html
 * https://blog.0x972.info/index.php
 * https://mrale.ph/
 * http://tinylab.org/
