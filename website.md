@@ -139,6 +139,8 @@
 * https://sharpbook.net
 * https://www.foxebook.net/
 * https://www.jqhtml.com/down/category/resources
+* https://repo.zenk-security.com/
+* http://it-ebooks.info/
 
   **Blog**
 
