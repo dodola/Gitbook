@@ -122,7 +122,6 @@
 ## 资源站
 
 * [搬书酱](http://www.banshujiang.cn/)
-* [it-ebooks](http://it-ebooks.directory/)
 * [http://ebook-dl.com/](http://ebook-dl.com/)
 * [小木虫](http://emuch.net/)
 * [bookdl](http://bookdl.com/) ebook download
