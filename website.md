@@ -140,12 +140,8 @@
 * https://www.jqhtml.com/down/category/resources
 * https://repo.zenk-security.com/
 * http://it-ebooks.info/
+* https://b-ok.cc/
 
-  **Blog**
-
-  [http://shipilev.net/](http://shipilev.net/)  
-  [http://thinkingeek.com/](http://thinkingeek.com/)  
-  [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
 
 ## Design
 
@@ -164,7 +160,6 @@
 ### Other
 
 * [Coding Ground.](http://www.tutorialspoint.com/codingground.htm)
-* [panc](http://www.panc.cc/) 很好用的网盘搜索
 * [bintray](https://bintray.com)
 * [深入理解计算机系统](http://csapp.cs.cmu.edu/3e/home.html)
 * [卡内基梅隆](http://www.cs.cmu.edu/)
@@ -216,6 +211,8 @@
 * http://92node.com/
 * https://thinkingeek.com/
 * http://codemachine.com/index.html
-
+* [http://shipilev.net/](http://shipilev.net/)  
+* [http://thinkingeek.com/](http://thinkingeek.com/)  
+* [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
 
 
