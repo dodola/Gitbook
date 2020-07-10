@@ -47,11 +47,8 @@
   推酷专注于IT领域的信息挖掘和推荐
 
 * [Standard C 语言标准函数库速查](http://ganquan.info/standard-c/)
-
 * [AndroidCat安卓书签网](http://www.androidcat.com/)
-
 * [技术小黑屋](http://droidyue.com/)
-
 * [AndroidDevTools](http://www.androiddevtools.cn/)
 * [Android Weekly](http://androidweekly.net/)
 * [Android开发技术周报](http://www.androidweekly.cn/)
@@ -68,11 +65,8 @@
   Search code from over 7,000,000 projects.
 
 * [ImportNew](http://www.importnew.com/)
-
 * [Android Cool Posts](http://greenrobot.me/)
-
 * [美团技术团队](http://tech.meituan.com/)
-
 * [开发技术前线](http://www.devtf.cn/?cat=2)
 * [泡在网上的日子](http://www.jcodecraeer.com/)
 * [Engineering at Facebook](https://code.facebook.com/)
@@ -81,11 +75,8 @@
   致力于整理 GitHub 前端资源库，分类归档，并提供原创中文文档翻译
 
 * [伯乐在线](http://www.jobbole.com/)
-
 * [码农周刊](http://weekly.manong.io/)
-
 * [清华大学 TUNA 镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/#AOSP)
-
 * [科大开源软件镜像服务](http://mirrors.ustc.edu.cn/)
 * [关注黑客与极客](http://www.freebuf.com/)
 * [360安全播报](http://bobao.360.cn/index/index)
@@ -112,36 +103,27 @@
   Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 
 * [slideslive](https://slideslive.com/)
-
 * [dev.to](https://dev.to/)
-
 * [droidsec](http://www.droidsec.cn/)
-
 * [前端精读周刊](https://github.com/dt-fe/weekly)
 
 ## 资源站
 
 * [搬书酱](http://www.banshujiang.cn/)
-* [http://ebook-dl.com/](http://ebook-dl.com/)
 * [小木虫](http://emuch.net/)
-* [bookdl](http://bookdl.com/) ebook download
 * [allitebooks](http://www.allitebooks.com/) ebook
-* [ebooks](https://www.ebooks-it.net/)
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
 * [逼格ppt](http://www.tretars.com/)
-* [https://lyneteam.eu/Cours/](https://lyneteam.eu/Cours/)
 * [http://mebook.cc/](http://mebook.cc/)
 * [https://smtebooks.com/](https://smtebooks.com/)
 * [http://www.java1234.com/](http://www.java1234.com/)
-* https://sharpbook.net
-* https://www.foxebook.net/
-* https://www.jqhtml.com/down/category/resources
-* https://repo.zenk-security.com/
-* http://it-ebooks.info/
-* https://b-ok.cc/
-
+* [https://www.foxebook.net/](https://www.foxebook.net/)
+* [https://www.jqhtml.com/down/category/resources](https://www.jqhtml.com/down/category/resources)
+* [https://repo.zenk-security.com/](https://repo.zenk-security.com/)
+* [http://it-ebooks.info/](http://it-ebooks.info/)
+* [https://b-ok.cc/](https://b-ok.cc/)
 
 ## Design
 
@@ -175,7 +157,7 @@
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
 * [ics2017](https://www.gitbook.com/book/nju-ics/ics2017-programming-assignment/details)
 * [http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf](http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf)
-* http://www.staroceans.org/kernel-and-driver/%5BEmbedded.Android\(2013.3\)%5D.Karim.Yaghmour.pdf
+* [http://www.staroceans.org/kernel-and-driver/\[Embedded.Android\(2013.3\)\].Karim.Yaghmour.pdf](http://www.staroceans.org/kernel-and-driver/[Embedded.Android%282013.3%29].Karim.Yaghmour.pdf)
 
 ### Design
 
@@ -190,12 +172,13 @@
 * baiduqa 百度质量部公众号
 
 ## Blog
-* https://eli.thegreenplace.net/
-* http://www.droidsec.cn
-* https://www.aosabook.org/en/index.html
-* https://blog.0x972.info/index.php
-* https://mrale.ph/
-* http://tinylab.org/
+
+* [https://eli.thegreenplace.net/](https://eli.thegreenplace.net/)
+* [http://www.droidsec.cn](http://www.droidsec.cn)
+* [https://www.aosabook.org/en/index.html](https://www.aosabook.org/en/index.html)
+* [https://blog.0x972.info/index.php](https://blog.0x972.info/index.php)
+* [https://mrale.ph/](https://mrale.ph/)
+* [http://tinylab.org/](http://tinylab.org/)
 * [barta](https://barta.me/)
 * [mzuker](https://mzucker.github.io/)
 * [upday tech blog](https://upday.github.io/)
@@ -207,12 +190,12 @@
 * [http://shadowwhowalks.blogspot.com/](http://shadowwhowalks.blogspot.com/)
 * [https://4hou.win/wordpress/](https://4hou.win/wordpress/)
 * [https://danluu.com/](https://danluu.com/)
-* https://102.alibaba.com/tech/index/
-* http://92node.com/
-* https://thinkingeek.com/
-* http://codemachine.com/index.html
+* [https://102.alibaba.com/tech/index/](https://102.alibaba.com/tech/index/)
+* [http://92node.com/](http://92node.com/)
+* [https://thinkingeek.com/](https://thinkingeek.com/)
+* [http://codemachine.com/index.html](http://codemachine.com/index.html)
 * [http://shipilev.net/](http://shipilev.net/)  
 * [http://thinkingeek.com/](http://thinkingeek.com/)  
 * [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
-
+* [https://www.twblogs.net/](https://www.twblogs.net/)
 
