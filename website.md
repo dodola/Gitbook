@@ -110,12 +110,10 @@
 ## 资源站
 
 * [搬书酱](http://www.banshujiang.cn/)
-* [小木虫](http://emuch.net/)
 * [allitebooks](http://www.allitebooks.com/) ebook
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
-* [逼格ppt](http://www.tretars.com/)
 * [http://mebook.cc/](http://mebook.cc/)
 * [https://smtebooks.com/](https://smtebooks.com/)
 * [http://www.java1234.com/](http://www.java1234.com/)
