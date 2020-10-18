@@ -15,12 +15,11 @@
 ### Development
 
 * [HackerNews](https://news.ycombinator.com/)
-* [腾讯移动品质中心](http://tmq.qq.com/)
-* [传送门](http://chuansong.me/) 微信公众号文章推荐
 * [speakerdeck](https://speakerdeck.com/)
+  * Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
 * [google-developers](https://medium.com/google-developers)
 * [webkit css](http://ued.ctrip.com/webkitcss/index.html)
-* [Android 源码搜索](http://osxr.org:8080/android) 
+* [Android 源码搜索 ](https://cs.android.com/)
 * [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 * [菜鸟教程](http://www.runoob.com/) 开始转全栈,前端入门
 * [blackhat](https://www.blackhat.com/) 有很多安全方面的文档
@@ -81,7 +80,6 @@
 * [关注黑客与极客](http://www.freebuf.com/)
 * [360安全播报](http://bobao.360.cn/index/index)
 * [捉虫猎手](http://appscan.360.cn/)
-* [AndroidMirror](http://android-mirror.bugly.qq.com:8080/)
 * [程序员的资料库](http://codecloud.net/)
 * [计算机书籍控](http://bestcbooks.com/)
 * [考据癖](http://localhost-8080.com/)
@@ -90,7 +88,6 @@
 * [medium](https://medium.com/)
 * [devmag](http://devmag.org.za/)
 * [课程图谱博客](http://blog.coursegraph.com/)
-* [课件](http://www.52xuexi.cc/)
 * [jssec](https://www.jssec.org/report)
 * [android experiments](https://www.androidexperiments.com/)
 * [Chrome Experiments](https://www.chromeexperiments.com)
@@ -98,10 +95,6 @@
 * [Duke大学](http://www.cs.duke.edu/education/courses/)
 * [cdf.toronto](http://www.cdf.toronto.edu/cs_courses/current_course_web_pages.html)
 * [React Example](https://react.rocks/)
-* [speakerdeck](https://speakerdeck.com/c/programming)
-
-  Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.
-
 * [slideslive](https://slideslive.com/)
 * [dev.to](https://dev.to/)
 * [droidsec](http://www.droidsec.cn/)
@@ -171,6 +164,12 @@
 
 ## Blog
 
+### 2020
+
+[https://idea.popcount.org/](https://idea.popcount.org/)
+
+### old
+
 * [https://eli.thegreenplace.net/](https://eli.thegreenplace.net/)
 * [http://www.droidsec.cn](http://www.droidsec.cn)
 * [https://www.aosabook.org/en/index.html](https://www.aosabook.org/en/index.html)
@@ -189,11 +188,11 @@
 * [https://4hou.win/wordpress/](https://4hou.win/wordpress/)
 * [https://danluu.com/](https://danluu.com/)
 * [https://102.alibaba.com/tech/index/](https://102.alibaba.com/tech/index/)
-* [http://92node.com/](http://92node.com/)
 * [https://thinkingeek.com/](https://thinkingeek.com/)
 * [http://codemachine.com/index.html](http://codemachine.com/index.html)
 * [http://shipilev.net/](http://shipilev.net/)  
 * [http://thinkingeek.com/](http://thinkingeek.com/)  
 * [https://www.davespace.co.uk/](https://www.davespace.co.uk/)
-* [https://www.twblogs.net/](https://www.twblogs.net/)
+
+
 
