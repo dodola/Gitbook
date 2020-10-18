@@ -166,7 +166,9 @@
 
 ### 2020
 
-[https://idea.popcount.org/](https://idea.popcount.org/)
+* [https://idea.popcount.org/](https://idea.popcount.org/)
+* [https://evilpan.com/](https://evilpan.com/)
+* [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
 
 ### old
 
