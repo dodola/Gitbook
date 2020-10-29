@@ -169,6 +169,7 @@
 * [https://idea.popcount.org/](https://idea.popcount.org/)
 * [https://evilpan.com/](https://evilpan.com/)
 * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
+* [https://zinascii.com/index.html](https://zinascii.com/index.html)
 
 ### old
 
