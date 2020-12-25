@@ -115,6 +115,7 @@
 * [https://repo.zenk-security.com/](https://repo.zenk-security.com/)
 * [http://it-ebooks.info/](http://it-ebooks.info/)
 * [https://b-ok.cc/](https://b-ok.cc/)
+* [https://new.shuge.org/](https://new.shuge.org/) 古籍
 
 ## Design
 
