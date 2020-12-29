@@ -171,6 +171,7 @@
 * [https://evilpan.com/](https://evilpan.com/)
 * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
 * [https://zinascii.com/index.html](https://zinascii.com/index.html)
+* [https://youjiali1995.github.io/](https://youjiali1995.github.io/)
 
 ### old
 
