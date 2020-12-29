@@ -172,6 +172,7 @@
 * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
 * [https://zinascii.com/index.html](https://zinascii.com/index.html)
 * [https://youjiali1995.github.io/](https://youjiali1995.github.io/)
+* [http://www.iotshare.org/](http://www.iotshare.org/)
 
 ### old
 
