@@ -174,6 +174,7 @@
 * [https://youjiali1995.github.io/](https://youjiali1995.github.io/)
 * [http://www.iotshare.org/](http://www.iotshare.org/)
 * [https://pengzhangdev.github.io/](https://pengzhangdev.github.io/)
+* [http://www.phrack.org/index.html](http://www.phrack.org/index.html)
 
 ### old
 
