@@ -170,6 +170,10 @@
 
 ## Blog
 
+### 2021
+
+[http://beej.us/guide/](http://beej.us/guide/)
+
 ### 2020
 
 * [https://idea.popcount.org/](https://idea.popcount.org/)
