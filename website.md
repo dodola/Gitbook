@@ -108,6 +108,7 @@
 ## 资源站
 
 * [搬书酱](http://www.banshujiang.cn/)
+* [http://libgen.rs/](http://libgen.rs/)
 * [allitebooks](http://www.allitebooks.com/) ebook
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
