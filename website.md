@@ -109,6 +109,8 @@
 
 * [搬书酱](http://www.banshujiang.cn/)
 * [http://libgen.rs/](http://libgen.rs/)
+* [https://1lib.us/](https://1lib.us/)
+* [https://zh.b-ok.global/](https://zh.b-ok.global/)
 * [allitebooks](http://www.allitebooks.com/) ebook
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
