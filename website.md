@@ -175,13 +175,18 @@
 
 ### 2021
 
-[http://beej.us/guide/](http://beej.us/guide/)
+{% embed url="http://beej.us/guide/" %}
+
+{% embed url="https://pvk.ca/Blog/archives/" %}
+
+
 
 ### 2020
 
-* [https://idea.popcount.org/](https://idea.popcount.org/)
+{% embed url="https://idea.popcount.org/" %}
+
 * [https://evilpan.com/](https://evilpan.com/)
-* [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
+* * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
 * [https://zinascii.com/index.html](https://zinascii.com/index.html)
 * [https://youjiali1995.github.io/](https://youjiali1995.github.io/)
 * [http://www.iotshare.org/](http://www.iotshare.org/)
