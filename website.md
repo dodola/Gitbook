@@ -179,14 +179,16 @@
 
 {% embed url="https://pvk.ca/Blog/archives/" %}
 
-
+[https://insanecoding.blogspot.com/](https://insanecoding.blogspot.com/)
 
 ### 2020
 
 {% embed url="https://idea.popcount.org/" %}
 
-* [https://evilpan.com/](https://evilpan.com/)
-* * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
+\*\*\*\*[**https://evilpan.com/**](https://evilpan.com/)\*\*\*\*
+
+* [https://evilpan.com](https://evilpan.com/)
+* [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
 * [https://zinascii.com/index.html](https://zinascii.com/index.html)
 * [https://youjiali1995.github.io/](https://youjiali1995.github.io/)
 * [http://www.iotshare.org/](http://www.iotshare.org/)
