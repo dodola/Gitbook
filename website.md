@@ -115,7 +115,7 @@
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
-* [http://mebook.cc/](http://mebook.cc/)
+* [http://booksca.ca/](http://booksca.ca/)
 * [https://smtebooks.com/](https://smtebooks.com/)
 * [http://www.java1234.com/](http://www.java1234.com/)
 * [https://www.foxebook.net/](https://www.foxebook.net/)
