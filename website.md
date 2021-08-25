@@ -124,6 +124,8 @@
 * [http://it-ebooks.info/](http://it-ebooks.info/)
 * [https://b-ok.cc/](https://b-ok.cc/)
 * [https://new.shuge.org/](https://new.shuge.org/) 古籍
+* [https://www.goodepub.com/](https://www.goodepub.com/)
+* [http://www.ebook22.com/](http://www.ebook22.com/)
 
 ## Design
 
