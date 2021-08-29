@@ -182,7 +182,11 @@
 
 {% embed url="https://pvk.ca/Blog/archives/" %}
 
-[https://insanecoding.blogspot.com/](https://insanecoding.blogspot.com/)
+{% embed url="https://insanecoding.blogspot.com/" %}
+
+{% embed url="https://a1ex.online/" %}
+
+
 
 ### 2020
 
