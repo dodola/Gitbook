@@ -126,6 +126,7 @@
 * [https://new.shuge.org/](https://new.shuge.org/) 古籍
 * [https://www.goodepub.com/](https://www.goodepub.com/)
 * [http://www.ebook22.com/](http://www.ebook22.com/)
+* [https://book.zhishikoo.com/](https://book.zhishikoo.com/)
 
 ## Design
 
