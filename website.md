@@ -185,6 +185,8 @@
 
 {% embed url="https://a1ex.online/" %}
 
+{% embed url="https://blogs.oracle.com/linux/?source=:so:tw:or:awr:ksp:::LinuxSocialG" %}
+
 
 
 ### 2020
