@@ -187,6 +187,8 @@
 
 {% embed url="https://blogs.oracle.com/linux/?source=:so:tw:or:awr:ksp:::LinuxSocialG" %}
 
+{% embed url="https://0xc0d1.com/" %}
+
 
 
 ### 2020
