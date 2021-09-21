@@ -1,6 +1,6 @@
 # 网站收集
 
-### Study
+## Study
 
 * [计蒜客 2.0 ](http://www.jisuanke.com/course)
 
@@ -8,11 +8,13 @@
 
 * [纳米学院](https://cn.udacity.com/?_ga=1.55487021.78647273.1463546408)
 
-### Slack
+## Summit
 
-[Kotlin](https://kotlinlang.slack.com/messages/general/)
+{% embed url="https://lpc2021.org/" %}
 
-### Development
+
+
+## Development
 
 * [https://sr.ht/](https://sr.ht/) 类似于github，有很多好玩的库
 * [https://natto.dev/](https://natto.dev/) 
@@ -137,11 +139,17 @@
 * [material-motion](https://www.google.com/design/spec/motion/material-motion.html?utm_source=Android+Weekly&utm_campaign=f7b91895ba-Android_Weekly_205&utm_medium=email&utm_term=0_4eb677ad19-f7b91895ba-337909137)
 * [ibm developerworks](http://www.ibm.com/developerworks/cn/)
 
-### News
+## News
 
-* [wired](http://www.wired.com/)
+{% embed url="http://www.wired.com/" %}
 
-### Other
+
+
+{% embed url="https://news.ycombinator.com/news" %}
+
+
+
+## Other
 
 * [Coding Ground.](http://www.tutorialspoint.com/codingground.htm)
 * [bintray](https://bintray.com)
@@ -154,18 +162,16 @@
 * [https://scotch.io/](https://scotch.io/)
 * [https://www.academia.edu/](https://www.academia.edu/)
 
-### 课件
+## 课件
 
 * [Douglas C. Schmidt's Online Courses and Tutorials](http://www.dre.vanderbilt.edu/~schmidt/courses.html)
 * [ics2017](https://www.gitbook.com/book/nju-ics/ics2017-programming-assignment/details)
 * [http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf](http://www.opersys.com/downloads/cc-slides/android-debug/slides-main-140521.pdf)
 * [http://www.staroceans.org/kernel-and-driver/\[Embedded.Android\(2013.3\)\].Karim.Yaghmour.pdf](http://www.staroceans.org/kernel-and-driver/[Embedded.Android%282013.3%29].Karim.Yaghmour.pdf)
 
-### Design
 
-[collectui](http://collectui.com/)
 
-### 微信号
+## 微信号
 
 * WeMobileDev
 
