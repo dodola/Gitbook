@@ -10,6 +10,10 @@
 
 ## Summit
 
+{% embed url="https://skillsmatter.com/conferences/13590-performance-summit-london\#program" %}
+
+
+
 {% embed url="https://lpc2021.org/" %}
 
 
@@ -182,6 +186,10 @@
 ## Blog
 
 ### 2021
+
+{% embed url="https://johnysswlab.com/" %}
+
+
 
 {% embed url="http://beej.us/guide/" %}
 
