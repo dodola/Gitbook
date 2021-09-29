@@ -187,6 +187,10 @@
 
 ### 2021
 
+{% embed url="https://biriukov.dev/" %}
+
+
+
 {% embed url="https://johnysswlab.com/" %}
 
 
