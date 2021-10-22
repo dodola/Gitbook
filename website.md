@@ -20,7 +20,7 @@
 ## Development
 
 * [https://sr.ht/](https://sr.ht) 类似于github，有很多好玩的库
-* [https://natto.dev/](https://natto.dev) 
+* [https://natto.dev/](https://natto.dev)&#x20;
 
 
 
@@ -34,7 +34,7 @@
 * [菜鸟教程](http://www.runoob.com) 开始转全栈,前端入门
 * [blackhat](https://www.blackhat.com) 有很多安全方面的文档
 * [hitb](http://conference.hitb.org/hitbsecconf2015ams/agenda/)
-* [importnew](http://www.importnew.com) 
+* [importnew](http://www.importnew.com)&#x20;
 * [Bing学术搜索](http://www.bing.com/academic/?FORM=Z9LH2)
 * [汇智网](http://www.hubwiz.com)
 * [谷歌开发者社区](http://chinagdg.org)
@@ -96,7 +96,7 @@
 * [Chrome Experiments](https://www.chromeexperiments.com)
 * [IT博客汇](http://www.wrox.cn)
 * [Duke大学](http://www.cs.duke.edu/education/courses/)
-* [cdf.toronto](http://www.cdf.toronto.edu/cs_courses/current_course_web_pages.html)
+* [cdf.toronto](http://www.cdf.toronto.edu/cs\_courses/current\_course\_web\_pages.html)
 * [React Example](https://react.rocks)
 * [slideslive](https://slideslive.com)
 * [dev.to](https://dev.to)
@@ -178,6 +178,8 @@
 
 ### 2021
 
+{% embed url="https://synthesis.to" %}
+
 {% embed url="https://www.akr-developers.com" %}
 
 {% embed url="https://cs.lmu.edu/~ray" %}
@@ -246,7 +248,7 @@ algorithms languages
 * [https://102.alibaba.com/tech/index/](https://102.alibaba.com/tech/index/)
 * [https://thinkingeek.com/](https://thinkingeek.com)
 * [http://codemachine.com/index.html](http://codemachine.com/index.html)
-* [http://shipilev.net/](http://shipilev.net)  
-* [http://thinkingeek.com/](http://thinkingeek.com)  
+* [http://shipilev.net/](http://shipilev.net) &#x20;
+* [http://thinkingeek.com/](http://thinkingeek.com) &#x20;
 * [https://www.davespace.co.uk/](https://www.davespace.co.uk)
 
