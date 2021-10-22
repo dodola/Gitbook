@@ -178,6 +178,8 @@
 
 ### 2021
 
+{% embed url="https://www.nextptr.com" %}
+
 {% embed url="https://synthesis.to" %}
 
 {% embed url="https://www.akr-developers.com" %}
