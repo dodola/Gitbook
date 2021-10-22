@@ -4,7 +4,7 @@
 * [网站收集](website.md)
 * [工具](tools.md)
 * [开源库](open\_source\_lib.md)
-* [合集](he\_ji.md)
 * [ARM Study](arm-study.md)
 * [书单](shu-dan.md)
 * [Java Bytecode](bytecode.md)
+* [RISC-V](risc-v.md)
