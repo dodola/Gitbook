@@ -178,6 +178,8 @@
 
 ### 2021
 
+{% embed url="https://www.assemblytutorial.com" %}
+
 {% embed url="https://www.nextptr.com" %}
 
 {% embed url="https://synthesis.to" %}
