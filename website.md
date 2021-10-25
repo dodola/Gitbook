@@ -178,6 +178,12 @@
 
 ### 2021
 
+{% embed url="https://nakryiko.com" %}
+bpf
+{% endembed %}
+
+{% embed url="https://www.cppstories.com/p/extra-patreon-content" %}
+
 {% embed url="https://www.assemblytutorial.com" %}
 
 {% embed url="https://www.nextptr.com" %}
