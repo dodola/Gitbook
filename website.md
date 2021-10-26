@@ -178,6 +178,10 @@
 
 ### 2021
 
+{% embed url="https://yuque.com/chaosbot/rust_magazine_2021" %}
+
+
+
 {% embed url="https://nakryiko.com" %}
 bpf
 {% endembed %}
