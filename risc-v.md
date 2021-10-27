@@ -1,6 +1,7 @@
 ---
 description: RISC-V page
-coverY: 0
+cover: https://riscv.org/wp-content/uploads/2020/08/riscv_social.jpg
+coverY: 172.10401891252954
 ---
 
 # RISC-V
