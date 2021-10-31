@@ -6,11 +6,17 @@ coverY: 172.10401891252954
 
 # RISC-V
 
+## LOGAN NANO
+
+{% embed url="https://github.com/riscv-rust/longan-nano" %}
+
 {% embed url="https://lgl88911.gitee.io/2021/02/26/%E5%AE%9E%E9%99%85risc-v%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83-longan-nano" %}
 
 {% embed url="https://longan.sipeed.com/zh" %}
 
 {% embed url="https://www.sigmdel.ca/michel/ha/gd32v/longan_nano_01_en.html#hello" %}
+
+## DOCS
 
 {% embed url="https://rcore-os.github.io/zCore-Tutorial" %}
 
