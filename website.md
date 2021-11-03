@@ -178,7 +178,13 @@
 
 ### 2021
 
+* [https://www.poor.dev/blog/](https://www.poor.dev/blog/)
+
 {% embed url="https://yuque.com/chaosbot/rust_magazine_2021" %}
+
+{% embed url="https://famicom.party/book" %}
+Making NES Games in Assembly
+{% endembed %}
 
 
 

@@ -10,3 +10,5 @@
 * [RISC-V](risc-v.md)
 * [编译器](bian-yi-qi.md)
 * [RUST](rust.md)
+* [算法](suan-fa.md)
+* [Other](other.md)
