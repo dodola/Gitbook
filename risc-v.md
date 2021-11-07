@@ -8,6 +8,8 @@ coverY: 172.10401891252954
 
 ## LOGAN NANO
 
+{% embed url="https://metta.systems/blog/rust-on-longan-nano" %}
+
 {% embed url="https://github.com/riscv-rust/longan-nano" %}
 
 {% embed url="https://lgl88911.gitee.io/2021/02/26/%E5%AE%9E%E9%99%85risc-v%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83-longan-nano" %}
