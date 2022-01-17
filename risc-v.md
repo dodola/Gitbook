@@ -6,7 +6,13 @@ coverY: 172.10401891252954
 
 # RISC-V
 
+## #M5Stamp C3
+
+{% embed url="https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32c3/get-started/index.html" %}
+
 ## LOGAN NANO
+
+{% embed url="https://pramode.net/2019/10/07/rust-on-riscv-board-sipeed-longan-nano" %}
 
 {% embed url="https://metta.systems/blog/rust-on-longan-nano" %}
 

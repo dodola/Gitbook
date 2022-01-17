@@ -15,6 +15,10 @@ Rust Playground IDE
 
 ## Docs
 
+
+
+{% embed url="https://danielkeep.github.io/tlborm/book/README.html" %}
+
 {% embed url="https://doc.rust-lang.org/beta/unstable-book/the-unstable-book.html" %}
 
 {% embed url="https://cheats.rs" %}

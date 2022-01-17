@@ -13,9 +13,7 @@
 
 
 
-{% embed url="https://lpc2021.org/" %}
-
-
+[http://lpc2021.org/](http://lpc2021.org)
 
 ## Development
 
@@ -138,6 +136,8 @@
 
 ## News
 
+{% embed url="https://devtools.fm" %}
+
 {% embed url="http://www.wired.com/" %}
 
 
@@ -177,9 +177,19 @@
 
 ## Blog
 
+### 2022
+
+* [https://jabberwocky.ca/](https://jabberwocky.ca)
+
 ### 2021
 
 * [https://www.poor.dev/blog/](https://www.poor.dev/blog/)
+* [http://www.open-std.org/](http://www.open-std.org)
+* [https://blog.quarkslab.com/index.html](https://blog.quarkslab.com/index.html)
+* [https://www.andreinc.net/](https://www.andreinc.net)
+* [https://justine.lol/](https://justine.lol)
+
+{% embed url="https://foxsen.github.io/archbase" %}
 
 {% embed url="https://yuque.com/chaosbot/rust_magazine_2021" %}
 
