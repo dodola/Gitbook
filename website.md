@@ -180,6 +180,8 @@
 ### 2022
 
 * [https://jabberwocky.ca/](https://jabberwocky.ca)
+* [https://www.leadroyal.cn/](https://www.leadroyal.cn)
+* [https://tanelpoder.com/](https://tanelpoder.com)
 
 ### 2021
 
