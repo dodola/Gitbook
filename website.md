@@ -19,6 +19,7 @@
 
 * [https://sr.ht/](https://sr.ht) 类似于github，有很多好玩的库
 * [https://natto.dev/](https://natto.dev)&#x20;
+* [https://linuxfromscratch.org/](https://linuxfromscratch.org)
 
 
 
@@ -182,6 +183,8 @@
 * [https://jabberwocky.ca/](https://jabberwocky.ca)
 * [https://www.leadroyal.cn/](https://www.leadroyal.cn)
 * [https://tanelpoder.com/](https://tanelpoder.com)
+* [https://cs.lmu.edu/\~ray/](https://cs.lmu.edu/\~ray/)
+* [https://tryhackme.com/room/androidhacking101](https://tryhackme.com/room/androidhacking101)
 
 ### 2021
 

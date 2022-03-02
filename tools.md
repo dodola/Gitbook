@@ -3,6 +3,7 @@
 *   [https://code.sololearn.com/](https://code.sololearn.com)&#x20;
 
     code playground
+* [https://colors.lol/](https://colors.lol)
 *   [onlinedisassembler](https://www.onlinedisassembler.com)&#x20;
 
     &#x20;很好用的hex和assembly转换的工具
