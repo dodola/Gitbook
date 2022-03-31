@@ -1,5 +1,11 @@
 # 工具
 
+### 分析工具
+
+{% embed url="https://github.com/Grigory-Rylov/android-methods-profiler" %}
+Trace 文件分析神器
+{% endembed %}
+
 *   [https://code.sololearn.com/](https://code.sololearn.com)&#x20;
 
     code playground
