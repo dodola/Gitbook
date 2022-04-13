@@ -186,6 +186,7 @@
 * [https://cs.lmu.edu/\~ray/](https://cs.lmu.edu/\~ray/)
 * [https://tryhackme.com/room/androidhacking101](https://tryhackme.com/room/androidhacking101)
 * [https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+* [https://blog.senyuuri.info/posts/](https://blog.senyuuri.info/posts/)
 
 ### 2021
 
