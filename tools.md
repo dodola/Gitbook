@@ -1,6 +1,17 @@
 # 工具
 
-### 分析工具
+###
+
+###
+
+*   [https://www.diagrams.net/blog/dependency-graphs](https://www.diagrams.net/blog/dependency-graphs)
+
+    Text to dependency graph
+*   [https://xosh.org/text-to-diagram/](https://xosh.org/text-to-diagram/)
+
+    Online text to diagram tools
+
+
 
 {% embed url="https://github.com/Grigory-Rylov/android-methods-profiler" %}
 Trace 文件分析神器
