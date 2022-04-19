@@ -20,6 +20,7 @@
 *   [https://heptabase.com/](https://heptabase.com)
 
     A note-taking tool for visual learning.
+*   ![](<.gitbook/assets/image (2).png>)
 
     \
 
