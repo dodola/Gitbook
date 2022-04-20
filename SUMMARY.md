@@ -12,3 +12,4 @@
 * [RUST](rust.md)
 * [算法](suan-fa.md)
 * [Other](other.md)
+* [Blog](blog.md)
