@@ -120,6 +120,7 @@
 * [http://www.ebook22.com/](http://www.ebook22.com)
 * [https://book.zhishikoo.com/](https://book.zhishikoo.com)
 * [https://hackaday.io/](https://hackaday.io)
+* [https://www.book123.info/list?tag=%E7%BC%96%E7%A8%8B](https://www.book123.info/list?tag=%E7%BC%96%E7%A8%8B)
 
 ## Design
 
