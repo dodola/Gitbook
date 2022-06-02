@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Post](README.md)
+* [Blog](blog.md)
 * [网站收集](website.md)
 * [工具](tools.md)
 * [开源库](open\_source\_lib.md)
@@ -12,4 +13,3 @@
 * [RUST](rust.md)
 * [算法](suan-fa.md)
 * [Other](other.md)
-* [Blog](blog.md)
