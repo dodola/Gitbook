@@ -11,6 +11,7 @@
 * [https://blog.senyuuri.info/posts/](https://blog.senyuuri.info/posts/)
 * [https://tromey.com/blog/](https://tromey.com/blog/)
 * [https://klyr.github.io/](https://klyr.github.io/)
+* [https://mcyoung.xyz/](https://mcyoung.xyz/)
 
 ### 2021
 
