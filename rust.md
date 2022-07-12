@@ -15,7 +15,7 @@ Rust Playground IDE
 
 ## Docs
 
-
+{% embed url="https://bfnightly.bracketproductions.com/rustbook/chapter_0.html" %}
 
 {% embed url="https://danielkeep.github.io/tlborm/book/README.html" %}
 
