@@ -12,6 +12,8 @@
 * [https://tromey.com/blog/](https://tromey.com/blog/)
 * [https://klyr.github.io/](https://klyr.github.io/)
 * [https://mcyoung.xyz/](https://mcyoung.xyz/)
+* [https://evilpan.com/](https://evilpan.com/)
+* [https://juejin.cn/user/149189312913511](https://juejin.cn/user/149189312913511)
 
 ### 2021
 
