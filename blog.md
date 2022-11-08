@@ -15,6 +15,7 @@
 * [https://evilpan.com/](https://evilpan.com/)
 * [https://juejin.cn/user/149189312913511](https://juejin.cn/user/149189312913511)
 * [https://www.wdbyte.com/](https://www.wdbyte.com/)
+* [https://kipp.ly/blog/](https://kipp.ly/blog/)
 
 ### 2021
 
