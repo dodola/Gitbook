@@ -17,6 +17,10 @@
 * [https://www.wdbyte.com/](https://www.wdbyte.com/)
 * [https://kipp.ly/blog/](https://kipp.ly/blog/)
 * [https://mrale.ph/](https://mrale.ph/)
+* [https://fuweid.com/](https://fuweid.com/)
+* [http://1.117.71.82/](http://1.117.71.82/)
+* [https://www.rfleury.com/](https://www.rfleury.com/)
+* [https://www.valtrix.in/blog/](https://www.valtrix.in/blog/)
 
 ### 2021
 
