@@ -21,6 +21,7 @@
 * [http://1.117.71.82/](http://1.117.71.82/)
 * [https://www.rfleury.com/](https://www.rfleury.com/)
 * [https://www.valtrix.in/blog/](https://www.valtrix.in/blog/)
+* [http://arthurchiao.art/](http://arthurchiao.art/)
 
 ### 2021
 
