@@ -102,8 +102,6 @@
 
 * [搬书酱](http://www.banshujiang.cn/)
 * [http://libgen.rs/](http://libgen.rs/)
-* [https://1lib.us/](https://1lib.us/)
-* [https://zh.b-ok.global/](https://zh.b-ok.global/)
 * [kindle114](http://www.kindle114.com/)
 * [搜百度盘](http://www.sobaidupan.com/)
 * [鸠摩搜书](https://www.jiumodiary.com/)
@@ -117,6 +115,8 @@
 * [https://book.zhishikoo.com/](https://book.zhishikoo.com/)
 * [https://hackaday.io/](https://hackaday.io/)
 * [https://www.book123.info/list?tag=%E7%BC%96%E7%A8%8B](https://www.book123.info/list?tag=%E7%BC%96%E7%A8%8B)
+
+
 
 ## Design
 
