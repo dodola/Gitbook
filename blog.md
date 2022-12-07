@@ -22,6 +22,7 @@
 * [https://www.rfleury.com/](https://www.rfleury.com/)
 * [https://www.valtrix.in/blog/](https://www.valtrix.in/blog/)
 * [http://arthurchiao.art/](http://arthurchiao.art/)
+* [https://xiaolincoding.com/](https://xiaolincoding.com/)
 
 ### 2021
 
