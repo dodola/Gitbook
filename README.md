@@ -1,13 +1,3 @@
-# Post
+# ChatGpt
 
-## [Blog](./#undefined)
-
-## [网站收集](website.md)
-
-## [工具](tools.md)
-
-## [开源库](open\_source\_lib.md)
-
-## [合集](broken-reference)
-
-## [书单](broken-reference)
+[https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
