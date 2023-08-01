@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ChatGpt](README.md)
+* [LLM](README.md)
 * [Post](<README (1).md>)
 * [Blog](blog.md)
 * [网站收集](website.md)
