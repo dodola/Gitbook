@@ -14,6 +14,8 @@ coverY: 172.10401891252954
 
 * [https://github.com/rcore-os/rCore](https://github.com/rcore-os/rCore)
 * [https://gitlab.eduxiji.net/ultrateam/ultraos](https://gitlab.eduxiji.net/ultrateam/ultraos)
+* [http://rcore-os.cn/arceos-tutorial-book/](http://rcore-os.cn/arceos-tutorial-book/)
+* [https://github.com/rcore-os/arceos](https://github.com/rcore-os/arceos)
 
 ## M5Stamp C3
 
