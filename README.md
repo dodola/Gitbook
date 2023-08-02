@@ -22,6 +22,8 @@
 
 ## OpenSource
 
+{% embed url="https://github.com/stoyan-stoyanov/llmflows" %}
+
 {% @github-files/github-code-block url="https://github.com/shikras/shikra" %}
 
 {% @github-files/github-code-block url="https://github.com/shikras/shikra" %}
