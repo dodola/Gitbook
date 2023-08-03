@@ -18,7 +18,19 @@
 
 ## Courses
 
+
+
+
+
+{% embed url="https://www.bilibili.com/video/BV1UG411p7zv/" %}
+
+
+
+
+
 {% embed url="https://ai.stanford.edu/stanford-ai-courses/" %}
+
+{% embed url="https://www.openbmb.org/community/course" %}
 
 ## OpenSource
 
