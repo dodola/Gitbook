@@ -38,4 +38,7 @@
 
 {% @github-files/github-code-block url="https://github.com/shikras/shikra" %}
 
-{% @github-files/github-code-block url="https://github.com/shikras/shikra" %}
+{% embed url="https://github.com/Alpha-VLLM/LLaMA2-Accessory" %}
+LLaMA2-Accessory an open-source toolkit for pre-training, fine-tuning and deployment of Large Language Models and multimodal LLMs
+{% endembed %}
+
