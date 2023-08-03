@@ -42,3 +42,6 @@
 LLaMA2-Accessory an open-source toolkit for pre-training, fine-tuning and deployment of Large Language Models and multimodal LLMs
 {% endembed %}
 
+{% embed url="https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/" %}
+
+{% embed url="https://github.com/facebookresearch/audiocraft" %}
