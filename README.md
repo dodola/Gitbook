@@ -45,3 +45,5 @@ LLaMA2-Accessory an open-source toolkit for pre-training, fine-tuning and deploy
 {% embed url="https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/" %}
 
 {% embed url="https://github.com/facebookresearch/audiocraft" %}
+
+{% embed url="https://github.com/QwenLM/Qwen-7B/" %}
