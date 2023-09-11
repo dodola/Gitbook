@@ -16,6 +16,7 @@ coverY: 172.10401891252954
 * [https://gitlab.eduxiji.net/ultrateam/ultraos](https://gitlab.eduxiji.net/ultrateam/ultraos)
 * [http://rcore-os.cn/arceos-tutorial-book/](http://rcore-os.cn/arceos-tutorial-book/)
 * [https://github.com/rcore-os/arceos](https://github.com/rcore-os/arceos)
+* [https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
 
 ## M5Stamp C3
 
