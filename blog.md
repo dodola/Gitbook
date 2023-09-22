@@ -1,5 +1,9 @@
 # Blog
 
+### 2023
+
+[https://uni.shreyasminocha.me/](https://uni.shreyasminocha.me/)
+
 ### 2022
 
 * [https://jabberwocky.ca/](https://jabberwocky.ca/)
@@ -90,7 +94,7 @@ algorithms languages
 
 {% embed url="https://idea.popcount.org/" %}
 
-****[**https://evilpan.com/**](https://evilpan.com/)****
+[**https://evilpan.com/**](https://evilpan.com/)
 
 * [https://evilpan.com](https://evilpan.com/)
 * [http://blog.syang.xyz/posts/](http://blog.syang.xyz/posts/)
