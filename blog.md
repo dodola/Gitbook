@@ -4,6 +4,13 @@
 
 * [https://uni.shreyasminocha.me/](https://uni.shreyasminocha.me/)
 * [https://popovicu.com/](https://popovicu.com/)
+* [http://opendatastructures.org/](http://opendatastructures.org/)
+* [https://pubscholar.cn/](https://pubscholar.cn/)
+* [https://kdlp.underground.software/index.md](https://kdlp.underground.software/index.md)
+* [https://lpc.events/event/17/timetable/?view=lpc](https://lpc.events/event/17/timetable/?view=lpc)
+* [https://rust-class.org/pages/classes.html](https://rust-class.org/pages/classes.html)
+* [https://www.sandordargo.com/](https://www.sandordargo.com/)
+* [https://ig.ft.com/generative-ai/](https://ig.ft.com/generative-ai/)
 
 ### 2022
 

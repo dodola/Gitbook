@@ -1,9 +1,9 @@
 # 工具
 
-###
-
-###
-
+* [https://www.aminer.cn/](https://www.aminer.cn/)
+* [https://www.gptshunter.com/](https://www.gptshunter.com/)
+* [https://chatwithpaper.org/](https://chatwithpaper.org/)
+*
 *   [https://www.diagrams.net/blog/dependency-graphs](https://www.diagrams.net/blog/dependency-graphs)
 
     Text to dependency graph
