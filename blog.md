@@ -12,6 +12,7 @@
 * [https://www.sandordargo.com/](https://www.sandordargo.com/)
 * [https://ig.ft.com/generative-ai/](https://ig.ft.com/generative-ai/)
 * [https://modexp.wordpress.com/2018/10/30/arm64-assembly/?ref=0xor0ne.xyz](https://modexp.wordpress.com/2018/10/30/arm64-assembly/?ref=0xor0ne.xyz)
+* [https://bbycroft.net/llm](https://bbycroft.net/llm)
 
 ### 2022
 
