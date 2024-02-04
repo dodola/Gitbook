@@ -1,5 +1,13 @@
 # Blog
 
+
+
+
+
+### 2024
+
+[https://de-engineer.github.io/](https://de-engineer.github.io/)
+
 ### 2023
 
 * [https://uni.shreyasminocha.me/](https://uni.shreyasminocha.me/)
