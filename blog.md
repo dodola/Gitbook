@@ -7,6 +7,8 @@
 ### 2024
 
 * [https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re)
+* [https://lupyuen.github.io/](https://lupyuen.github.io/)
+*
 
 {% embed url="https://de-engineer.github.io/" %}
 
