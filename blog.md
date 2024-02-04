@@ -6,7 +6,9 @@
 
 ### 2024
 
-[https://de-engineer.github.io/](https://de-engineer.github.io/)
+* [https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re)
+
+{% embed url="https://de-engineer.github.io/" %}
 
 ### 2023
 
