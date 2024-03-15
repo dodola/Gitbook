@@ -1,7 +1,7 @@
 # Table of contents
 
-* [LLM](README.md)
-* [Post](<README (1).md>)
+* [Post](README.md)
+* [LLM](<README (1).md>)
 * [Blog](blog.md)
 * [网站收集](website.md)
 * [工具](tools.md)
