@@ -10,6 +10,7 @@
 * [https://lupyuen.github.io/](https://lupyuen.github.io/)
 * [https://ty-chen.github.io/](https://ty-chen.github.io/)
 * [https://hackmd.io/@RinHizakura](https://hackmd.io/@RinHizakura)
+* [https://biriukov.dev/](https://biriukov.dev/)
 
 {% embed url="https://de-engineer.github.io/" %}
 
