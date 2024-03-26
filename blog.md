@@ -6,6 +6,9 @@
 
 ### 2024
 
+*
+*
+* [https://sysprog21.github.io/lkmpg/](https://sysprog21.github.io/lkmpg/)
 * [https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD\_Rn-re)
 * [https://lupyuen.github.io/](https://lupyuen.github.io/)
 * [https://ty-chen.github.io/](https://ty-chen.github.io/)
