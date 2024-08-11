@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Post](README.md)
+* [AI](ai.md)
 * [LLM](<README (1).md>)
 * [Blog](blog.md)
 * [网站收集](website.md)
