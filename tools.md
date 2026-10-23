@@ -55,7 +55,7 @@ Trace 文件分析神器
 * [Kakoune code editor](http://kakoune.org/)\
   一个编辑器，借鉴了vim的很多东西
 * [caret](http://caret.io/)
-* [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net/#/repl)
+* [Coddy Swift Playground](https://coddy.tech/playground/swift)
 * [madoko](https://www.madoko.net/) 微软出的 Markdown 编辑器和渲染库
 * [Piccolo, the tiny CNC-bot](http://www.piccolo.cc/)
 * [ClassShark](https://github.com/google/android-classyshark) 一款可以查看Android可执行文件的浏览工具
